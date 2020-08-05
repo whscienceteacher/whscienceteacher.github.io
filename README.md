@@ -1,29 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my apps
 
-You can use the [editor on GitHub](https://github.com/whscienceteacher/whscienceteacher.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a list of all the apps availible. They are sorted by content area and how you might use them. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Virtual Labs
+These replicate something like you would get with a hands on lab. Students can change things and measure results. 
 
-### Markdown
+### Measurement or Problems
+I think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

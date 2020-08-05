@@ -21,3 +21,5 @@ Think of these as virtual practice problems. Students make measurements and calc
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
+[Pedigree Maker](./pedigree/) - A request of my wife - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
+

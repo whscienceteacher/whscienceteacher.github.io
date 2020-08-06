@@ -33,6 +33,10 @@ These replicate something like you would get with a hands on lab. Students can c
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
 
+[Ants](./ants) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (indcluded digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done. 
+
+[Motion Yes No](./motionyn) - **Physics** - One of the hardest things for my students is keeping a clear distinction between velocity and acceleration. This app helps by putting a moving object in front of them and asking 'is there velocity?", "is there acceleration?", "is the velocity changing?", etc. This is very frustring for the students but I find it to be very helpful. I have many versions of this asking about different quantities and including the direction. There is even a test version if people find it helpful. 
+
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 

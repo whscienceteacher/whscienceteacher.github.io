@@ -11,6 +11,12 @@ This is a list of all the apps available. They are sorted by content area and ho
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
+[Bug In Meadow](./buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
+
+[Mg HCl](./mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs. I made this for a friend so I haven't used it personally but It has been tested by a number of chemistry teachers.
+
+[Rusting](./rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally but It has been tested by a number of chemistry teachers. 
+
 [Cart and Pulley](./cartpulley) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also availible [without directions](./cartpulleynodirections).
 
 [Collisions](./collisions/) - **Physics** - Change masses and initial velocities and measure final velocities.
@@ -21,7 +27,6 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](./rollercoastermotion/) - **Physcs** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
 
-[Bug In Meadow](./buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 

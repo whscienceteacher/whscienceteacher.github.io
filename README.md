@@ -11,9 +11,11 @@ This is a list of all the apps available. They are sorted by content area and ho
 ### Virtual Labs
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
-[Collisions](./collisions/) - Change masses and initial velocities and measure final velocities.
+[Collisions](./collisions/) - **Physics** - Change masses and initial velocities and measure final velocities.
 
-[Roller Coaster Motion](./rollercoastermotion/) - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
+[Roller Coaster Motion](./rollercoastermotion/) - **Physcs** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
+
+[Bug In Meadow](./buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. Remove the "bugs" you see on different backgrounds to see selective pressure over time. This one is old so it isn't the cleanest but it works better than any actual beads on cloth i've seen. 
 
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
@@ -21,5 +23,5 @@ Think of these as virtual practice problems. Students make measurements and calc
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
-[Pedigree Maker](./pedigree/) - A request of my wife - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
+[Pedigree Maker](./pedigree/) - **Biology** - A request of my wife - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
 

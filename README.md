@@ -17,6 +17,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Rusting](./rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally but It has been tested by a number of chemistry teachers. 
 
+[Temperature Solids](./temperaturesolids) - **Chemistry** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally but It has been tested by a number of chemistry teachers. 
+
 [Cart and Pulley](./cartpulley) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also availible [without directions](./cartpulleynodirections).
 
 [Collisions](./collisions/) - **Physics** - Change masses and initial velocities and measure final velocities.
@@ -34,5 +36,9 @@ Think of these as virtual practice problems. Students make measurements and calc
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
+[Blood Pressure Diagram](./bpdiagram/) - **Biology** - A request of my wife - Shows the dial on an analog sphygmomanometer. Can show systolic and diastolic side by side or on the same dial. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
+
 [Pedigree Maker](./pedigree/) - **Biology** - A request of my wife - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
+
+[Energy Bars](./energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 

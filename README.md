@@ -5,7 +5,7 @@ I'm a science teacher in the Chicago Public Schools. For the past 7 years I've b
 
 The apps load on any web connected device and are free for everyone. Student's don't need an account or anything special to access. They just need to load a webpage. 
 
-This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If they help you, consider [supporting their ongoing development on patreon].(https://www.patreon.com/whscienceteacher)
+This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If they help you, consider [supporting their ongoing development on patreon](https://www.patreon.com/whscienceteacher).
 
 
 ### Virtual Labs/Phenomena
@@ -42,3 +42,4 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Energy Bars](./energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 
+Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher).

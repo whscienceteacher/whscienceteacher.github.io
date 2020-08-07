@@ -48,4 +48,4 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Energy Bars](./energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 
-Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher).
+Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com

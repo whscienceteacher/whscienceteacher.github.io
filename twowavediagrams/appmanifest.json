@@ -3,7 +3,7 @@
 	"short_name": "Two Waves Diagrams",
 	"description": "",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [

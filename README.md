@@ -31,6 +31,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](./rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
 
+[Wave Interference](./waveinterference/) - **Physics** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
+
 
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
@@ -49,5 +51,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 [Pedigree Maker](./pedigree/) - **Biology** - A request of my wife's - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
 
 [Energy Bars](./energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
+
+[Two Wave Diagrams](./twowavediagrams) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interfernce. AM and FM support square waves. Can change the wavelength, aplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com

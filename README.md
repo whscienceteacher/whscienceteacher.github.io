@@ -5,7 +5,7 @@ I'm a science teacher in the Chicago Public Schools. For the past 7 years I've b
 
 The apps load on any web connected device and are free for everyone. Student's don't need an account or anything special to access. They just need to load a webpage. 
 
-This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. 
+This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [supporting ongoing development on patreon](https://www.patreon.com/whscienceteacher).
 
 
 ### Virtual Labs/Phenomena
@@ -18,6 +18,8 @@ These replicate something like you would get with a hands on lab. Students can c
 [Rusting](./rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
 [Temperature Solids](./temperaturesolids) - **Chemistry** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
+
+[Ball on Ramp](./ballramp) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
 
 [Cart and Pulley](./cartpulley) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also available  [without directions](./cartpulleynodirections).
 
@@ -48,4 +50,4 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Energy Bars](./energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 
-Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher).
+Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com

@@ -13,7 +13,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Bug In Meadow](./buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
-[Mg HCl](./mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers.
+[Mg HCl](./mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs of compound levels. I made this for a friend so I haven't used it personally, but it has been tested by a number of chemistry teachers.
 
 [Rusting](./rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
@@ -40,6 +40,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 [Gel and Restriction Enzymes](./gelre/) - **Biology** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
 
 [Ants](./ants) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty.
+
+[Measuring g on Moons of Jupiter](./gonmoons/) - **Physics** - Students are given animations of a ball bouncing on four moons of jupiter. They use a digital ruler and stopwatch to measure realistic values of g on each of the moons. I used it as a quiz where students were randomly assigned one of them and had to measure from the bottom to the top of the bounce and then calculate. 
 
 [Motion Yes No](./motionyn) - **Physics** - One of the hardest things for phsyics students is keeping a clear distinction between velocity and acceleration. This app helps by putting a moving object in front of them and asking, 'is there velocity?", "is there acceleration?", "is the velocity changing?", etc. This is very frustrating for the students, but I find it to be very helpful. I have many versions of this asking about different quantities and including the direction. There is even a test version if people find it helpful. Keeps track of number in a row.
 

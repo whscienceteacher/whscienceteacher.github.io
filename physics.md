@@ -3,7 +3,7 @@
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
-[Ball on Ramp](./ballramp) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
+[Ball on Ramp](/ballramp/) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
 
 [Cart and Pulley](./cartpulley) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also available  [without directions](./cartpulleynodirections).
 

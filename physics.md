@@ -17,7 +17,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calcualte g. They can then use that to calcualte a greater distance.  
 
-[Light and Temperature](/lighttemp/) - **Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
+[Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
 
 [Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
 

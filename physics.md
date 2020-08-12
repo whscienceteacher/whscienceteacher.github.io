@@ -34,6 +34,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interfernce. AM and FM support square waves. Can change the wavelength, aplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 
+---
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 

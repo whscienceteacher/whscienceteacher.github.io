@@ -31,6 +31,7 @@ Think of these as virtual practice problems. Students make measurements and calc
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
 [Energy Bars](/energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
+
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interfernce. AM and FM support square waves. Can change the wavelength, aplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 
 

@@ -15,6 +15,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
 
+[Temperature Solids](/temperaturesolids/) - **Chemistry/Physics** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
+
 [Wave Interference](/waveinterference/) - **Physics** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
 
 
@@ -38,4 +40,4 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
-See also: [biology apps](biology.md)
+See also: [biology apps](biology.md) - [chemistry apps](chemistry.md)

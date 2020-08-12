@@ -13,6 +13,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Gel and Restriction Enzymes](/gelre/) - **Biology** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
 
+[Transcription and Translation](/transcriptiontranslation/) - **Biology** - Move base pairs around to transcribe off an open DNA sequence and then act as tRNA and bring in the right amino acid using a chart. I'm going to be honest. This app is so old I don't really remember making it but I tested it out and it seems to work fine. 
+
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 

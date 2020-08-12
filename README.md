@@ -13,6 +13,8 @@ This is a list of all the apps available. They are sorted by content area and ho
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
+[Air Pressure Paper](/airpressurepaper/) - **Chemistry/Physics** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. 
+
 [Bug In Meadow](/buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
 [Mg HCl](/mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs of compound levels. I made this for a friend so I haven't used it personally, but it has been tested by a number of chemistry teachers.
@@ -55,9 +57,11 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Gel and Restriction Enzymes](/gelre/) - **Biology** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
 
+[Transcription and Translation](/transcriptiontranslation/) - **Biology** - Move base pairs around to transcribe off an open DNA sequence and then act as tRNA and bring in the right amino acid using a chart. I'm going to be honest. This app is so old I don't really remember making it but I tested it out and it seems to work fine. 
+
 [Ants](/ants/) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty.
 
-[cars](/cars/)  - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. I also have versions with accelerations if people are interested. 
+[Cars](/cars/)  - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. I also have versions with accelerations if people are interested. 
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
 

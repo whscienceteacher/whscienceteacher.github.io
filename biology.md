@@ -9,6 +9,8 @@ These replicate something like you would get with a hands on lab. Students can c
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
 
+[Bacteria Plate Streaking](/streaking/) - **Biology** - Students practice the procedure of streaking a plate to isolate a bacteria culture. Heavy inspired by [this excellent simulation](http://learn.chm.msu.edu/vibl/content/streakplate.html) out of Michigan State University that unfortunately doesn't work well for remote learning because it requries flash. A request of my wife's. 
+
 [Gel and Restriction Enzymes](/gelre/) - **Biology** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
 
 ### Diagram Makers
@@ -22,5 +24,5 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
-See also: [chemistryapps](chemistry.md) - [physics apps](physics.md)
+See also: [chemistry apps](chemistry.md) - [physics apps](physics.md)
 

@@ -22,5 +22,5 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
-See also: [physics apps](physics.md)
+See also: [chemistryapps](chemistry.md) - [physics apps](physics.md)
 

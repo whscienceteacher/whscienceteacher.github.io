@@ -5,7 +5,7 @@ I'm a science teacher in the Chicago Public Schools. For the past 7 years I've b
 
 The apps load on any web connected device and are free for everyone. Student's don't need an account or anything special to access. They just need to load a webpage. 
 
-This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [supporting ongoing development on patreon](https://www.patreon.com/whscienceteacher).
+This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. 
 
 ### Individual Content Areas ###
 [physics apps](physics.md) - [biology apps](biology.md) - [chemistry apps](chemistry.md)

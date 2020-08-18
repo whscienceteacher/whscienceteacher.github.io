@@ -28,3 +28,4 @@ Check back soon for more. [Support ongoing development on patreon](https://www.p
 
 See also: [chemistry apps](chemistry.md) - [physics apps](physics.md)
 
+{% include plausible.html %}

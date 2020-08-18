@@ -1,5 +1,3 @@
-{% include plausible.html %}
-
 ## Welcome to my apps
 
 ### Who is the Wild Haired Science Teacher?

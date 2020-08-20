@@ -30,7 +30,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
-See also: [biology apps](biology.md) - [physics apps](physics.md)
+See also: [biology apps](biology.md) - [earth & space apps](earthspace.md) - [physics apps](physics.md)
 
 
 {% include plausible.html %}

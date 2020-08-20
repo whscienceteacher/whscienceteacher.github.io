@@ -1,5 +1,7 @@
 ## Physics Apps
 
+Note: many [earth & space apps](/earthspace/) may be helpful in a physics class. 
+
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
@@ -17,9 +19,11 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Electric Car](/electriccar/) - **Physics** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 
 
+[Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
+
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
 
-[Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
+[Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
 
 [Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
 

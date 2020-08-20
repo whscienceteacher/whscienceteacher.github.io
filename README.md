@@ -8,7 +8,7 @@ The apps load on any web connected device and are free for everyone. Student's d
 This is a list of all the apps available. They are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [supporting ongoing development on patreon](https://www.patreon.com/whscienceteacher).
 
 ### Individual Content Areas Pages ###
-[physics apps](physics.md) - [biology apps](biology.md) - [chemistry apps](chemistry.md)
+[physics apps](physics.md) - [earth & space apps](earthspace.md) - [biology apps](biology.md) - [chemistry apps](chemistry.md)
 
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
@@ -25,6 +25,20 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Temperature Solids](/temperaturesolids/) - **Chemistry/Physics** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
+[Water Temperature](/watertemperature/) - **Chemistry** - Place a small beaker of water into a larger dish of water. Can control the initial temperatures and volumes. Shows the temperature over time. Can export data as csv. 
+
+[Atmosphere](/atmosphere/) - **Earth&Space** - Simulation of light energy interacting with CO₂ in the atmosphere. Shows light of different wavelengths from the sun and infrared leaving. 
+
+[Gravity Assist](/gravityassist/) - **Earth&Space** - Students can figure out the conditions for how a spacecraft can use the gravity from a planet to speed up or slow down. 
+
+[ISS Orbit](/issorbit/) - **Earth/Space** - Change the velocity of the ISS to make it orbit the Earth. Helps with understanding how an orbit works.
+
+[Orbit Examples 1](/orbit1/) - **Earth&Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
+
+[Orbit Examples 2](/orbit2/) - **Earth&Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
+
+[Planet Energy](/planetenergy/) - **Earth&Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/)
+
 [Ball on Ramp](/ballramp/) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
 
 [Cannon](/cannon/) - **Physics** - Cannon that fires a ball. You can change the power of the cannon and the angle of fire. Students use a ruler to measure the range of the cannon and a stopwatch to measure air time. There is a fair amount of randomness so students can practice more of the skills in analyzing and interpreting data. 
@@ -37,10 +51,15 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Electric Car](/electriccar/) - **Physics** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 
 
+[Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
+
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
 
+[Motion Graphs](/motiongraphs/ - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
 
-[Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
+[Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
+
+[Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. 
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill.
 

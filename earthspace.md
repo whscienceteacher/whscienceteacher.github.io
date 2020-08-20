@@ -21,7 +21,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
-See also: [biology apps](biology.md) - [chemistry apps](chemistry.md)
+See also: [biology apps](biology.md) - [chemistry apps](chemistry.md) - [physics apps](physics.md)
 
 
 {% include plausible.html %}

@@ -63,7 +63,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill.
 
-[Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. 
+[Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. Also availible [in °C.](/stormsc/)
 
 [Wave Interference](/waveinterference/) - **Physics** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
 

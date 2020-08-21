@@ -33,7 +33,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
 
-[Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. 
+[Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. [in °C.](/stormsc/)
 
 [Temperature Solids](/temperaturesolids/) - **Chemistry/Physics** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 

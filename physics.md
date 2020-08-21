@@ -25,7 +25,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
 
-[Motion Graphs](/motiongraphs/ - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
+[Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
 
 [Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
 

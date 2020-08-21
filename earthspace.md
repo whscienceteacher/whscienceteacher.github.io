@@ -15,7 +15,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Orbit Sweep](/kepler2/) - **Earth&Space** - Eliptical orbit showing a line sweeping out an area. Students can use a ruler to measure triangles to check that the area per time is constant. 
 
-[Planet Energy](/planetenergy/) - **Earth&Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/)
+[Planet Energy](/planetenergy/) - **Earth&Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/)
 
 [Storms](/storms/) - **Physics/Earth&Space** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. [in °C.](/stormsc/)
 

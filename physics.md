@@ -1,5 +1,7 @@
 ## Physics Apps
 
+The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [supporting ongoing development on patreon](https://www.patreon.com/whscienceteacher).
+
 Note: many [earth & space apps](/earthspace/) may be helpful in a physics class. 
 
 ### Virtual Labs/Phenomena

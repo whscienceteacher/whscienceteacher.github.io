@@ -69,4 +69,4 @@ That's fine. The link should still work.
 
 **Do I have to use all the parts?**
 
-No, you can leave out any of lat, lon, or name. It will default to lat=41.88 and lon=-87.6 (Chicago again). If you don't put a name it will just be a dot without a label. 
+No, you can leave out any of lat, lon, or name. It will default to lat=41.88 and lon=-87.6 (Chicago again). If you don't put a name it will just be a dot without a label. You cannot just use a new name without changing either latiude or longitude. 

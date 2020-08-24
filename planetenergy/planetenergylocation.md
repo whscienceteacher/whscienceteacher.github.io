@@ -47,7 +47,15 @@ In all honesty, the whole number degree is probably good enough. My little pictu
 
 **How do I enter West Longitudes**
 
-You can use either negative numbers or put W on the end
+You can use either negative numbers or put W on the end. For example:
+
+    https://whscience.org/planetenergy/?lat=37.78&lon=-122.4&name=San%20Francisco
+
+or
+
+    https://whscience.org/planetenergy/?lat=37.78&lon=122.4W&name=San%20Francisco
+    
+Just don't use both negative and W. Using both will confuse the app. 
 
 **Can I use the Southern Hemisphere?**
 

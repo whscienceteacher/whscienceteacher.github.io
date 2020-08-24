@@ -70,3 +70,5 @@ Sometimes you need to click the url and hit enter a second time to get it to rel
 **Do I have to use all the parts?**
 
 No, you can leave out any of lat, lon, or name. It will default to lat=41.88 and lon=-87.6 (Chicago again). If you don't put a name it will just be a dot without a label. You cannot just use a new name without changing either latiude or longitude. 
+
+{% include plausible.html %}

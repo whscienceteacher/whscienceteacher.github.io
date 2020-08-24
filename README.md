@@ -38,7 +38,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Orbit Examples 2](/orbit2/) - **Earth&Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
 
-[Planet Energy](/planetenergy/) - **Earth&Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/)
+[Planet Energy](/planetenergy/) - **Earth&Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/). [You an change the location of the marker on Earth.](planetenergylocation.md)
 
 [Ball on Ramp](/ballramp/) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
 

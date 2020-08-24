@@ -28,17 +28,17 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Water Temperature](/watertemperature/) - **Chemistry** - Place a small beaker of water into a larger dish of water. Can control the initial temperatures and volumes. Shows the temperature over time. Can export data as csv. 
 
-[Atmosphere](/atmosphere/) - **Earth&Space** - Simulation of light energy interacting with CO₂ in the atmosphere. Shows light of different wavelengths from the sun and infrared leaving. 
+[Atmosphere](/atmosphere/) - **Earth & Space** - Simulation of light energy interacting with CO₂ in the atmosphere. Shows light of different wavelengths from the sun and infrared leaving. 
 
-[Gravity Assist](/gravityassist/) - **Earth&Space** - Students can figure out the conditions for how a spacecraft can use the gravity from a planet to speed up or slow down. 
+[Gravity Assist](/gravityassist/) - **Earth & Space** - Students can figure out the conditions for how a spacecraft can use the gravity from a planet to speed up or slow down. 
 
-[ISS Orbit](/issorbit/) - **Earth/Space** - Change the velocity of the ISS to make it orbit the Earth. Helps with understanding how an orbit works.
+[ISS Orbit](/issorbit/) - **Earth & Space** - Change the velocity of the ISS to make it orbit the Earth. Helps with understanding how an orbit works.
 
-[Orbit Examples 1](/orbit1/) - **Earth&Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
+[Orbit Examples 1](/orbit1/) - **Earth & Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
 
-[Orbit Examples 2](/orbit2/) - **Earth&Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
+[Orbit Examples 2](/orbit2/) - **Earth & Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
 
-[Planet Energy](/planetenergy/) - **Earth&Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/). You an also [change the location of the marker on Earth.](planetenergy/planetenergylocation.md)
+[Planet Energy](/planetenergy/) - **Earth & Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/). You an also [change the location of the marker on Earth.](planetenergy/planetenergylocation.md)
 
 [Ball on Ramp](/ballramp/) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
 

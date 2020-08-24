@@ -20,17 +20,17 @@ Sets the longitude to be 18° E
 
 Sets the name you want on the marker. 
 
+For all, start with a ? and separate with & as seen in the example. 
+
 ### FAQ
 
 **Can I use C instead of F?**
 
-Yes, same process but with a slightly different url. 
+Yes, same process but with a slightly different url. (notice the little c after planetenergy)
 
     https://whscience.org/planetenergyc/?lat=59&lon=18&name=Stockholm
     
     https://whscience.org/planetenergywithlightc/?lat=59&lon=18&name=Stockholm
-
-(notice the little c after planetenergy)
 
 
 **How do I share this with students? I don't think they will type out the latidue and longitude.**
@@ -51,8 +51,6 @@ You can use either negative numbers or put W on the end. For example:
 
     https://whscience.org/planetenergy/?lat=37.78&lon=-122.4&name=San%20Francisco
 
-or
-
     https://whscience.org/planetenergy/?lat=37.78&lon=122.4W&name=San%20Francisco
     
 Just don't use both negative and W. Using both will confuse the app. 
@@ -65,7 +63,9 @@ Sadly No, not at this time. I feel bad but I don't have a similar image of the s
 
 That's fine. The link should still work. 
 
-**I set a new location but nothing happened. Sometimes you need to click the url and hit enter a second time to get it to reload. 
+**I set a new location but nothing happened.**
+
+Sometimes you need to click the url and hit enter a second time to get it to reload. 
 
 **Do I have to use all the parts?**
 

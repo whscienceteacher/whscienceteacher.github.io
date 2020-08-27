@@ -83,7 +83,13 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Ants](/ants/) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty.
 
-[Cars](/cars/)  - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. I also have versions with accelerations if people are interested. 
+[Cars](/cars/)  - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. This version has all constant speeds but they start at different places. 
+
+[Cars II](/carsii/) - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. This version, one of the cars has acceleration. 
+
+[Car Challenge](/carchallenge/) - **Physics** - Students take measurements and make calculations to determine if the car has a small acceleration or if it traveling at a constant speed. There is also a [second version](/carchallengeii/) with the alternative outcome. 
+
+[Car Crash](/carcrash/) - **Physics** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.html) has the information I gave them.
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
 
@@ -102,7 +108,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Energy Bars](/energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 
-[Stick Figure](/stickfigure) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
+[Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 

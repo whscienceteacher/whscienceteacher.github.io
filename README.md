@@ -18,9 +18,11 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Bug In Meadow](/buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
-[Mg HCl](/mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs of compound levels. I made this for a friend so I haven't used it personally, but it has been tested by a number of chemistry teachers.
+[Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
 [Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
+
+[Mg HCl](/mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs of compound levels. I made this for a friend so I haven't used it personally, but it has been tested by a number of chemistry teachers.
 
 [Rusting](/rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 

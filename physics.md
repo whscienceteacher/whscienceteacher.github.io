@@ -33,6 +33,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
 
+[Pendulum](/pendulum/) - **Physics** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
+
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. 
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
@@ -50,6 +52,12 @@ Think of these as virtual practice problems. Students make measurements and calc
 [Ants](/ants/) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty.
 
 [cars](/cars/)  - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. I also have versions with accelerations if people are interested. 
+
+[Cars II](/carsii/) - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. This version, one of the cars has acceleration. 
+
+[Car Challenge](/carchallenge/) - **Physics** - Students take measurements and make calculations to determine if the car has a small acceleration or if it traveling at a constant speed. There is also a [second version](/carchallengeii/) with the alternative outcome. 
+
+[Car Crash](/carcrash/) - **Physics** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.md) has the information I gave them.
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
 

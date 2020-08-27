@@ -21,6 +21,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Electric Car](/electriccar/) - **Physics** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 
 
+[Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
+
 [Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
 
 [Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 

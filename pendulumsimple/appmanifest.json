@@ -1,6 +1,6 @@
 {
-	"name": "Pendulum Damped",
-	"short_name": "Pendulum Damped",
+	"name": "Pendulum Simple",
+	"short_name": "Pendulum Simple",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

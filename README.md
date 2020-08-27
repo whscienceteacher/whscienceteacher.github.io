@@ -54,6 +54,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Electric Car](/electriccar/) - **Physics** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 
 
+[Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
+
 [Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
@@ -61,6 +63,8 @@ These replicate something like you would get with a hands on lab. Students can c
 [Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
 
 [Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
+
+[Pendulum](/pendulum/) - **Physics** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. 
 

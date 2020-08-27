@@ -89,7 +89,7 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Car Challenge](/carchallenge/) - **Physics** - Students take measurements and make calculations to determine if the car has a small acceleration or if it traveling at a constant speed. There is also a [second version](/carchallengeii/) with the alternative outcome. 
 
-[Car Crash](/carcrash/) - **Physics** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.html) has the information I gave them.
+[Car Crash](/carcrash/) - **Physics** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.md) has the information I gave them.
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
 

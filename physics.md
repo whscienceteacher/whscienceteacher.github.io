@@ -9,7 +9,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Air Pressure Paper](/airpressurepaper/) - **Chemistry/Physics** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up.
 
-[Ball on Ramp](/ballramp/) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. I also have a version with friction that I use for my forces tests I will try to find. 
+[Ball on Ramp](/ballramp/) - **Physics** - A simple ball on a ramp. Drag to change the height and width of the ramp. I use this one to practice planning and carrying out investigations. Also available as a sliding [block with friction](/blockramp/) with fixed μ. There is some randomness in the values so students can practice using the analyzing and interpreting data practice. **UPDATE FOR BUG FIX:** 2020-08-29 - The previous version of this app had a bug where the ball would continue into the floor. The bug has now been fixed. I'm very sorry! That's what I get for hard coding values. 
 
 [Cannon](/cannon/) - **Physics** - Cannon that fires a ball. You can change the power of the cannon and the angle of fire. Students use a ruler to measure the range of the cannon and a stopwatch to measure air time. There is a fair amount of randomness so students can practice more of the skills in analyzing and interpreting data. 
 

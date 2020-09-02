@@ -24,6 +24,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
 
+[Map Measure](/mapmeasure/) - **Physics/Earth&Space** - Shows a map or image overlain with a digital ruler. Students can drop waypoints to form a route on the map. You can add your own map using the image URL by adding #imageurl on the end. For example: [https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png](https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png). Not all image hosts allow sharing images this way so I suggest using postimage.org You need the direct link including the ".png" or ".jpg" on the end. 
+
 [Mg HCl](/mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs of compound levels. I made this for a friend so I haven't used it personally, but it has been tested by a number of chemistry teachers.
 
 [Rusting](/rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 

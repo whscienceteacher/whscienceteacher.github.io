@@ -11,6 +11,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [ISS Orbit](/issorbit/) - **Earth & Space** - Change the velocity of the ISS to make it orbit the Earth. Helps with understanding how an orbit works.
 
+[Map Measure](/mapmeasure/) - **Physics/Earth&Space** - Shows a map or image overlain with a digital ruler. Students can drop waypoints to form a route on the map. You can add your own map using the image URL by adding #imageurl on the end. For example: [https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png](https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png). Not all image hosts allow sharing images this way so I suggest using postimage.org You need the direct link including the ".png" or ".jpg" on the end. 
+
 [Orbit Examples 1](/orbit1/) - **Earth & Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
 
 [Orbit Examples 2](/orbit2/) - **Earth & Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 

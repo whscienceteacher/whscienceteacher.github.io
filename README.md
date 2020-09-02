@@ -60,6 +60,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Index of Refraction](/ior/) - **Physics** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
 
+[Map Measure](/mapmeasure/) - **Physics/Earth&Space** - Shows a map or image overlain with a digital ruler. Students can drop waypoints to form a route on the map. You can add your own map using the image URL by adding #imageurl on the end. For example: [https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png](https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png). Not all image hosts allow sharing images this way so I suggest using postimage.org You need the direct link including the ".png" or ".jpg" on the end. 
+
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
 
 [Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 

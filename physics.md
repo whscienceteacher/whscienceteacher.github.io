@@ -56,6 +56,8 @@ Note: many [earth & space apps](/earthspace/) may be helpful in a physics class.
 
 ### Energy and Heat
 
+[Ball on Ramp With Energy](/ballrampenergy/) - **Lab/Phenomenon** - Same as the version in the motion section but it displays KE and PE. No friction in this one so that energy is always conserved.
+
 [Elastic Energy](/elastic/) - **Lab/Phenomenon** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
 [Electric Car](/electriccar/) - **Lab/Phenomenon** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 

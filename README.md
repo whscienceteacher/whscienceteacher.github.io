@@ -8,7 +8,7 @@ The apps load on any web connected device and are free for everyone. Student's d
 This is a list of all the apps available. 
 The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
 
-### Individual Content Areas Pages ###
+### Individual Content Areas Pages Sorted By Topic ###
 [physics apps](physics.md) - [earth & space apps](earthspace.md) - [biology apps](biology.md) - [chemistry apps](chemistry.md)
 
 ### Virtual Labs/Phenomena
@@ -72,9 +72,11 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. 
 
-[Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill.
+[Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill. Also available as a [vertical roller coaster](/verticalrollercoaster/) that goes up at a constant speed and then falls. 
 
 [Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. Also availible [in °C.](/stormsc/)
+
+[Wave Combination](/wavecombination/) - **Lab/Phenomenon** - Students drag dots to form two (static) waves forms. The app shows what the combination would be if they were added. Also good for students making waves with different wavelengths/amplitudes.
 
 [Wave Interference](/waveinterference/) - **Physics** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
 

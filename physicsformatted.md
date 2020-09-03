@@ -32,7 +32,7 @@ Note: many [earth & space apps](/earthspace/) may be helpful in a physics class.
 
 [Pendulum](/pendulum/) - **Lab/Phenomenon** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
-[Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration.
+[Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also available as a [vertical roller coaster](/verticalrollercoaster/) that goes up at a constant speed and then falls. 
 
 [Stick Figure](/stickfigure) - **Diagram Maker** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 

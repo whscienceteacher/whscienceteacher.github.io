@@ -38,7 +38,6 @@ Note: many [earth & space apps](/earthspace/) may be helpful in a physics class.
 
 
 
-
 ### Force and Momentum
 
 [Air Pressure Paper](/airpressurepaper/) - **Lab/Phenomenon** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up.
@@ -50,6 +49,9 @@ Note: many [earth & space apps](/earthspace/) may be helpful in a physics class.
 [Elastic Energy](/elastic/) - **Lab/Phenomenon** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
 [Pull Cart](/pullcart/) - **Lab/Phenomenon** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. 
+
+[Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time.
+
 
 
 ### Energy and Heat

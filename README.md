@@ -74,6 +74,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill. Also available as a [vertical roller coaster](/verticalrollercoaster/) that goes up at a constant speed and then falls. 
 
+[Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time.
+
 [Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. Also availible [in °C.](/stormsc/)
 
 [Wave Combination](/wavecombination/) - **Lab/Phenomenon** - Students drag dots to form two (static) waves forms. The app shows what the combination would be if they were added. Also good for students making waves with different wavelengths/amplitudes.

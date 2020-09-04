@@ -15,3 +15,9 @@
 [Oh my goodness, thank you so much!!! These will be great since hands off labs are a no go for students this year.](https://www.reddit.com/r/Physics/comments/i4wwky/ive_been_making_physics_apps_for_my_own_classroom/g0mv1je/?context=3)
 
 [From one wild haired science teacher to another, thank you! Will likely be sharing these with my department](https://www.reddit.com/r/Physics/comments/i4wwky/ive_been_making_physics_apps_for_my_own_classroom/g0ldhs4/?context=3)
+
+[These are amazing ! I wish we had these in school. Would've made science a lot more fun.](https://www.reddit.com/r/biology/comments/im3iey/ive_been_making_apps_for_my_own_class_for_years/g3ywi40/)
+
+[Alright who has the best teacher award? I need to give it to this teacher. What did he do? He created apps that helps students with science! You found it? Good time for your award.](https://www.reddit.com/r/biology/comments/im3iey/ive_been_making_apps_for_my_own_class_for_years/g3yop6d/)
+
+[As a student who has learned almost all of these topics from a textbook, your apps would have been GREATLY appreciated. Extremely relevant and useful!](https://www.reddit.com/r/biology/comments/im3iey/ive_been_making_apps_for_my_own_class_for_years/g3yxzqj/)

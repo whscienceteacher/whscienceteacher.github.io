@@ -2,7 +2,7 @@
 
 The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
 
-Note: many [earth & space apps](/earthspace/) may be helpful in a physics class. 
+Note: many [earth & space apps](earthspace.md) may be helpful in a physics class. 
 
 ### Motion ###
 
@@ -55,6 +55,8 @@ Note: many [earth & space apps](/earthspace/) may be helpful in a physics class.
 
 
 ### Energy and Heat
+
+Simulations of energy in planets and the atmosphere can be found in the [Earth and Space page](earthspace.md)
 
 [Ball on Ramp With Energy](/ballrampenergy/) - **Lab/Phenomenon** - Same as the version in the motion section but it displays KE and PE. No friction in this one so that energy is always conserved.
 

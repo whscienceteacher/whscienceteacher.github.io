@@ -1,10 +1,10 @@
 {
-	"name": "Ball and Ramp",
-	"short_name": "Ball and Ramp",
+	"name": "Angle Arithmatic Simple",
+	"short_name": "Angle Arithmatic Simple",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "portrait",
 	"background_color": "#ffffff",
 	"icons": [
 		{

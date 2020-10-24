@@ -5,7 +5,7 @@ The apps are sorted by content area and how you might use them. I want to help a
 Note: many [earth & space apps](earthspace.md) may be helpful in a physics class. 
 
 ### Tools ###
-[Spring Scale](/springscale/ - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
+[Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 
 ### Motion ###
 

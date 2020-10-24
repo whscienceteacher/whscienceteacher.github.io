@@ -124,6 +124,9 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 
+### Measurement Tools ###
+[Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
+
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
 {% include plausible.html %}

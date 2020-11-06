@@ -70,7 +70,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Pendulum](/pendulum/) - **Physics** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
-[Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. 
+[Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. See also the [pull cart no randomness](/pullcart/nr/) so that data are perfectly linear and the [pull cart find mass](/pullcart/findmass/) where the mass of three carts is unknown and students analyze the data to it. 
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill. Also available as a [vertical roller coaster](/verticalrollercoaster/) that goes up at a constant speed and then falls. 
 
@@ -104,6 +104,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 [Car Crash](/carcrash/) - **Physics** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.md) has the information I gave them.
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
+
+[Measuring Gravity With Data](/gravitydata/) - **Physics** - The app record position and velocity vs. time data. Students download the data as csv and use regression to find g. Students can add multiple runs of data to the same set and hone in on a more precise value. 
 
 [Measuring g on Moons of Jupiter](/gonmoons/) - **Physics** - Students are given animations of a ball bouncing on four moons of Jupiter. They use a digital ruler and stopwatch to measure realistic values of g on each of the moons. I used it as a quiz where students were randomly assigned one of them and had to measure from the bottom to the top of the bounce and then calculate. 
 

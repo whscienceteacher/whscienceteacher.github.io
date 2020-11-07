@@ -37,3 +37,8 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'cascadiacode-light';
+	src: url('fonts/cascadiacode-light.otf') format('opentype');
+}
+

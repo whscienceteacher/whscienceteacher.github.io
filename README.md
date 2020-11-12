@@ -50,7 +50,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Cart and Pulley](/cartpulley/) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also available  [without directions](/cartpulleynodirections).
 
-[Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities.
+[Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) give adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. 
 
 [Elastic Energy](/elastic/) - **Physics** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 

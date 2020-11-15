@@ -18,6 +18,10 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Bug In Meadow](/buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
+[Connective Tissue Histology Slides](/histology/connectivetissue/) - **Biology** - Shows different types of irregular connective tissue: Dense, reticular, areloar, and white adipose. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. Please let me know if the labels are wrong. It's been a long time since I took histology and I couldn't find my textbook. 
+
+[Epithelium Histology Slides](/histology/epithelium/) - **Biology** - Shows different types of epithelial cells: simple cuboidal, simple columnar, and squamous. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
 [Onion Root Tip Slides](/onionroot/) - **Biology** - Shows onion root tip slides. Start with a macro picture of green onions and zoom in on two roots at 40x and 100-400x. Slides are chosen to show stages of mitosis clearly. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
 [Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
@@ -50,7 +54,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Cart and Pulley](/cartpulley/) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also available  [without directions](/cartpulleynodirections).
 
-[Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) give adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. 
+[Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) gives adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. [Collision with Wall](/collisions/wall/) shows one cart colliding with an immovable object and graphs with downloadable data. 
 
 [Elastic Energy](/elastic/) - **Physics** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
@@ -64,15 +68,19 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
 
+[Measuring Gravity Data](/gravitydata/) - **Lab/Phenomenon** - The app records postion/velocity vs time data with some noise. Students can download the data and use linear regression to find the acceleration. They can run the simulation more times to gather more data and see their slope stabilize around a more accurate value. Built to help high school students use the analyzing and data practice. 
+
 [Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
 
 [Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
 
 [Pendulum](/pendulum/) - **Physics** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
-[Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. See also the [pull cart no randomness](/pullcart/nr/) so that data are perfectly linear and the [pull cart find mass](/pullcart/findmass/) where the mass of three carts is unknown and students analyze the data to it. 
+[Pull Cart](/pullcart/) - **Lab/Phenomenon** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
 
-[Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Also availible in a [version where the cart rolls back](/rollercoastermotionrollback/) if it stops on the hill. Also available as a [vertical roller coaster](/verticalrollercoaster/) that goes up at a constant speed and then falls. 
+[Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
+
+[vertical roller coaster](/verticalrollercoaster/) - **Lab/Phenomenon** - The roller coaster travels vertically at a constant speed, waits at the top, and then falls. The main version shows position, velocity and acceleraiton graphs with downloadable data. Comes in two other versions: [Without acceleration data](/verticalrollercoaster/noaccel/) hides the acceleration data so students can find it, [Variable Height](/verticalrollercoaster/vh/) allows students to change the maximum height of the ride, 
 
 [Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time.
 

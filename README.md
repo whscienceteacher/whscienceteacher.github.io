@@ -68,7 +68,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance.  
 
-[Measuring Gravity Data](/gravitydata/) - **Lab/Phenomenon** - The app records postion/velocity vs time data with some noise. Students can download the data and use linear regression to find the acceleration. They can run the simulation more times to gather more data and see their slope stabilize around a more accurate value. Built to help high school students use the analyzing and data practice. 
+[Measuring Gravity Data](/gravitydata/) - **Physics** - The app records postion/velocity vs time data with some noise. Students can download the data and use linear regression to find the acceleration. They can run the simulation more times to gather more data and see their slope stabilize around a more accurate value. Built to help high school students use the analyzing and data practice. 
 
 [Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
 

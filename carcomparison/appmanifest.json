@@ -1,7 +1,7 @@
 {
 	"name": "Car Comparison",
 	"short_name": "Car Comparison",
-	"description": "",
+	"description": "Car Comparison",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",

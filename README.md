@@ -125,10 +125,14 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Wave Measurement Practice](/wavemprac/) - **Physics** - The app generates a graph of a wave on a grid. Students practice measuring wavelength, amplitude, and number of waves. The app checks if they are right and keeps track of how many they have in a row.  
 
+
+
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
 [Blood Pressure Diagram](/bpdiagram/) - **Biology** - A request of my wife's - Shows the dial on an analog sphygmomanometer. Can show systolic and diastolic side by side or on the same dial. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
+
+[Chromosome Diagram](/diagrams/chromosome/) - **Biology** - A request of my wife's - Make pictures of chromosomes showing bands. The bands can be labeled wtih alleles. You can change the color of the chromosomes and the length of its legs. Screenshot to save the diagrams. 
 
 [Pedigree Maker](/pedigree/) - **Biology** - A request of my wife's - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
 

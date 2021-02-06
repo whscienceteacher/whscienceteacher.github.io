@@ -123,6 +123,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Motion Yes No](/motionyn/) - **Physics** - One of the hardest things for physics students is keeping a clear distinction between velocity and acceleration. This app helps by putting a moving object in front of them and asking, 'is there velocity?", "is there acceleration?", "is the velocity changing?", etc. This is very frustrating for the students, but I find it to be very helpful. I have many versions of this asking about different quantities and including the direction. There is even a test version if people find it helpful. Keeps track of number in a row.
 
+[Velocity and Acceleration Example](/examples/vanda/) - **Measurement/Problem** - Shows dots moving to demonstrate what it means to have velocity with or without acceleration in different directions. All use "positive is to the right and negative is to the left" as a frame of reference. If you add [#numbers](/examples/vanda/#numbers) on the end it shows numbers for the velocity and acceleration (no units since on the screen it is arbitrary). There is also a version that includes an object [moving in a cicle](/examples/vanda/circle). 
+
 [Wave Measurement Practice](/wavemprac/) - **Physics** - The app generates a graph of a wave on a grid. Students practice measuring wavelength, amplitude, and number of waves. The app checks if they are right and keeps track of how many they have in a row.  
 
 

@@ -73,9 +73,13 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Electric Car](/electriccar/) - **Lab/Phenomenon** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 
 
+[Electric Car Data](/electriccart/data/) - **Lab/Phenomenon** - Students can change the car's mass mass and force. The app measures the car's energy drain from the battery after driving a certain distance. Students can download the data as a CSV file to analyze in a speadsheet. The way I used it, students found the relationship between force, distance, and change in energy to discover the work relationship. It was their introduction into using a spreadsheet to do arithmetic on data since their normal approach of finding a trendline didn't work as the data was presented. 
+
 [Energy Bars](/energybars/) - **Diagram Maker** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 
 [Heat Capacity](/heatcapacity/) - **Lab/Phenomenon** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
+
+[Hill Distance](/hill/distance/) - **Lab/Phenomenon** - A cart hanging from a spring scale on a ramp. Students can change the angle of the ramp, the height of the ramp, and the mass of the car. Using work = force × distance, they can discover patterns showing potential energy and its relationship to height and the dependence on the path. The way I used it, students used this to plan experiments to verify predictions on which mountains would be 'harder' to drive up. This helped separate the idea of force and power. 
 
 [Pendulum](/pendulum/) - **Lab/Phenomenon** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 

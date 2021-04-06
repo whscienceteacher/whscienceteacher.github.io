@@ -50,6 +50,7 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 
 ### Force and Momentum
+[Air Cannon Momentum](/aircannon/momentum/) - **Lab/Phenomenon** - Simple air cannon. Students can control the muzzle velocity and mass of an air cannon projectile. This version collects momentum vs mass data. The app has some randomness so students can practice their analyzing and interpreting data skills. Data can be downloaded as csv.
 
 [Air Pressure Paper](/airpressurepaper/) - **Lab/Phenomenon** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up.
 
@@ -73,9 +74,13 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Elastic Energy](/elastic/) - **Lab/Phenomenon** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
-[Electric Car](/electriccar/) - **Lab/Phenomenon** - Is this useful to anyone? I don't know but I might as well put it here - You set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars. 
+[Electric Car](/electriccar/) - **Lab/Phenomenon** - Simple and Early version - Students set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars.
 
-[Electric Car Data](/electriccart/data/) - **Lab/Phenomenon** - Students can change the car's mass mass and force. The app measures the car's energy drain from the battery after driving a certain distance. Students can download the data as a CSV file to analyze in a speadsheet. The way I used it, students found the relationship between force, distance, and change in energy to discover the work relationship. It was their introduction into using a spreadsheet to do arithmetic on data since their normal approach of finding a trendline didn't work as the data was presented. 
+[Electric Car Acceleration](/electriccar/acceleration/) - **Lab/Phenomenon** -  Students can change the car's mass mass and force. The app measures the final velocity and graphs it vs. force. Students can download the data and calculate work or ΔEnergy. 
+
+[Electric Car Data](/electriccar/data/) - **Lab/Phenomenon** - Students can change the car's mass mass and force. The app measures the car's energy drain from the battery after driving a certain distance. Students can download the data as a CSV file to analyze in a speadsheet. The way I used it, students found the relationship between force, distance, and change in energy to discover the work relationship. It was their introduction into using a spreadsheet to do arithmetic on data since their normal approach of finding a trendline didn't work as the data was presented. 
+
+[Electric Car Distance](/electriccar/distance/) - **Lab/Phenomenon** - Students can change the car's mass mass and and let it travel an adjustable distance. The app measures the car's energy drain from the battery. Students can download the data as a CSV file to analyze in a spreadsheet. The way I used it, students discovered that driving at a constant speed for a longer distance doesn't significantly increase the drain on the battery. 
 
 [Energy Bars](/energybars/) - **Diagram Maker** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
 

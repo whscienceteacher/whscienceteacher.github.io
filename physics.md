@@ -4,10 +4,10 @@ The apps are sorted by content area and how you might use them. I want to help a
 
 Note: many [earth & space apps](earthspace.md) may be helpful in a physics class. 
 
-### Tools ###
+### Tools ### <a name="tools"></a>
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 
-### Motion ###
+### Motion ### <a name="motion"></a>
 
 [Ants](/ants/) - **Measurement/Problem** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty. [Ants II](/antsii/) has students estimate initial and final velocity by using sets of lines close together to see which ant has a higher acceleration. Ants II is also available with the [opposite outcome](/antsii/ii/) incase you want different sections to get different results. [Ants III](/antsiii/) shows both ants with constant velocitie. Students can use them to measure distance or see which ant is faster. Ants III is also available with the [opposite result](/antsiii/iii/) in case you want different sections to get different results. 
 
@@ -49,7 +49,7 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 
 
-### Force and Momentum
+### Force and Momentum <a name="force"></a> <a name="momentum"></a>
 [Air Cannon Momentum](/aircannon/momentum/) - **Lab/Phenomenon** - Simple air cannon. Students can control the muzzle velocity and mass of an air cannon projectile. This version collects momentum vs mass data. The app has some randomness so students can practice their analyzing and interpreting data skills. Data can be downloaded as csv.
 
 [Air Pressure Paper](/airpressurepaper/) - **Lab/Phenomenon** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up.
@@ -66,7 +66,7 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 
 
-### Energy and Heat
+### Energy and Heat <a name="energy"></a> <a name="heat"></a>
 
 Simulations of energy in planets and the atmosphere can be found in the [Earth and Space page](earthspace.md)
 
@@ -97,7 +97,7 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 [Temperature Solids](/temperaturesolids/) - **Lab/Phenomenon** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
 
-### Light and Waves
+### Light and Waves <a name="light"></a> <a name="waves"></a>
 
 [Index of Refraction](/ior/) - **Lab/Phenomenon** - How can you tell the difference between a real diamond and a fake? Use Snell's law of course. Practice on water, glass, and plastic then determine if your diamond sample is real or a fake. In this simulation you drag and rotate a laser, ruler, and protractor. 
 

@@ -4,10 +4,12 @@ The apps are sorted by content area and how you might use them. I want to help a
 
 Note: many [earth & space apps](earthspace.md) may be helpful in a physics class. 
 
-### Tools ### <a name="tools"></a>
+[Jump to energy](#energy)
+
+### Tools <a name="tools"></a>
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 
-### Motion ### <a name="motion"></a>
+### Motion <a name="motion"></a>
 
 [Ants](/ants/) - **Measurement/Problem** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty. [Ants II](/antsii/) has students estimate initial and final velocity by using sets of lines close together to see which ant has a higher acceleration. Ants II is also available with the [opposite outcome](/antsii/ii/) incase you want different sections to get different results. [Ants III](/antsiii/) shows both ants with constant velocitie. Students can use them to measure distance or see which ant is faster. Ants III is also available with the [opposite result](/antsiii/iii/) in case you want different sections to get different results. 
 

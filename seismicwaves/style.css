@@ -42,3 +42,8 @@ html, body, canvas {
 	src: url('fonts/selawkl.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: 'cascadiacode-extralight';
+	src: url('fonts/cascadiacode-extralight.otf') format('opentype');
+}
+

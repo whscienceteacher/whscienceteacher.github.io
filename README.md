@@ -64,13 +64,13 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Elastic Energy](/elastic/) - **Physics** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
-[Electric Car](/electriccar/) - **Lab/Phenomenon** - Simple and Early version - Students set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars.
+[Electric Car](/electriccar/) - **Physics** - Simple and Early version - Students set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars.
 
-[Electric Car Acceleration](/electriccar/acceleration/) - **Lab/Phenomenon** -  Students can change the car's mass mass and force. The app measures the final velocity and graphs it vs. force. Students can download the data and calculate work or ΔEnergy. 
+[Electric Car Acceleration](/electriccar/acceleration/) - **Physics** -  Students can change the car's mass mass and force. The app measures the final velocity and graphs it vs. force. Students can download the data and calculate work or ΔEnergy. 
 
-[Electric Car Data](/electriccar/data/) - **Lab/Phenomenon** - Students can change the car's mass mass and force. The app measures the car's energy drain from the battery after driving a certain distance. Students can download the data as a CSV file to analyze in a speadsheet. The way I used it, students found the relationship between force, distance, and change in energy to discover the work relationship. It was their introduction into using a spreadsheet to do arithmetic on data since their normal approach of finding a trendline didn't work as the data was presented. 
+[Electric Car Data](/electriccar/data/) - **Physics** - Students can change the car's mass mass and force. The app measures the car's energy drain from the battery after driving a certain distance. Students can download the data as a CSV file to analyze in a speadsheet. The way I used it, students found the relationship between force, distance, and change in energy to discover the work relationship. It was their introduction into using a spreadsheet to do arithmetic on data since their normal approach of finding a trendline didn't work as the data was presented. 
 
-[Electric Car Distance](/electriccar/distance/) - **Lab/Phenomenon** - Students can change the car's mass mass and and let it travel an adjustable distance. The app measures the car's energy drain from the battery. Students can download the data as a CSV file to analyze in a spreadsheet. The way I used it, students discovered that driving at a constant speed for a longer distance doesn't significantly increase the drain on the battery. 
+[Electric Car Distance](/electriccar/distance/) - **Physics** - Students can change the car's mass mass and and let it travel an adjustable distance. The app measures the car's energy drain from the battery. Students can download the data as a CSV file to analyze in a spreadsheet. The way I used it, students discovered that driving at a constant speed for a longer distance doesn't significantly increase the drain on the battery. 
 
 [Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
@@ -84,27 +84,31 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Measuring Gravity Data](/gravitydata/) - **Physics** - The app records postion/velocity vs time data with some noise. Students can download the data and use linear regression to find the acceleration. They can run the simulation more times to gather more data and see their slope stabilize around a more accurate value. Built to help high school students use the analyzing and data practice. 
 
-[Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. 
+[Motion Graphs](/motiongraphs/) - **Physics** - Replicates an activity where you move in front of a motion detector and look at the position, velocity, and acceleration graphs. I like to have students try and make interesting graphs and then have others replicate them. See the Piano app below for a rewritten new version. 
 
 [Music Waves](/musicwaves/) - **Physics** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
 
 [Pendulum](/pendulum/) - **Physics** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
-[Pull Cart](/pullcart/) - **Lab/Phenomenon** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
+[Piano](/piano/) - **Physics** - Keyboard that plays sounds. Keys are numbered and also show musical notes. All keys work. Also available in a [version that shows a longitudinal sound wave](/piano/wave/). In that version students can measure wavelengths. 
 
-[Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
+[Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
 
-[vertical roller coaster](/verticalrollercoaster/) - **Lab/Phenomenon** - The roller coaster travels vertically at a constant speed, waits at the top, and then falls. The main version shows position, velocity and acceleraiton graphs with downloadable data. Comes in two other versions: [Without acceleration data](/verticalrollercoaster/noaccel/) hides the acceleration data so students can find it, [Variable Height](/verticalrollercoaster/vh/) allows students to change the maximum height of the ride, 
+[Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
+
+[vertical roller coaster](/verticalrollercoaster/) - **Physics** - The roller coaster travels vertically at a constant speed, waits at the top, and then falls. The main version shows position, velocity and acceleraiton graphs with downloadable data. Comes in two other versions: [Without acceleration data](/verticalrollercoaster/noaccel/) hides the acceleration data so students can find it, [Variable Height](/verticalrollercoaster/vh/) allows students to change the maximum height of the ride, 
 
 [Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time.
 
 [Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. Also availible [in °C.](/stormsc/)
 
-[Wave Combination](/wavecombination/) - **Lab/Phenomenon** - Students drag dots to form two (static) waves forms. The app shows what the combination would be if they were added. Also good for students making waves with different wavelengths/amplitudes.
+[Wave Addition](/waveaddition/) - **Physics** - Students enter the frequencies and amplitudes of two waves and see the result. Students can discover interference patterns. Also available in a version where students can change the [phase in degrees](/waveaddition/phase/) or [in radians.](/waveaddition/phaserad/)
+
+[Wave Combination](/wavecombination/) - **Physics** - Students drag dots to form two (static) waves forms. The app shows what the combination would be if they were added. Also good for students making waves with different wavelengths/amplitudes.
 
 [Wave Interference](/waveinterference/) - **Physics** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
 
-
+[Wave Speed](/wave/speed/) - **Physics** - Students change the tension and amplitude and then measure the resulting wave's period, wavelength and wave speed using digital meter sticks and stopwatch. Students can find patterns and mathematical relationships with wavespeed, frequency and wavelength.
 
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
@@ -139,6 +143,9 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Wave Measurement Practice](/wavemprac/) - **Physics** - The app generates a graph of a wave on a grid. Students practice measuring wavelength, amplitude, and number of waves. The app checks if they are right and keeps track of how many they have in a row.  
 
+[Wave Measure Simple](/wavemeasure/simple/) - **Measurement/Problem** - The app generates a wave. Students measure the wavelength and period using a digital ruler and stopwatch. There are fixed examples to do as a class and then randomly generated practice waves. See the [patreon post](https://www.patreon.com/posts/50026542) for the formula for the correct answer for the practice waves. 
+
+[Wave Measure Speed](wavemeasure/speed/) - **Measurement/Problem** - The app randomly generates a wave. Students measure the amplitude, wavelength, and period then calculate the frequency and speed. The students can enter their findings and the app will check whether they are right and give feedback. It also keeps track of number in a row and score.
 
 
 ### Diagram Makers

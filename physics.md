@@ -105,15 +105,25 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Light and Temperature](/lighttemp/) - **Lab/Phenomenon** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
 
-[Music Waves](/musicwaves/) - **Lab/Phenomenon** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. 
+[Music Waves](/musicwaves/) - **Lab/Phenomenon** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. See piano apps below for a rewritten version. 
+
+[Piano](/piano/) - **Lab/Phenomenon** - Keyboard that plays sounds. Keys are numbered and also show musical notes. All keys work. Also available in a [version that shows a longitudinal sound wave](/piano/wave/). In that version students can measure wavelengths. 
 
 [Two Wave Diagrams](/twowavediagrams/) - **Diagram Maker** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
+
+[Wave Addition](/waveaddition/) - **Lab/Phenomenon** - Students enter the frequencies and amplitudes of two waves and see the result. Students can discover interference patterns. Also available in a version where students can change the [phase in degrees](/waveaddition/phase/) or [in radians.](/waveaddition/phaserad/)
 
 [Wave Combination](/wavecombination/) - **Lab/Phenomenon** - Students drag dots to form two (static) waves forms. The app shows what the combination would be if they were added. Also good for students making waves with different wavelengths/amplitudes.
 
 [Wave Interference](/waveinterference/) - **Lab/Phenomenon** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
 
-[Wave Measurement Practice](/wavemprac/) - **Measurement/Problem** - The app generates a graph of a wave on a grid. Students practice measuring wavelength, amplitude, and number of waves. The app checks if they are right and keeps track of how many they have in a row.  
+[Wave Measurement Practice](/wavemprac/) - **Measurement/Problem** - The app generates a graph of a wave on a grid. Students practice measuring wavelength, amplitude, and number of waves. The app checks if they are right and keeps track of how many they have in a row.
+
+[Wave Measure Simple](/wavemeasure/simple/) - **Measurement/Problem** - The app generates a wave. Students measure the wavelength and period using a digital ruler and stopwatch. There are fixed examples to do as a class and then randomly generated practice waves. See the [patreon post](https://www.patreon.com/posts/50026542) for the formula for the correct answer for the practice waves. 
+
+[Wave Measure Speed](wavemeasure/speed/) - **Measurement/Problem** - The app randomly generates a wave. Students measure the amplitude, wavelength, and period then calculate the frequency and speed. The students can enter their findings and the app will check whether they are right and give feedback. It also keeps track of number in a row and score.
+
+[Wave Speed](/wave/speed/) - **Lab/Phenomenon** - Students change the tension and amplitude and then measure the resulting wave's period, wavelength and wave speed using digital meter sticks and stopwatch. Students can find patterns and mathematical relationships with wavespeed, frequency and wavelength. 
 
 ---
 

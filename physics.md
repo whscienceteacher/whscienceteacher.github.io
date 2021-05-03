@@ -105,6 +105,8 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Light and Temperature](/lighttemp/) - **Lab/Phenomenon** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
 
+[Frequency Composer](/frequencycomposer/) - **Lab/Phenomenon** - Students enter frequencies into two tracks and the app plays back the sound. Students can share a link to play back their compositions. [Example 1](https://whscience.org/frequencycomposer/#802,698,744,790,522,410:420,400,344,442,306,620) [Example 2](https://whscience.org/frequencycomposer/#240,240,288,288,320,320,360,RRR,360,360,320,320,288,288,240:320,480,432,576,480,640,720,RRR,720,540,640,480,576,432,480) The app has some technical limitations. Tones are only even number frequencies between 200 and 998 Hz. Students can't alter amplitude or duration of the tones. 
+
 [Music Waves](/musicwaves/) - **Lab/Phenomenon** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. See piano apps below for a rewritten version. 
 
 [Piano](/piano/) - **Lab/Phenomenon** - Keyboard that plays sounds. Keys are numbered and also show musical notes. All keys work. Also available in a [version that shows a longitudinal sound wave](/piano/wave/). In that version students can measure wavelengths. 

@@ -10,7 +10,7 @@ The apps are sorted by content area and how you might use them. I want to help a
 
 If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
 
-<span style="background:yellow">UPDATE! I will not be teaching summer school this year so that my free time can be spent on whscience. If you can, please support using the link above.</span>
+🔥🔥🔥UPDATE! I will not be teaching summer school this year so that my free time can be spent on whscience. If you can, please support using the link above.🔥🔥🔥
 
 ### Individual Content Areas Pages ###
 [physics apps](physics.md) - [earth & space apps](earthspace.md) - [biology apps](biology.md) - [chemistry apps](chemistry.md)

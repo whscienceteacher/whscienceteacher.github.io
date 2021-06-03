@@ -2,6 +2,8 @@
 
 The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
 
+🔥🔥🔥UPDATE! I will not be teaching summer school this year so that my free time can be spent on whscience. If you can, please support using the link above.🔥🔥🔥
+
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 

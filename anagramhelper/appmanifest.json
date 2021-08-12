@@ -1,10 +1,10 @@
 {
 	"name": "Anagram Helper",
 	"short_name": "Anagram Helper",
-	"description": "",
+	"description": "Play with letters to solve anagrams",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{

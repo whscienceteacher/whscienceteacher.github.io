@@ -1,10 +1,10 @@
 {
-	"name": "Food Web",
-	"short_name": "Food Web",
+	"name": "Chicago Food Web",
+	"short_name": "Chicago Food Web",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{

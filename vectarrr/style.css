@@ -38,11 +38,6 @@ html, body, canvas {
 
 
 @font-face {
-	font-family: 'immortal';
-	src: url('fonts/immortal.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: 'dimurphic-gl6z';
 	src: url('fonts/dimurphic-gl6z.ttf') format('truetype');
 }

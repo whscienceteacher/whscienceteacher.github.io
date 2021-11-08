@@ -1,7 +1,1 @@
-https://whscience.org/bird/brantgoose.jpg
-
-This is a brant goose. 
-
-https://whscience.org/bird/hawk57.jpg
-
-This is a redtailed hawk
+https://whscience.org/bird/brantgoose.jpg||This is a brant goose.||Yay brant||whee||https://whscience.org/bird/hawk57.jpg||This is a redtailed hawk

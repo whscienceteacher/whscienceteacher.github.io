@@ -1,7 +1,7 @@
 ## Welcome to my apps
 
 ### Who is the Wild Haired Science Teacher?
-I'm a science teacher in the Chicago Public Schools. For the past 7 years, I've been making simple web apps for my own classroom. They have made three dimensional NGSS-style science teaching easier and everyday for my students; now I want everyone to benefit from them. 
+I'm a science teacher in the Chicago Public Schools. For the past 8 years, I've been making simple web apps for my own classroom. They have made three dimensional NGSS-style science teaching easier and everyday for my students; now I want everyone to benefit from them. 
 
 The apps load on any web connected device and are free for everyone. Student's don't need an account or anything special to access. They just need to load a webpage. 
 

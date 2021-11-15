@@ -1,7 +1,7 @@
 ## Welcome to my apps
 
 ### Who is the Wild Haired Science Teacher?
-I'm a science teacher in the Chicago Public Schools. For the past 7 years, I've been making simple web apps for my own classroom. They have made three dimensional NGSS-style science teaching easier and everyday for my students; now I want everyone to benefit from them. 
+I'm a science teacher in the Chicago Public Schools. For the past 8 years, I've been making simple web apps for my own classroom. They have made three dimensional NGSS-style science teaching easier and everyday for my students; now I want everyone to benefit from them. 
 
 The apps load on any web connected device and are free for everyone. Student's don't need an account or anything special to access. They just need to load a webpage. 
 
@@ -9,8 +9,6 @@ This is a list of all the apps available.
 The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. 
 
 If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
-
-🔥🔥🔥UPDATE! I will not be teaching summer school this year so that my free time can be spent on whscience. If you can, please support using the link above.🔥🔥🔥
 
 ### Individual Content Areas Pages ###
 [physics apps](physics.md) - [earth & space apps](earthspace.md) - [biology apps](biology.md) - [chemistry apps](chemistry.md)
@@ -173,5 +171,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
+
+Privacy: Wild Haired Science does not collect any personal identifying information of any kind. We do engage in targeted advertising or advertising of any kind. We use privacy focused [Plausible Analytics](https://plausible.io/data-policy) which does not collect any personal identifying information. Feel free to use the web apps in your classroom without running afoul of most if not all data privacy laws.
 
 {% include plausible.html %}

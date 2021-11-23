@@ -21456,14 +21456,14 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.AJAX,
 	cr.plugins_.Arr,
 	cr.plugins_.Browser,
-	cr.plugins_.Function,
 	cr.plugins_.LocalStorage,
+	cr.plugins_.Function,
+	cr.plugins_.Touch,
+	cr.plugins_.Sprite,
+	cr.plugins_.Text,
 	cr.plugins_.TextBox,
 	cr.plugins_.Rex_CSV2Array,
-	cr.plugins_.Text,
 	cr.plugins_.Rex_Date,
-	cr.plugins_.Sprite,
-	cr.plugins_.Touch,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.system_object.prototype.exps.projectname,
@@ -21558,4 +21558,3 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TextBox.prototype.cnds.CompareText,
 	cr.plugins_.TextBox.prototype.exps.Text
 ];};
-

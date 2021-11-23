@@ -40,7 +40,8 @@ she slowed herself with 0.#&m/s/s,a,Look at the unit on the number. It isn't m/s
 she slowed down with &.#m/s/s,a,Look at the unit on the number. It isn't m/s
 she sped up with &.#m/s/s,a,Look at the unit on the number. It isn't m/s
 She walked in at 5:||:1#,t1,Walking in is the beginning of the motion.
-she started her run at 1#m/s,v2,Notice the word 'start' is in the sentence. 
-she started at #m/s,v2,Notice the word 'start' is in the sentence. 
+she started her run at 1#m/s,v1,Notice the word 'start' is in the sentence. 
+she started at #m/s,v1,Notice the word 'start' is in the sentence. 
 she started when the timer was #.#s,t1,Notice the word 'start' is in the sentence. 
 she started #0m away from the line,d1,Notice the word 'start' is in the sentence.
+she ended her run at #m/s,v2,Notice the word 'end' is in the sentence.

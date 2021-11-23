@@ -1,16 +1,16 @@
 what was her change in velocity?,?v
 how long did it take for her to get there?,?t
 "what was her ""a"" during this time?",a
-what was her speed when she finished?,vf
+what was her speed when she finished?,v2
 how far did she run when she was at a constant velocity?,?d
 how far away is the store?,?d
 by how much did she speed up?,?v
-What was the velocity right before the end?,vf
-What was her velocity when she hit the ground?,vf
-what was her velocity later?,vf
+What was the velocity right before the end?,v2
+What was her velocity when she hit the ground?,v2
+what was her velocity later?,v2
 how far did she fall?,?d
 how fast was she moving right before she fell?,v1
-how fast was she going just as she hit the platform?,vf
+how fast was she going just as she hit the platform?,v2
 how long did it take her to fall?,?t
 What is the acceleration of the box?,a
 where did she stop?,d2

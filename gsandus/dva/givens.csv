@@ -21,7 +21,7 @@ she started her run at &.#m/s,v1,Look at the unit and notice it says 'start.
 she sped up by &.#m/s,?v,This can't be acceleration with that word. Notice it has the word 'by' in it. 
 she increased her speed by #.&,?v,This can't be acceleration with that word. Notice it has the word 'by' in it. 
 she slowed down by &.#m/s,?v,This can't be acceleration with that word. Notice it has the word 'by' in it. 
-she changed her speed by &.#m/s,?v,The word 'for' suggests it probably is the amount of time. 
+she changed her speed by &.#m/s,?v,"The word 'b'y means it’s the amount it changed, not start or end."
 she sped up for #.9&s,?t,The word 'for' suggests it probably is the amount of time. 
 she slowed down for &.||s,?t,The word 'for' suggests it probably is the amount of time. 
 she started slowing down at 0.||m/s/s,a,Look at the unit on the number. It isn't m/s

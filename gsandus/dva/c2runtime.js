@@ -21553,6 +21553,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.LocalStorage.prototype.acts.SetItem,
 	cr.plugins_.Function.prototype.exps.Call,
 	cr.system_object.prototype.exps.replace,
+	cr.system_object.prototype.exps.max,
 	cr.plugins_.Text.prototype.cnds.CompareOpacity,
 	cr.plugins_.Text.prototype.cnds.IsVisible,
 	cr.plugins_.TextBox.prototype.cnds.CompareText,

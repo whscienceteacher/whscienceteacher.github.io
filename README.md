@@ -151,6 +151,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Wave Measure Speed](wavemeasure/speed/) - **Measurement/Problem** - The app randomly generates a wave. Students measure the amplitude, wavelength, and period then calculate the frequency and speed. The students can enter their findings and the app will check whether they are right and give feedback. It also keeps track of number in a row and score.
 
+### Model Builder
+[Food Web](/foodweb/) - **Biology** - Students add organisms and then connect them through predator-prey relationships to create a model of an ecosystem. They can then highlight individual organisms to make the relationships within the model clear. The app can create links so they can share their food webs. This is an [example of the local Chicago ecosystem]( https://whscience.org/foodweb/#Raccoon,Rac,252,240;Bats,Bat,648,396;Plants,Pla,444,480;Mosquito,Mos,396,48;Coyote,Coy,240,588;Rabbits,Rab,456,600;Squirrels,Squ,636,564;Opposums,Opp,372,312;Robins,Rob,108,348;Pigeons,Pig,72,156;Sparrows,Spa,84,528;Hawks,Haw,264,108;Moths,Mot,576,96;Flies,Fli,648,228;Spiders,Spi,456,168;Frog,Fro,504,360;Trash,Tra,276,444|,;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Tra,Tra;Tra,Tra;Spa,Spa;Pig,Pig;Pig,Pig;Rob,Rob;Rob,Rob;Rac,Rac;Rac,Rac;Rac,Rac;Rac,Rac;Tra,Tra;Coy,Coy;Mos,Mos;Mos,Mos;Mos,Mos;Opp,Opp;Spi,Spi;Spi,Spi;Tra,Tra;Rab,Rab;Rab,Rab;Fro,Fro;Fro,Fro;Fro,Fro;Mot,Mot;Mot,Mot;Squ,Squ;Squ,Squ;Fli,Fli;Fli,Fli;Mot,Mot;Fli,Fli;Fli,Fli;Fli,Fli;Bat,Bat) my students made. 
 
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.

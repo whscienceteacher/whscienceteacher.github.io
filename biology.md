@@ -3,8 +3,6 @@
 
 The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
 
-🔥🔥🔥UPDATE! I will not be teaching summer school this year so that my free time can be spent on whscience. If you can, please support using the link above.🔥🔥🔥
-
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
@@ -17,6 +15,10 @@ These replicate something like you would get with a hands on lab. Students can c
 [Epithelium Histology Slides](/histology/epithelium/) - **Biology** - Shows different types of epithelial cells: simple cuboidal, simple columnar, and squamous. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
 [Onion Root Tip Slides](/onionroot/index.html) - **Biology** - Shows onion root tip slides. Start with a macro picture of green onions and zoom in on two roots at 40x and 100-400x. Slides are chosen to show stages of mitosis clearly. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
+### Model Builders
+
+[Food Web](/foodweb/) - **Biology** - Students add organisms and then connect them through predator-prey relationships to create a model of an ecosystem. They can then highlight individual organisms to make the relationships within the model clear. The app can create links so they can share their food webs. This is an [example of the local Chicago ecosystem]( https://whscience.org/foodweb/#Raccoon,Rac,252,240;Bats,Bat,648,396;Plants,Pla,444,480;Mosquito,Mos,396,48;Coyote,Coy,240,588;Rabbits,Rab,456,600;Squirrels,Squ,636,564;Opposums,Opp,372,312;Robins,Rob,108,348;Pigeons,Pig,72,156;Sparrows,Spa,84,528;Hawks,Haw,264,108;Moths,Mot,576,96;Flies,Fli,648,228;Spiders,Spi,456,168;Frog,Fro,504,360;Trash,Tra,276,444|,;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Pla,Pla;Tra,Tra;Tra,Tra;Spa,Spa;Pig,Pig;Pig,Pig;Rob,Rob;Rob,Rob;Rac,Rac;Rac,Rac;Rac,Rac;Rac,Rac;Tra,Tra;Coy,Coy;Mos,Mos;Mos,Mos;Mos,Mos;Opp,Opp;Spi,Spi;Spi,Spi;Tra,Tra;Rab,Rab;Rab,Rab;Fro,Fro;Fro,Fro;Fro,Fro;Mot,Mot;Mot,Mot;Squ,Squ;Squ,Squ;Fli,Fli;Fli,Fli;Mot,Mot;Fli,Fli;Fli,Fli;Fli,Fli;Bat,Bat) my students made. 
 
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 

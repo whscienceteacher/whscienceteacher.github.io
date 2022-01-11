@@ -162,6 +162,14 @@ Think of these as virtual practice problems. Students make measurements and calc
 ### Model Builder
 [Food Web](/foodweb/) - **Biology** - Students add organisms and then connect them through predator-prey relationships to create a model of an ecosystem. They can then highlight individual organisms to make the relationships within the model clear. The app can create links so they can share their food webs. This is an [example of the local Chicago ecosystem]( https://whscience.org/foodweb/#Raccoon,Rac,252,240;Bats,Bat,648,396;Plants,Pla,444,480;Mosquito,Mos,396,48;Coyote,Coy,240,588;Rabbits,Rab,456,600;Squirrels,Squ,636,564;Opposums,Opp,372,312;Robins,Rob,108,348;Pigeons,Pig,72,156;Sparrows,Spa,84,528;Hawks,Haw,264,108;Moths,Mot,576,96;Flies,Fli,648,228;Spiders,Spi,456,168;Frog,Fro,504,360;Trash,Tra,276,444|,;Pla,Squ;Pla,Rab;Pla,Spa;Pla,Pig;Pla,Mos;Pla,Mot;Pla,Rac;Tra,Rac;Tra,Pig;Spa,Haw;Pig,Haw;Pig,Rac;Rob,Rac;Rob,Haw;Rac,Coy;Rac,Fli;Rac,Mos;Rac,Opp;Tra,Opp;Coy,Opp;Mos,Spi;Mos,Bat;Mos,Fro;Opp,Coy;Spi,Bat;Spi,Opp;Tra,Spa;Rab,Coy;Rab,Fli;Fro,Rac;Fro,Coy;Fro,Opp;Mot,Bat;Mot,Rob;Squ,Coy;Squ,Haw;Fli,Fro;Fli,Spi;Mot,Spi;Fli,Bat;Fli,Opp;Fli,Rob;Bat,Haw) my students made. 
 
+### Games
+I'm not going to claim these are the most effecient way to learn something, but they are at least a little bit fun. 
+
+[Sleigher](/sleigher/) - **Physics** - Silly game of delivering presents. Players compete to try and land their sleigh on the house by changing its launch angle and velocity. 
+
+[VectARRR](/vectarrr/) - **Physics** - Silly digital board game. Learn vector addition/subtraction on the high seas. Race to the island with the buried treasure by adding and subtracting from the available vectors. X marks the spot. AAARRRR!
+
+
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
@@ -176,6 +184,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 [Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
+
 
 ### Measurement Tools ###
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 

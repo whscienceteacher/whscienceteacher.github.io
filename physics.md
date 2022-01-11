@@ -76,7 +76,7 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Pull Cart](/pullcart/) - **Lab/Phenomenon** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. 
 
-[Spaceship Programming](/spaceship/) - **Lab/Phenomenon** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time. Now includes a version with [measurement tools](/spaceship/mt/) where students can measure distances, and a [version without missions for experimentation](spaceship/experiment).
+[Spaceship Programming](/spaceship/) - **Lab/Phenomenon** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time. Now includes a version with [measurement tools](/spaceship/mt/) where students can measure distances, and a [version without missions for experimentation](/spaceship/experiment).
 
 
 

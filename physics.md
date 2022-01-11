@@ -43,13 +43,17 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Pendulum](/pendulum/) - **Lab/Phenomenon** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
-[Relative Car Velocity](/relativecarvelocity/) - **Physics** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
+[Relative Car Velocity](/relativecarvelocity/) - **Lab/Phenomenon** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
 
-[Velocity Table Graph Simple](/distancetablegraph/) - **Physics** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
+[Sleigher](/sleigher/) - **Game** - Silly game of delivering presents. Players compete to try and land their sleigh on the house by changing its launch angle and velocity. 
 
-[Velocity Table Graph Relative](/distancetablegraph/) - **Physics** - Drag and drop a truck as a car drives from behind and see each vehicle’s velocity vs time as well as the relative velocity.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) with only the truck. 
+[VectARRR](/vectarrr/) - **Game** - Silly digital board game. Learn vector addition/subtraction on the high seas. Race to the island with the buried treasure by adding and subtracting from the available vectors. X marks the spot. AAARRRR!
+
+[Velocity Table Graph Simple](/distancetablegraph/) - **Lab/Phenomenon** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
+
+[Velocity Table Graph Relative](/distancetablegraph/) - **Lab/Phenomenon** - Drag and drop a truck as a car drives from behind and see each vehicle’s velocity vs time as well as the relative velocity.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) with only the truck. 
 
 [Velocity and Acceleration Example](/examples/vanda/) - **Measurement/Problem** - Shows dots moving to demonstrate what it means to have velocity with or without acceleration in different directions. All use "positive is to the right and negative is to the left" as a frame of reference. If you add [#numbers](/examples/vanda/#numbers) on the end it shows numbers for the velocity and acceleration (no units since on the screen it is arbitrary). There is also a version that includes an object [moving in a cicle](/examples/vanda/circle). 
 
@@ -66,13 +70,13 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Cart and Pulley](/cartpulley/) - **Lab/Phenomenon** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also available  [without directions](/cartpulleynodirections).
 
-[Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) gives adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. [Collision with Wall](/collisions/wall/) shows one cart colliding with an immovable object and graphs with downloadable data. [Collision Carts](/collisions/carts/) only shows velocites like the original but has the visuals and ranges like the versions with springs. [Connected Carts](/collisions/connected/) connects the two carts by a spring. Students can add external forces.
+[Collisions](/collisions/) - **Lab/Phenomenon** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) gives adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. [Collision with Wall](/collisions/wall/) shows one cart colliding with an immovable object and graphs with downloadable data. [Collision Carts](/collisions/carts/) only shows velocites like the original but has the visuals and ranges like the versions with springs. [Connected Carts](/collisions/connected/) connects the two carts by a spring. Students can add external forces.
 
 [Elastic Energy](/elastic/) - **Lab/Phenomenon** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
 [Pull Cart](/pullcart/) - **Lab/Phenomenon** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. 
 
-[Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time. Now includes a version with [measurement tools](/spaceship/mt/) where students can measure distances, and a [version without missions for experimentation](spaceship/experiment).
+[Spaceship Programming](/spaceship/) - **Lab/Phenomenon** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time. Now includes a version with [measurement tools](/spaceship/mt/) where students can measure distances, and a [version without missions for experimentation](spaceship/experiment).
 
 
 
@@ -82,7 +86,7 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Ball on Ramp With Energy](/ballrampenergy/) - **Lab/Phenomenon** - Same as the version in the motion section but it displays KE and PE. No friction in this one so that energy is always conserved.
 
-[Ball on Ramp Data](/ballramp/data) - **Physics** - Similar to the app above but rewritten so that it can record data downloadable as csv. Students can practice finding patterns and their use of analyzing and interpreting data. In the main version, the ball rolls down the ramp and records the final velocity, but it is also availible in a version [rolling up the ramp](/ballramp/uprampdata/) where the ball has an an initial velocity and it records the height and where the ball can [roll up or down](ballramp/upordown) by giving the ramp a positive or negative height. 
+[Ball on Ramp Data](/ballramp/data) - **Lab/Phenomenon** - Similar to the app above but rewritten so that it can record data downloadable as csv. Students can practice finding patterns and their use of analyzing and interpreting data. In the main version, the ball rolls down the ramp and records the final velocity, but it is also availible in a version [rolling up the ramp](/ballramp/uprampdata/) where the ball has an an initial velocity and it records the height and where the ball can [roll up or down](ballramp/upordown) by giving the ramp a positive or negative height. 
 
 [Elastic Energy](/elastic/) - **Lab/Phenomenon** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 

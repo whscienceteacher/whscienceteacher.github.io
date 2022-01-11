@@ -64,6 +64,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) gives adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. [Collision with Wall](/collisions/wall/) shows one cart colliding with an immovable object and graphs with downloadable data. [Collision Carts](/collisions/carts/) only shows velocites like the original but has the visuals and ranges like the versions with springs. [Connected Carts](/collisions/connected/) connects the two carts by a spring. Students can add external forces.
 
+[Distance Table Graph](/distancetablegraph/) - **Physics** - Drag and drop a truck and see the distance vs. time data it produces. Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) and [Velocity Table Graph Relative](/velocitytablegraph/). 
+
 [Elastic Energy](/elastic/) - **Physics** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
 [Electric Car](/electriccar/) - **Physics** - Simple and Early version - Students set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars.
@@ -99,6 +101,10 @@ These replicate something like you would get with a hands on lab. Students can c
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
+
+[Velocity Table Graph Simple](/distancetablegraph/) - **Physics** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
+
+[Velocity Table Graph Relative](/distancetablegraph/) - **Physics** - Drag and drop a truck as a car drives from behind and see each vehicle’s velocity vs time as well as the relative velocity.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) with only the truck. 
 
 [vertical roller coaster](/verticalrollercoaster/) - **Physics** - The roller coaster travels vertically at a constant speed, waits at the top, and then falls. The main version shows position, velocity and acceleraiton graphs with downloadable data. Comes in two other versions: [Without acceleration data](/verticalrollercoaster/noaccel/) hides the acceleration data so students can find it, [Variable Height](/verticalrollercoaster/vh/) allows students to change the maximum height of the ride, 
 

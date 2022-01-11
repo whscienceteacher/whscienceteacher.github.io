@@ -100,6 +100,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
 
+[Relative Car Velocity](/relativecarvelocity/) - **Physics** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
+
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
 
 [Velocity Table Graph Simple](/distancetablegraph/) - **Physics** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 

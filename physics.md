@@ -2,8 +2,6 @@
 
 The apps are sorted by content area and how you might use them. I want to help as many students as possible get a high-quality three-dimensional science education. The apps will always be free. If you find them useful, consider [donating to the Wild Haired Science Teacher on patreon](https://www.patreon.com/whscienceteacher). **You'll support development of more apps!**
 
-🔥🔥🔥UPDATE! I will not be teaching summer school this year so that my free time can be spent on whscience. If you can, please support using the link above.🔥🔥🔥
-
 Note: many [earth & space apps](earthspace.md) may be helpful in a physics class. 
 
 [Motion](#motion) - [Force and Momentum](#force) - [Energy and Heat](#energy) - [Light and Waves](#waves)
@@ -29,6 +27,8 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Car Crash](/carcrash/) - **Measurement/Problem** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.md) has the information I gave them.
 
+[Distance Table Graph](/distancetablegraph/) - **Physics** - Drag and drop a truck and see the distance vs. time data it produces. Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) and [Velocity Table Graph Relative](/velocitytablegraph/). 
+
 [Map Measure](/mapmeasure/) - **Lab/Phenomenon** - Shows a map or image overlain with a digital ruler. Students can drop waypoints to form a route on the map. You can add your own map using the image URL by adding #imageurl on the end. For example: [https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png](https://whscience.org/mapmeasure/#https://i.postimg.cc/sXGpff1M/image.png). Not all image hosts allow sharing images this way so I suggest using postimage.org You need the direct link including the ".png" or ".jpg" on the end. 
 
 [Measuring Gravity](/gravity/) - **Measurement/Problem** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
@@ -43,7 +43,13 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Pendulum](/pendulum/) - **Lab/Phenomenon** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
+[Relative Car Velocity](/relativecarvelocity/) - **Physics** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
+
 [Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
+
+[Velocity Table Graph Simple](/distancetablegraph/) - **Physics** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
+
+[Velocity Table Graph Relative](/distancetablegraph/) - **Physics** - Drag and drop a truck as a car drives from behind and see each vehicle’s velocity vs time as well as the relative velocity.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) with only the truck. 
 
 [Velocity and Acceleration Example](/examples/vanda/) - **Measurement/Problem** - Shows dots moving to demonstrate what it means to have velocity with or without acceleration in different directions. All use "positive is to the right and negative is to the left" as a frame of reference. If you add [#numbers](/examples/vanda/#numbers) on the end it shows numbers for the velocity and acceleration (no units since on the screen it is arbitrary). There is also a version that includes an object [moving in a cicle](/examples/vanda/circle). 
 

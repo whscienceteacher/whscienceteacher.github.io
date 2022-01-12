@@ -127,6 +127,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Bacteria Plate Streaking](/streaking/) - **Biology** - Students practice the procedure of streaking a plate to isolate a bacteria culture. Heavy inspired by [this excellent simulation](http://learn.chm.msu.edu/vibl/content/streakplate.html) out of Michigan State University that unfortunately doesn't work well for remote learning because it requires  flash. A request of my wife's. 
 
+[Codon Chart](/codonchart/) - **Biology** - Not really a measurement or problem but a tool. Quick interactive version of a circular codon chart. It helps students learn how to read the static version since it gives visual feedback about which amino acid you are selecting. 
+
 [DNA to Protein](/dnatoprotein/) - **Biology** - Students Transcribe and Translate a sequence of DNA and then see the amino acid chain fold into a protein. The app keeps track of how many they complete in case you want to use it for homework. You can either use randomly generated sequences or four built in segments taken from the four subparts of hemoglobin. Once students complete all four protein subparts, they can see the assembly of the whole protein. Sickle celled hemoglobin is also shown so they can compare how a point mutation changes the shape of the final protein and cell. There is also a [version for practice without hemoglobin](/dnatoprotein/practice/) and a [practice version with much shorter sequences.](/dnatoprotein/practice/mod/)
 
 [Gel and Restriction Enzymes](/gelre/) - **Biology** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
@@ -177,9 +179,15 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Chromosome Diagram](/diagrams/chromosome/) - **Biology** - A request of my wife's - Make pictures of chromosomes showing bands. The bands can be labeled wtih alleles. You can change the color of the chromosomes and the length of its legs. Screenshot to save the diagrams. 
 
+[Codon Chart](/codonchart/) - **Biology** - Quick interactive version of a circular codon chart. It helps students learn how to read the static version since it gives visual feedback about which amino acid you are selecting. 
+
 [Pedigree Maker](/pedigree/) - **Biology** - A request of my wife's - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
 
 [Energy Bars](/energybars/) - **Physics** - Tiny app to make bar graphs of types of energy. Drag up and down in each bar. Double Tap the label at the top of a bar to remove it from the diagram. By default it shows kinetic (KE), potential (PE), chemical (CE), heat (HE), and total energy (TE). Hit save and it will download the image.
+
+[Feedback Loop Diagram Maker](/diagrams/feedbacklook/) - **Biology** - My wife was making diagrams for students to practice thinking about feedback systems in the body. I saved her some time (read procrastinated on my own work) by making her an app where she can quickly make the diagrams. Click on the boxes or arrows to edit the text. Click the screenshot button to save as images. 
+
+[Osmosis Diagram Maker](/diagrams/osmosis/) - **Biology** - Quickly make infinite diagrams showing a cell membrane molecules inside and out so students can practice thinking about the flow of water across the membrane. Change the amounts by dragging the boxes on the right. Click to re-roll with the same numbers. Screenshot to save the diagram. (Sorry, no screenshot button on this one.)
 
 [Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
@@ -187,10 +195,19 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 
 ### Measurement Tools ###
+
+[Codon Chart](/codonchart/) - **Biology** - Quick interactive version of a circular codon chart. It helps students learn how to read the static version since it gives visual feedback about which amino acid you are selecting. 
+
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
+
+### Other ###
+[Robots 2021-2022](/robot2122/) - I was helping the school VEX robotics team by judging the skills competition and I found that many of the students had no strategy. I threw together this simple 2D version of the game to help them plan a strategy. It doesn't do everything (The rings are just to get in the way for example) but It does help understand the rules.  
+
+---
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
 Privacy: Wild Haired Science does not collect any personal identifying information of any kind. We do engage in targeted advertising or advertising of any kind. We use privacy focused [Plausible Analytics](https://plausible.io/data-policy) which does not collect any personal identifying information. Feel free to use the web apps in your classroom without running afoul of most if not all data privacy laws.
 
 {% include plausible.html %}
+

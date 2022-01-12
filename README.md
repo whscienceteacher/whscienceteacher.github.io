@@ -64,6 +64,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Collisions](/collisions/) - **Physics** - Change masses and initial velocities and measure final velocities. The basic app shows only initial and final velocities with hard collisions. [Collision Spring](/collisions/springs/) gives adjustable springs to the carts and graphs velocity/acceleration/force vs. time. Data are downloadable as a csv. [Collision with Wall](/collisions/wall/) shows one cart colliding with an immovable object and graphs with downloadable data. [Collision Carts](/collisions/carts/) only shows velocites like the original but has the visuals and ranges like the versions with springs. [Connected Carts](/collisions/connected/) connects the two carts by a spring. Students can add external forces.
 
+[Distance Table Graph](/distancetablegraph/) - **Physics** - Drag and drop a truck and see the distance vs. time data it produces. Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) and [Velocity Table Graph Relative](/velocitytablegraph/). 
+
 [Elastic Energy](/elastic/) - **Physics** - Drag to stretch a rubber band. Shows the distance, force required, and elastic energy. I use this for practice describing patterns as linear and non-linear. 
 
 [Electric Car](/electriccar/) - **Physics** - Simple and Early version - Students set the maximum speed of an electric car and watch the battery drain. I used it for my students to practice looking at linear and non linear relationships. It was part of a whole unit on electric cars.
@@ -98,11 +100,17 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
 
+[Relative Car Velocity](/relativecarvelocity/) - **Physics** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
+
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
+
+[Velocity Table Graph Simple](/distancetablegraph/) - **Physics** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
+
+[Velocity Table Graph Relative](/distancetablegraph/) - **Physics** - Drag and drop a truck as a car drives from behind and see each vehicle’s velocity vs time as well as the relative velocity.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) with only the truck. 
 
 [vertical roller coaster](/verticalrollercoaster/) - **Physics** - The roller coaster travels vertically at a constant speed, waits at the top, and then falls. The main version shows position, velocity and acceleraiton graphs with downloadable data. Comes in two other versions: [Without acceleration data](/verticalrollercoaster/noaccel/) hides the acceleration data so students can find it, [Variable Height](/verticalrollercoaster/vh/) allows students to change the maximum height of the ride, 
 
-[Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time.
+[Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time. Now includes a version with [measurement tools](/spaceship/mt/) where students can measure distances, and a [version without missions for experimentation](spaceship/experiment).
 
 [Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. Also availible [in °C.](/stormsc/)
 
@@ -154,6 +162,14 @@ Think of these as virtual practice problems. Students make measurements and calc
 ### Model Builder
 [Food Web](/foodweb/) - **Biology** - Students add organisms and then connect them through predator-prey relationships to create a model of an ecosystem. They can then highlight individual organisms to make the relationships within the model clear. The app can create links so they can share their food webs. This is an [example of the local Chicago ecosystem]( https://whscience.org/foodweb/#Raccoon,Rac,252,240;Bats,Bat,648,396;Plants,Pla,444,480;Mosquito,Mos,396,48;Coyote,Coy,240,588;Rabbits,Rab,456,600;Squirrels,Squ,636,564;Opposums,Opp,372,312;Robins,Rob,108,348;Pigeons,Pig,72,156;Sparrows,Spa,84,528;Hawks,Haw,264,108;Moths,Mot,576,96;Flies,Fli,648,228;Spiders,Spi,456,168;Frog,Fro,504,360;Trash,Tra,276,444|,;Pla,Squ;Pla,Rab;Pla,Spa;Pla,Pig;Pla,Mos;Pla,Mot;Pla,Rac;Tra,Rac;Tra,Pig;Spa,Haw;Pig,Haw;Pig,Rac;Rob,Rac;Rob,Haw;Rac,Coy;Rac,Fli;Rac,Mos;Rac,Opp;Tra,Opp;Coy,Opp;Mos,Spi;Mos,Bat;Mos,Fro;Opp,Coy;Spi,Bat;Spi,Opp;Tra,Spa;Rab,Coy;Rab,Fli;Fro,Rac;Fro,Coy;Fro,Opp;Mot,Bat;Mot,Rob;Squ,Coy;Squ,Haw;Fli,Fro;Fli,Spi;Mot,Spi;Fli,Bat;Fli,Opp;Fli,Rob;Bat,Haw) my students made. 
 
+### Games
+I'm not going to claim these are the most effecient way to learn something, but they are at least a little bit fun. 
+
+[Sleigher](/sleigher/) - **Physics** - Silly game of delivering presents. Players compete to try and land their sleigh on the house by changing its launch angle and velocity. 
+
+[VectARRR](/vectarrr/) - **Physics** - Silly digital board game. Learn vector addition/subtraction on the high seas. Race to the island with the buried treasure by adding and subtracting from the available vectors. X marks the spot. AAARRRR!
+
+
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
@@ -168,6 +184,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 [Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
+
 
 ### Measurement Tools ###
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 

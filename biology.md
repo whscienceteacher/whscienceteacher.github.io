@@ -48,7 +48,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Osmosis Diagram Maker](/diagrams/osmosis/) - **Biology** - Quickly make infinite diagrams showing a cell membrane molecules inside and out so students can practice thinking about the flow of water across the membrane. Change the amounts by dragging the boxes on the right. Click to re-roll with the same numbers. Screenshot to save the diagram. (Sorry, no screenshot button on this one.)
 
-[Feedback Loop Diagram Maker](/diagrams/feedbacklook/) - **Biology** - My wife was making diagrams for students to practice thinking about feedback systems in the body. I saved her some time (read procrastinated on my own work) by making her an app where she can quickly make the diagrams. Click on the boxes or arrows to edit the text. Click the screenshot button to save as images. 
+[Feedback Loop Diagram Maker](/diagrams/feedbackloop/) - **Biology** - My wife was making diagrams for students to practice thinking about feedback systems in the body. I saved her some time (read procrastinated on my own work) by making her an app where she can quickly make the diagrams. Click on the boxes or arrows to edit the text. Click the screenshot button to save as images. 
 
 [Pedigree Maker](/pedigree/) - **Biology** - A request of my wife's - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
 

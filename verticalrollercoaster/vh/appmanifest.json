@@ -1,7 +1,7 @@
 {
 	"name": "Vertical Rollercoaster Variable Height",
 	"short_name": "Vertical Rollercoaster Variable Height",
-	"description": "",
+	"description": "Vertical Roller Coaster",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",

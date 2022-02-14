@@ -213,7 +213,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com
 
-Privacy: Wild Haired Science does not collect any personal identifying information of any kind. We do engage in targeted advertising or advertising of any kind. We use privacy focused [Plausible Analytics](https://plausible.io/data-policy) which does not collect any personal identifying information. Feel free to use the web apps in your classroom without running afoul of most if not all data privacy laws.
+Privacy: Wild Haired Science does not collect any personal identifying information of any kind. We do not engage in targeted advertising or advertising of any kind. We use privacy focused [Plausible Analytics](https://plausible.io/data-policy) which does not collect any personal identifying information. Feel free to use the web apps in your classroom without running afoul of most if not all data privacy laws.
 
 {% include plausible.html %}
 

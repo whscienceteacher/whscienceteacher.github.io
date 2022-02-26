@@ -1,0 +1,18 @@
+height of a person,1.2,1,9
+length of a large airplane,30,70
+length of a cat,0.4,0.6
+length of a pencil,0.1,0.2
+width of a coin,0.01,0.03
+thickness of a coin,0.001,0.002
+thickness of a mechanical pencil lead,0.0003,0.0007
+length of a book,0.2,0.4
+length of a phone,0.13,0.2
+width of an apple,0.07,0.2
+distance a car drives on the highway in 1 minute,1300,1700
+distance a car drives on the highway in 1 second,20,40
+distance a car drives on the highway in 1 hour,72000,12000
+distance a person walks in 1 second,0.7,1.8
+distance a person walks in 1 minute,40,100
+distance a person walks in 1 hour,2400,6000
+length of 1 city block,130,200
+Length of a school,100,150

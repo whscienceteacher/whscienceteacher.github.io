@@ -1,7 +1,7 @@
 {
-	"name": "Vertical Rollercoaster Variable Height",
-	"short_name": "Vertical Rollercoaster Variable Height",
-	"description": "Vertical Roller Coaster",
+	"name": "Projectile Motion",
+	"short_name": "Projectile Motion",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",

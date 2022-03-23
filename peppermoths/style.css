@@ -42,8 +42,3 @@ html, body, canvas {
 	src: url('fonts/selawkl.ttf') format('truetype');
 }
 
-@font-face {
-	font-family: 'cascadiamono-semilight';
-	src: url('fonts/cascadiamono-semilight.otf') format('opentype');
-}
-

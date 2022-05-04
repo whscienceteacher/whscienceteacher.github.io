@@ -3765,10 +3765,12 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.layoutwidth,
 		C3.Plugins.System.Exps.layoutheight,
 		C3.Plugins.System.Cnds.Every,
-		C3.ScriptsInEvents.EventSheet1_Event71_Act7,
+		C3.Plugins.System.Cnds.CompareBoolVar,
+		C3.ScriptsInEvents.EventSheet1_Event72_Act7,
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.Touch.Cnds.OnDoubleTapGestureObject,
 		C3.Plugins.Text.Exps.Text,
+		C3.Plugins.System.Acts.SetBoolVar,
 		C3.Plugins.Text.Cnds.OnCreated,
 		C3.Plugins.System.Cnds.ForEach,
 		C3.Plugins.Text.Acts.SetInstanceVar,
@@ -3799,8 +3801,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetSize,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.System.Cnds.ForEachOrdered,
-		C3.Plugins.Sprite.Exps.UID,
-		C3.Plugins.System.Cnds.CompareBoolVar
+		C3.Plugins.Sprite.Exps.UID
 	];
 };
 self.C3_JsPropNameTable = [
@@ -3859,6 +3860,7 @@ self.C3_JsPropNameTable = [
 	{SoundSpeed: 0},
 	{PPAmp: 0},
 	{SampleLength: 0},
+	{PlaySound: 0},
 	{FindString: 0},
 	{DataString: 0},
 	{TokenString: 0},
@@ -4289,6 +4291,7 @@ self.C3_ExpressionFuncs = [
 			const n0 = p._GetNode(0);
 			return () => (n0.ExpObject() + 1);
 		},
+		() => "unmute",
 		() => "ToggleButton",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();

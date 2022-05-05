@@ -3965,6 +3965,46 @@ self.C3_ExpressionFuncs = [
 			return () => ((n0.ExpObject() + "RRR") + " ");
 		},
 		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const v2 = p._GetNode(2).GetVar();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => f0(f1(v2.GetValue(), f3(), " "));
+		},
+		() => 3,
+		p => {
+			const n0 = p._GetNode(0);
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const v2 = p._GetNode(2).GetVar();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => ((n0.ExpObject() + f1(v2.GetValue(), f3(), " ")) + " ");
+		},
+		() => 4,
+		p => {
+			const n0 = p._GetNode(0);
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const v2 = p._GetNode(2).GetVar();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => ((((n0.ExpObject() + "[size=15pt]") + f1(v2.GetValue(), f3(), " ")) + "[/size]") + " ");
+		},
+		() => 5,
+		p => {
+			const n0 = p._GetNode(0);
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const v2 = p._GetNode(2).GetVar();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => ((((n0.ExpObject() + "[size=12pt]") + f1(v2.GetValue(), f3(), " ")) + "[/size]") + " ");
+		},
+		() => 6,
+		p => {
+			const n0 = p._GetNode(0);
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const f2 = p._GetNode(2).GetBoundMethod();
+			const v3 = p._GetNode(3).GetVar();
+			const f4 = p._GetNode(4).GetBoundMethod();
+			return () => ((((n0.ExpObject() + "[size=10pt]") + f1(f2(v3.GetValue(), f4(), " "), 6)) + "[/size]") + " ");
+		},
+		p => {
 			const n0 = p._GetNode(0);
 			const f1 = p._GetNode(1).GetBoundMethod();
 			const f2 = p._GetNode(2).GetBoundMethod();

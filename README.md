@@ -28,6 +28,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Onion Root Tip Slides](/onionroot/) - **Biology** - Shows onion root tip slides. Start with a macro picture of green onions and zoom in on two roots at 40x and 100-400x. Slides are chosen to show stages of mitosis clearly. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
+[Peppered Moths](/pepperedmoths/) - **Biology** - Classic peppered moth experiment with a graph to show directional and stabilizing selection. User taps moths to eat them. After half are eaten the simulation automatically counts and reproduces them with a small amount of mutation. The simulation shows can show clean trees or sooty trees, or the user can change the darkness.
+
 [Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
 [Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
@@ -45,6 +47,8 @@ These replicate something like you would get with a hands on lab. Students can c
 [Gravity Assist](/gravityassist/) - **Earth & Space** - Students can figure out the conditions for how a spacecraft can use the gravity from a planet to speed up or slow down. 
 
 [ISS Orbit](/issorbit/) - **Earth & Space** - Change the velocity of the ISS to make it orbit the Earth. Helps with understanding how an orbit works.
+
+[Moon](/moon/) - **Earth&Space** - App shows the moon, Earth, and sun in a top view and a view of the moon from the Earth. Users can see the change the phase throughout the lunar cycle and how they connect to the location of each body. 
 
 [Orbit Examples 1](/orbit1/) - **Earth & Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
 
@@ -104,6 +108,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Physics** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
 
+[Solar Panel Angle](/solarpower/) - **Physics** - Change the angle of a solar panel with respect to a light sources or the light source's brightness in order to find patterns.
+
 [Velocity Table Graph Simple](/distancetablegraph/) - **Physics** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
 
 [Velocity Table Graph Relative](/distancetablegraph/) - **Physics** - Drag and drop a truck as a car drives from behind and see each vehicle’s velocity vs time as well as the relative velocity.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) with only the truck. 
@@ -113,6 +119,8 @@ These replicate something like you would get with a hands on lab. Students can c
 [Spaceship Programming](/spaceship/) - **Physics** - Program an unmanned spaceship by turning on and off thrusters to maneuver to a target. Very game like with missions. Helps students think about forces, especially what Newton's First Law means. Impulse is also implicit since thrusters need to be turned on for certain amounts of time. Now includes a version with [measurement tools](/spaceship/mt/) where students can measure distances, and a [version without missions for experimentation](spaceship/experiment).
 
 [Storms](/storms/) - **Physics** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. Also availible [in °C.](/stormsc/)
+
+[Two Speakers](/twospeakers/) - **Physics** - Listen to the sound from two speakers at different places and see a transverse version of the recorded wave. The user can move the microphone and change the frequency and amplitude of the sound from the two speakers. The simulation shows rings for the peaks and troughs from each speaker. I apologize for the clicking sound you hear, especially when moving the microphone. 
 
 [Wave Addition](/waveaddition/) - **Physics** - Students enter the frequencies and amplitudes of two waves and see the result. Students can discover interference patterns. Also available in a version where students can change the [phase in degrees](/waveaddition/phase/) or [in radians.](/waveaddition/phaserad/)
 
@@ -161,6 +169,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Velocity and Acceleration Example](/examples/vanda/) - **Measurement/Problem** - Shows dots moving to demonstrate what it means to have velocity with or without acceleration in different directions. All use "positive is to the right and negative is to the left" as a frame of reference. If you add [#numbers](/examples/vanda/#numbers) on the end it shows numbers for the velocity and acceleration (no units since on the screen it is arbitrary). There is also a version that includes an object [moving in a cicle](/examples/vanda/circle). 
 
+[Wave Comparison](/wavecomparison/) - **Physics** - The app generates two waves and students compare them on frequency, wavelength, period, and amplitude. It shows both longitudinal and transverse waves. Users an select individual particles to make them easier to track.
+
 [Wave Measurement Practice](/wavemprac/) - **Physics** - The app generates a graph of a wave on a grid. Students practice measuring wavelength, amplitude, and number of waves. The app checks if they are right and keeps track of how many they have in a row.  
 
 [Wave Measure Simple](/wavemeasure/simple/) - **Measurement/Problem** - The app generates a wave. Students measure the wavelength and period using a digital ruler and stopwatch. There are fixed examples to do as a class and then randomly generated practice waves. See the [patreon post](https://www.patreon.com/posts/50026542) for the formula for the correct answer for the practice waves. 
@@ -203,6 +213,8 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 ### Measurement Tools ###
 
 [Codon Chart](/codonchart/) - **Biology** - Quick interactive version of a circular codon chart. It helps students learn how to read the static version since it gives visual feedback about which amino acid you are selecting. 
+
+[Oscilloscope](/oscilloscope/]) - A very simple simulation of an oscilloscope to demonstrate how they work. Shows a single vibrating air molecule and the oscilloscope output. Doesn't use triggering or anything like that. Users can drag the molecule and see the custom output. 
 
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 

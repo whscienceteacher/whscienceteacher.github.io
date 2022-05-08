@@ -7,7 +7,7 @@ import * as Main from "./main.js";
 
 const scriptsInEvents = {
 
-		async EventSheet1_Event72_Act7(runtime, localVars)
+		async EventSheet1_Event71_Act7(runtime, localVars)
 		{
 			Main.PlayComplex(localVars.tempF1,localVars.tempF2,localVars.tempA1,localVars.tempA2,localVars.tempPhiOffset1,localVars.tempPhiOffset2);
 		}

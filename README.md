@@ -26,6 +26,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Epithelium Histology Slides](/histology/epithelium/) - **Biology** - Shows different types of epithelial cells: simple cuboidal, simple columnar, and squamous. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
+[Fish Population](/fishpopulation/) - **Biology** - A population of fish live in a pool wahc with its own simulated genome. The fish's appearance depends (in an unrealistic way) on the genome. If two fish overlap with similar enough DNA, they will reproduce. In one pool, mutation will cause the population to drift over time. THe user can separate the fish into two pools and watch them diverge over time and then recombine them to see if they are two distinct species. 
+
 [Onion Root Tip Slides](/onionroot/) - **Biology** - Shows onion root tip slides. Start with a macro picture of green onions and zoom in on two roots at 40x and 100-400x. Slides are chosen to show stages of mitosis clearly. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
 [Peppered Moths](/pepperedmoths/) - **Biology** - Classic peppered moth experiment with a graph to show directional and stabilizing selection. User taps moths to eat them. After half are eaten the simulation automatically counts and reproduces them with a small amount of mutation. The simulation shows can show clean trees or sooty trees, or the user can change the darkness.

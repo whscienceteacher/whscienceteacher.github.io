@@ -3876,10 +3876,11 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.SetBoolVar,
 		C3.Behaviors.EightDir.Cnds.IsMoving,
 		C3.Plugins.TextBox.Cnds.OnTextChanged,
+		C3.Plugins.System.Cnds.ForEach,
+		C3.Plugins.TextBox.Acts.SetText,
 		C3.Plugins.TextBox.Acts.SetCSSStyle,
 		C3.Plugins.PlatformInfo.Exps.CanvasCssWidth,
 		C3.Plugins.Text.Cnds.OnCreated,
-		C3.Plugins.System.Cnds.ForEach,
 		C3.Plugins.Text.Acts.SetInstanceVar,
 		C3.Plugins.Text.Exps.FaceSize,
 		C3.Plugins.Touch.Cnds.IsTouchingObject,
@@ -4295,7 +4296,9 @@ self.C3_ExpressionFuncs = [
 			const v3 = p._GetNode(3).GetVar();
 			const n4 = p._GetNode(4);
 			const v5 = p._GetNode(5).GetVar();
-			return () => Math.ceil((f0() / f1(((n2.ExpInstVar() / 2) * v3.GetValue()), ((n4.ExpInstVar() / 2) * v5.GetValue()))));
+			const n6 = p._GetNode(6);
+			const v7 = p._GetNode(7).GetVar();
+			return () => C3.clamp(Math.ceil((f0() / f1(((n2.ExpInstVar() / 2) * v3.GetValue()), ((n4.ExpInstVar() / 2) * v5.GetValue()), ((n6.ExpInstVar() / 3) * v7.GetValue())))), 1, 30);
 		},
 		() => 1,
 		p => {
@@ -4487,6 +4490,11 @@ self.C3_ExpressionFuncs = [
 			return () => (n0.ExpObject() + 1);
 		},
 		() => "unmute",
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const n1 = p._GetNode(1);
+			return () => C3.clamp(f0(n1.ExpObject()), 110, 1760);
+		},
 		() => "font-size",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();

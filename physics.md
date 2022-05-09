@@ -9,6 +9,8 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 ### Tools <a name="tools"></a>
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 
+[Oscilloscope](/oscilloscope/]) - A very simple simulation of an oscilloscope to demonstrate how they work. Shows a single vibrating air molecule and the oscilloscope output. Doesn't use triggering or anything like that. Users can drag the molecule and see the custom output.
+
 ### Motion <a name="motion"></a>
 
 [Ants](/ants/) - **Measurement/Problem** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty. [Ants II](/antsii/) has students estimate initial and final velocity by using sets of lines close together to see which ant has a higher acceleration. Ants II is also available with the [opposite outcome](/antsii/ii/) incase you want different sections to get different results. [Ants III](/antsiii/) shows both ants with constant velocitie. Students can use them to measure distance or see which ant is faster. Ants III is also available with the [opposite result](/antsiii/iii/) in case you want different sections to get different results. 
@@ -117,17 +119,23 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Light and Temperature](/lighttemp/) - **Lab/Phenomenon** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
 
-[Frequency Composer](/frequencycomposer/) - **Lab/Phenomenon** - Students enter frequencies into two tracks and the app plays back the sound. Students can share a link to play back their compositions. [Example 1](https://whscience.org/frequencycomposer/#802,698,744,790,522,410:420,400,344,442,306,620) [Example 2](https://whscience.org/frequencycomposer/#240,240,288,288,320,320,360,RRR,360,360,320,320,288,288,240:320,480,432,576,480,640,720,RRR,720,540,640,480,576,432,480) The app has some technical limitations. Tones are only even number frequencies between 200 and 998 Hz. Students can't alter amplitude or duration of the tones. 
+[Frequency Composer](/frequencycomposer/v2/) - **Lab/Phenomenon** - Students enter frequencies into two tracks and the app plays back the sound. Students can share a link to play back their compositions. [Example 1](https://whscience.org/frequencycomposer/v2/#802,698,744,790,522,410:420,400,344,442,306,620) [Example 2](https://whscience.org/frequencycomposer/#240,240,288,288,320,320,360,RRR,360,360,320,320,288,288,240:320,480,432,576,480,640,720,RRR,720,540,640,480,576,432,480) Students can't alter amplitude or duration of the tones. 
 
 [Music Waves](/musicwaves/) - **Lab/Phenomenon** - Keyboard that plays sounds and shows the wave on the screen. Can change the audio volume. Sound may not work on some old platforms. White keys only, black keys don't work. See piano apps below for a rewritten version. 
 
 [Piano](/piano/) - **Lab/Phenomenon** - Keyboard that plays sounds. Keys are numbered and also show musical notes. All keys work. Also available in a [version that shows a longitudinal sound wave](/piano/wave/). In that version students can measure wavelengths. 
+
+[Solar Panel Angle](/solarpower/) - **Physics** - Change the angle of a solar panel with respect to a light sources or the light source's brightness in order to find patterns.
+
+[Two Speakers](/twospeakers/) - **Lab/Phenomenon** - Listen to the sound from two speakers at different places and see a transverse version of the recorded wave. The user can move the microphone and change the frequency and amplitude of the sound from the two speakers. The simulation shows rings for the peaks and troughs from each speaker. I apologize for the clicking sound you hear, especially when moving the microphone. 
 
 [Two Wave Diagrams](/twowavediagrams/) - **Diagram Maker** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 
 [Wave Addition](/waveaddition/) - **Lab/Phenomenon** - Students enter the frequencies and amplitudes of two waves and see the result. Students can discover interference patterns. Also available in a version where students can change the [phase in degrees](/waveaddition/phase/) or [in radians.](/waveaddition/phaserad/)
 
 [Wave Combination](/wavecombination/) - **Lab/Phenomenon** - Students drag dots to form two (static) waves forms. The app shows what the combination would be if they were added. Also good for students making waves with different wavelengths/amplitudes.
+
+[Wave Comparison](/wavecomparison/) - **Physics** - The app generates two waves and students compare them on frequency, wavelength, period, and amplitude. It shows both longitudinal and transverse waves. Users an select individual particles to make them easier to track.
 
 [Wave Interference](/waveinterference/) - **Lab/Phenomenon** - Change the wavelength and amplitude of two waves and see the resultant wave. The waves move so it looks like a real wave. 
 

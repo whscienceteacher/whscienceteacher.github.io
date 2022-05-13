@@ -1,6 +1,6 @@
 {
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Pipe Game",
+	"short_name": "Pipe Game",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

@@ -3724,7 +3724,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.CompareBoolVar,
 		C3.Plugins.Sprite.Cnds.IsOverlappingOffset,
 		C3.Plugins.System.Cnds.PickAll,
-		C3.Plugins.Text.Acts.SetOpacity,
 		C3.Plugins.System.Acts.SetVar,
 		C3.Plugins.Sprite.Acts.SetInstanceVar,
 		C3.Plugins.Sprite.Exps.X,
@@ -3747,15 +3746,18 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.System.Acts.RestartLayout,
 		C3.Plugins.System.Cnds.ForEach,
+		C3.Plugins.System.Exps.len,
+		C3.Plugins.System.Exps.int,
+		C3.Plugins.System.Exps.tokenat,
 		C3.Plugins.Shape3D.Acts.SetPosToObject,
+		C3.Plugins.System.Exps.mid,
+		C3.Plugins.System.Exps.find,
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.System.Exps.trim,
-		C3.Plugins.System.Exps.tokenat,
 		C3.Plugins.System.Exps.tokencount,
 		C3.Plugins.System.Cnds.For,
 		C3.Plugins.System.Exps.loopindex,
-		C3.Plugins.System.Exps.mid,
 		C3.Plugins.System.Exps.random,
 		C3.Plugins.System.Acts.CreateObject,
 		C3.Plugins.System.Exps.layoutwidth,
@@ -3763,7 +3765,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.rgbex255,
 		C3.Plugins.Sprite.Acts.MoveToBottom,
 		C3.Plugins.System.Exps.max,
-		C3.Plugins.System.Exps.len,
 		C3.Plugins.Touch.Cnds.IsTouchingObject,
 		C3.Plugins.System.Cnds.TriggerOnce,
 		C3.Plugins.Sprite.Acts.SetSize,
@@ -3790,6 +3791,8 @@ self.C3_JsPropNameTable = [
 	{Wall: 0},
 	{lastX: 0},
 	{lastY: 0},
+	{lastXs: 0},
+	{lastYs: 0},
 	{Player: 0},
 	{Keyboard: 0},
 	{Target: 0},
@@ -3939,8 +3942,12 @@ self.C3_ExpressionFuncs = [
 			const v1 = p._GetNode(1).GetVar();
 			return () => ((v0.GetValue() * 2) * v1.GetValue());
 		},
-		() => 100,
 		() => 1,
+		p => {
+			const n0 = p._GetNode(0);
+			const n1 = p._GetNode(1);
+			return () => (and(n0.ExpObject(), ",") + n1.ExpInstVar());
+		},
 		p => {
 			const n0 = p._GetNode(0);
 			return () => n0.ExpObject();
@@ -3957,7 +3964,26 @@ self.C3_ExpressionFuncs = [
 			const n0 = p._GetNode(0);
 			return () => n0.ExpInstVar();
 		},
-		() => 50,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const n1 = p._GetNode(1);
+			return () => f0(n1.ExpInstVar());
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const n2 = p._GetNode(2);
+			return () => f0(f1(n2.ExpInstVar(), 0, ","));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const n1 = p._GetNode(1);
+			const f2 = p._GetNode(2).GetBoundMethod();
+			const n3 = p._GetNode(3);
+			const f4 = p._GetNode(4).GetBoundMethod();
+			const n5 = p._GetNode(5);
+			return () => f0(n1.ExpInstVar(), (f2(n3.ExpInstVar(), ",") + 1), f4(n5.ExpInstVar()));
+		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			return () => v0.GetValue();
@@ -4063,6 +4089,10 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => Math.round((220 + f0(25)));
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => and(n0.ExpObject(), "");
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();

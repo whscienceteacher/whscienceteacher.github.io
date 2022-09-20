@@ -1,6 +1,6 @@
 {
-	"name": "Template",
-	"short_name": "Template",
+	"name": "Tree Counter",
+	"short_name": "Tree Counter",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

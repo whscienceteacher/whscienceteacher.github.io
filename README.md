@@ -211,7 +211,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Osmosis Diagram Maker](/diagrams/osmosis/) - **Biology** - Quickly make infinite diagrams showing a cell membrane molecules inside and out so students can practice thinking about the flow of water across the membrane. Change the amounts by dragging the boxes on the right. Click to re-roll with the same numbers. Screenshot to save the diagram. (Sorry, no screenshot button on this one.)
 
-[Reaction PEl](/diagrams/reactionpe/) - **Chemistry/Physics** - Quickly make diagrams showing PE of a reaction. Change energy of the reactants, products, and activation energy. Add and edit labels. Save clean looking PNG images. Locally auto-saves your last diagram on reloading. Made on commission.
+[Reaction PE](/diagrams/reactionpe/) - **Chemistry/Physics** - Quickly make diagrams showing PE of a reaction. Change energy of the reactants, products, and activation energy. Add and edit labels. Save clean looking PNG images. Locally auto-saves your last diagram on reloading. Made on commission.
 
 [Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. Semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 

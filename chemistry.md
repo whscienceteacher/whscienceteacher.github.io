@@ -34,7 +34,7 @@ These replicate something like you would get with a hands on lab. Students can c
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
-[Reaction PEl](/diagrams/reactionpe/) - **PE** - Make diagrams showing PE of a reaction. Change energy of the reactants, products, and activation energy. Add and edit labels. Save clean looking PNG images. Locally auto-saves your last diagram on reloading. Made on commission.
+[Reaction PE](/diagrams/reactionpe/) - **PE** - Make diagrams showing PE of a reaction. Change energy of the reactants, products, and activation energy. Add and edit labels. Save clean looking PNG images. Locally auto-saves your last diagram on reloading. Made on commission.
 
 ---
 

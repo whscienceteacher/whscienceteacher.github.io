@@ -67,3 +67,8 @@ html, body, canvas {
 	src: url('fonts/CascadiaMono-Light.otf') format('opentype');
 }
 
+@font-face {
+	font-family: 'selawkl';
+	src: url('fonts/selawkl.ttf') format('truetype');
+}
+

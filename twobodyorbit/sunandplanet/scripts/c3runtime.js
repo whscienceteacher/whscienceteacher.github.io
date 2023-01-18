@@ -3917,15 +3917,20 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.DrawingCanvas.Exps.Width,
 		C3.Plugins.DrawingCanvas.Exps.Height,
 		C3.Plugins.System.Exps.rgba,
+		C3.Plugins.Touch.Cnds.OnTouchStart,
+		C3.Plugins.Touch.Cnds.IsTouchingObject,
+		C3.Plugins.Text.Acts.Destroy,
+		C3.Plugins.Sprite.Acts.SetTowardPosition,
+		C3.Plugins.Text.Acts.SetPos,
+		C3.Plugins.Text.Exps.Y,
+		C3.Plugins.Text.Acts.SetAngle,
 		C3.Plugins.Text.Cnds.OnCreated,
 		C3.Plugins.Text.Acts.SetInstanceVar,
 		C3.Plugins.Text.Exps.FaceSize,
-		C3.Plugins.Touch.Cnds.IsTouchingObject,
 		C3.Plugins.Text.Cnds.CompareInstanceVar,
 		C3.Plugins.Text.Cnds.IsBoolInstanceVarSet,
 		C3.Plugins.System.Cnds.TriggerOnce,
 		C3.Plugins.Text.Acts.SetFontSize,
-		C3.Plugins.Text.Acts.Destroy,
 		C3.Plugins.Sprite.Acts.Spawn,
 		C3.Plugins.Sprite.Exps.LayerName,
 		C3.Plugins.Sprite.Acts.SetHeight,
@@ -3933,10 +3938,10 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Acts.SetSize,
 		C3.Plugins.Sprite.Exps.Width,
 		C3.Plugins.System.Exps.zeropad,
-		C3.Plugins.Touch.Cnds.OnTouchStart,
 		C3.Plugins.Touch.Exps.TouchID,
 		C3.Plugins.Sprite.Exps.BBoxLeft,
-		C3.Plugins.Sprite.Exps.BBoxRight
+		C3.Plugins.Sprite.Exps.BBoxRight,
+		C3.Plugins.Text.Acts.SetBoolInstanceVar
 	];
 };
 self.C3_JsPropNameTable = [
@@ -3987,6 +3992,14 @@ self.C3_JsPropNameTable = [
 	{ButtonPause: 0},
 	{Star: 0},
 	{DrawingCanvas: 0},
+	{Running: 0},
+	{elaspedTime: 0},
+	{MaxTime: 0},
+	{Stopwatch: 0},
+	{StopwatchStart: 0},
+	{StopwatchReset: 0},
+	{MeasureBar: 0},
+	{MeasureText: 0},
 	{Button: 0},
 	{ToggleButton: 0},
 	{OrbitalBody: 0},
@@ -4010,7 +4023,8 @@ self.C3_JsPropNameTable = [
 	{Theta: 0},
 	{Mag: 0},
 	{tempSize: 0},
-	{tempIndex: 0}
+	{tempIndex: 0},
+	{Seconds: 0}
 ];
 }
 
@@ -4377,6 +4391,25 @@ self.C3_ExpressionFuncs = [
 			const v1 = p._GetNode(1).GetVar();
 			return () => f0(100, 100, 100, (50 + (25 * v1.GetValue())));
 		},
+		p => {
+			const n0 = p._GetNode(0);
+			const n1 = p._GetNode(1);
+			const f2 = p._GetNode(2).GetBoundMethod();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => C3.distanceTo(n0.ExpObject(), n1.ExpObject(), f2(), f3());
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const f1 = p._GetNode(1).GetBoundMethod();
+			return () => ((n0.ExpObject() + f1()) / 2);
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const n1 = p._GetNode(1);
+			const f2 = p._GetNode(2).GetBoundMethod();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => (Math.round(C3.distanceTo(n0.ExpObject(), n1.ExpObject(), f2(), f3())) / 10);
+		},
 		() => "ToggleButton",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -4444,6 +4477,27 @@ self.C3_ExpressionFuncs = [
 			const n8 = p._GetNode(8);
 			const n9 = p._GetNode(9);
 			return () => (Math.round((C3.lerp(n0.ExpInstVar(), n1.ExpInstVar(), C3.unlerp(n2.ExpObject(), n3.ExpObject(), C3.clamp(f4(n5.ExpObject()), n6.ExpObject(), n7.ExpObject()))) / n8.ExpInstVar())) * n9.ExpInstVar());
+		},
+		() => "Stopwatch Events",
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			const f2 = p._GetNode(2).GetBoundMethod();
+			const v3 = p._GetNode(3).GetVar();
+			const v4 = p._GetNode(4).GetVar();
+			return () => ((f0(Math.floor(v1.GetValue()), 2) + ".") + f2(Math.floor(((v3.GetValue() - Math.floor(v4.GetValue())) * 100)), 2));
+		},
+		() => "Start",
+		() => "Stop",
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const n1 = p._GetNode(1);
+			return () => f0(n1.ExpInstVar());
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const f1 = p._GetNode(1).GetBoundMethod();
+			return () => (n0.ExpInstVar() + f1());
 		}
 ];
 

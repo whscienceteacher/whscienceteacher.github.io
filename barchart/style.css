@@ -36,14 +36,36 @@ html, body, canvas {
 	color: #888;
 }
 
-
-@font-face {
-	font-family: 'selawkl';
-	src: url('fonts/selawkl.ttf') format('truetype');
+/* bbcode styles */
+.bbCodeH1 {
+	font-size: 2em;
+	font-weight: bold;
 }
 
-@font-face {
-	font-family: 'cascadiamono-semilight';
-	src: url('fonts/cascadiamono-semilight.otf') format('opentype');
+.bbCodeH2 {
+	font-size: 1.5em;
+	font-weight: bold;
 }
 
+.bbCodeH3 {
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+.bbCodeH4 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.bbCodeItem::before {
+	content: " • ";
+}
+
+/* screen reader text */
+.c3-screen-reader-text {
+	position: absolute;
+	width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}

@@ -2,7 +2,7 @@
 
 To use this app, you need to put the data into a .txt or .csv file on the internet that you control. For example, if your data were in https://example.com/achievementdata.txt, you would make the URL:  
 
-    https://whscience.org/achievements/#https://example.com/achievementdata.txt
+    https://whscience.org/badges/#https://example.com/achievementdata.txt
 
 The first row of the file is: [The Title],[url to image file]
 
@@ -10,7 +10,7 @@ For example:
 
     1st Period Spreadsheet Badges,https://i.postimg.cc/PJ6MhH9C/Spreadsheet-Charm.png
 
-The image file needs to be hosted on a server that allows cross linking. postimg.cc is one option that I know works. Make sure you include the https:// and the .png or .jpg. 
+The image is optional, but without it, the badges are blank. The image file needs to be hosted on a server that allows cross linking. postimg.cc is one option that I know works. Make sure you include the https:// and the .png or .jpg. 
 
 The rest of the file should be a basic CSV file with names in the first column and badge level in the second column.
 
@@ -37,4 +37,4 @@ That would work, but that includes the revision number (the part after /raw/) so
 
 Or the whole thing would be:
 
-    https://whscience.org/achievements/https://gist.githubusercontent.com/whscienceteacher/b8a94288935ab975216d39df9989d297/raw/ExampleAchievementData.csvtfrggggggtrffff
+    https://whscience.org/badges/https://gist.githubusercontent.com/whscienceteacher/b8a94288935ab975216d39df9989d297/raw/ExampleAchievementData.csvtfrggggggtrffff

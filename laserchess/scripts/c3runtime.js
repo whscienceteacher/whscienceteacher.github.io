@@ -4027,6 +4027,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.Keyboard.Cnds.OnKey,
+		C3.Plugins.Browser.Cnds.OnUpdateFound,
+		C3.Plugins.Browser.Cnds.OnUpdateReady,
+		C3.Plugins.Browser.Acts.Reload,
 		C3.Plugins.Function.Acts.CallFunction,
 		C3.Plugins.Function.Cnds.OnFunction,
 		C3.Plugins.System.Acts.CreateObject,
@@ -4054,6 +4057,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Exps.UID,
 		C3.Plugins.Sprite.Exps.AnimationName,
 		C3.Plugins.Sprite.Exps.Opacity,
+		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.System.Acts.SaveState,
 		C3.Plugins.System.Cnds.OnLoadComplete,
@@ -4066,7 +4070,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Exps.Height,
 		C3.Plugins.System.Cnds.Else,
 		C3.Plugins.Sprite.Acts.SetPos,
-		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.Sprite.Cnds.CompareX,
 		C3.Plugins.Sprite.Acts.Spawn,
@@ -4297,6 +4300,8 @@ self.C3_ExpressionFuncs = [
 			const v2 = p._GetNode(2).GetVar();
 			return () => (n0.ExpObject() + ((n1.ExpObject() - v2.GetValue()) - 180));
 		},
+		() => -1,
+		() => "Game Over",
 		() => "Save",
 		() => "mysave0",
 		p => {

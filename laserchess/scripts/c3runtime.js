@@ -4061,6 +4061,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.System.Acts.SaveState,
 		C3.Plugins.System.Cnds.OnLoadComplete,
+		C3.Plugins.Touch.Cnds.OnTapGestureObject,
+		C3.Plugins.Touch.Cnds.OnDoubleTapGestureObject,
+		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.Touch.Cnds.OnTapGesture,
 		C3.Plugins.Touch.Cnds.OnDoubleTapGesture,
 		C3.Plugins.Touch.Cnds.IsTouchingObject,
@@ -4073,7 +4076,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.Sprite.Cnds.CompareX,
 		C3.Plugins.Sprite.Acts.Spawn,
-		C3.Plugins.Touch.Cnds.OnDoubleTapGestureObject,
 		C3.Plugins.System.Exps.int,
 		C3.Behaviors.DragnDrop.Cnds.OnDrop,
 		C3.Plugins.System.Acts.Wait,
@@ -4091,8 +4093,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Function.Acts.SetReturnValue,
 		C3.Plugins.Arr.Acts.SetSize,
 		C3.Plugins.Sprite.Exps.Count,
-		C3.Plugins.System.Cnds.CompareVar,
-		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.System.Cnds.OnLoadFailed
 	];
 };
@@ -4301,7 +4301,7 @@ self.C3_ExpressionFuncs = [
 			return () => (n0.ExpObject() + ((n1.ExpObject() - v2.GetValue()) - 180));
 		},
 		() => -1,
-		() => "Game Over",
+		() => "Game Over - tap to go back to the menu",
 		() => "Save",
 		() => "mysave0",
 		p => {

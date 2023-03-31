@@ -4063,6 +4063,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.System.Exps.len,
 		C3.Plugins.System.Cnds.Else,
+		C3.Plugins.System.Exps.int,
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.System.Acts.SaveState,
 		C3.Plugins.System.Cnds.OnLoadComplete,
@@ -4079,7 +4080,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.Wait,
 		C3.Plugins.Sprite.Cnds.CompareX,
 		C3.Plugins.Sprite.Acts.Spawn,
-		C3.Plugins.System.Exps.int,
 		C3.Behaviors.DragnDrop.Cnds.OnDrop,
 		C3.Plugins.System.Cnds.ForEachOrdered,
 		C3.Plugins.Arr.Acts.SetXY,
@@ -4321,9 +4321,11 @@ self.C3_ExpressionFuncs = [
 			return () => f0(v1.GetValue());
 		},
 		() => 2,
+		() => "Mutual laser. Last player to move lost.",
 		p => {
-			const v0 = p._GetNode(0).GetVar();
-			return () => ((((v0.GetValue()) === (1) ? 1 : 0)) ? ("Green Wins - tap to go back to the menu") : ("Blue Wins - tap to go back to the menu"));
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((((f0(v1.GetValue())) === (1) ? 1 : 0)) ? ("Green Wins - tap to go back to the menu") : ("Blue Wins - tap to go back to the menu"));
 		},
 		() => "Save",
 		() => "mysave0",

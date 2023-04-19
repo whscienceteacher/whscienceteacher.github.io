@@ -61,14 +61,11 @@ html, body, canvas {
 	content: " • ";
 }
 
-
-@font-face {
-	font-family: 'selawkl';
-	src: url('fonts/selawkl.ttf') format('truetype');
+/* screen reader text */
+.c3-screen-reader-text {
+	position: absolute;
+	width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
 }
-
-@font-face {
-	font-family: 'cascadiamono-semilight';
-	src: url('fonts/cascadiamono-semilight.otf') format('opentype');
-}
-

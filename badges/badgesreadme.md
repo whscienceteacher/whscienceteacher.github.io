@@ -37,4 +37,4 @@ That would work, but that includes the revision number (the part after /raw/) so
 
 Or the whole thing would be:
 
-    https://whscience.org/badges/https://gist.githubusercontent.com/whscienceteacher/b8a94288935ab975216d39df9989d297/raw/ExampleAchievementData.csvtfrggggggtrffff
+    https://whscience.org/badges/#https://gist.githubusercontent.com/whscienceteacher/b8a94288935ab975216d39df9989d297/raw/ExampleAchievementData.csv

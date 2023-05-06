@@ -4188,6 +4188,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Browser.Exps.URL,
 		C3.Plugins.Text.Acts.SetVisible,
 		C3.Plugins.System.Acts.SetCanvasSize,
+		C3.Plugins.System.Acts.SetLayerVisible,
 		C3.Plugins.TextBox.Acts.Destroy,
 		C3.Plugins.System.Exps.replace,
 		C3.Plugins.System.Exps.mid,
@@ -4576,6 +4577,7 @@ self.C3_ExpressionFuncs = [
 		() => "Badges App",
 		() => 960,
 		() => 720,
+		() => "Editor",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const f1 = p._GetNode(1).GetBoundMethod();

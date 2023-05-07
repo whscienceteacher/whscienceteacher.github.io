@@ -15,4 +15,6 @@ Those definitions are **not** that helpful. You probably want to watch the video
 
 Once you understand how to meausure Period, Amplitude, and Wavelength, you can practice using the full [Wave Measurement Simulation](https://whscience.org/wavemeasure/measure/).
 
-Assignment for the day: Take a screenshot of 10 in a row for the [Bronze Badge](./badges.md).
+### Assignment for the day:
+
+Take a screenshot of 10 in a row for the [Bronze Badge](./badges.md).

@@ -10,4 +10,6 @@ Measurement of the wave quantities is similar to with [transverse waves](./lesso
 - [How to measure longitudinal period video](./howtomeasurelongitudinalperiod.mp4)
 - [How to measure longitudinal wavelenght video](./howtomeasurelongitudinalwavelength.mp4)
 
-Assignment for the day: Take a screenshot of 10 in a row for the [Silver Badge](./badges.md).
+### Assignment for the day:
+
+Take a screenshot of 10 in a row for the [Silver Badge](./badges.md).

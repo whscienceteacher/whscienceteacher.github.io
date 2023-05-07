@@ -1,6 +1,6 @@
 ## Waves Unit - 1st Period
 
-If you missed a day, you can use this website to help catch up. See the lessons below or check
+If you missed a day, you can use this website to help catch up. See the lessons below for the assignment.
 
 Every student must master measuring waves. Get more information and check your badges at: [Wave Measurement Achievements](./badges.md)
 

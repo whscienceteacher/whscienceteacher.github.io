@@ -7,9 +7,9 @@ All waves are a pattern of vibrations. In transverse waves, the vibration is at 
 
 Waves can be described using several quantities:
 
-- Period - The time it takes for a dot to go through a whole cycle. - [How to measure period video](./howtomeasureperiod.mp4)
-- Amplitude - The distance from the middle each dot moves. - [How to measure amplitude video](./howtomeasureamplitude.mp4)
-- Wavelength - The distance from one wave to the next. - [How to measure wavelength video](./howtomeasurewavelength.mp4)
+- Period - The time it takes for a dot to go through a whole cycle. [How-to video](./howtomeasureperiod.mp4)
+- Amplitude - The distance from the middle each dot moves. [How-to video](./howtomeasureamplitude.mp4)
+- Wavelength - The distance from one wave to the next. [How-to video](./howtomeasurewavelength.mp4)
 
 Those definitions are **not** that helpful. You probably want to watch the videos. The videos use the Simple Wave Measurement simulation from above so you can follow along.
 

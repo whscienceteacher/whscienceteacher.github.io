@@ -7,7 +7,9 @@ The link below is a digital piano that allows you to see longitudinal sound wave
 
 [Digital Piano](https://whscience.org/piano/air/)
 
-**Assignment for the day:** Use the simulation to explain how one musical note is different from another. Take specific measurements to support your observations. 
+### Assignment for the day:
+
+Use the simulation to explain how one musical note is different from another. Take specific measurements to support your observations. 
 
 You need to be able to measure longitudinal waves. You can go back to [lesson 2](./lesson2.md) for help or watch the videos. 
 - [How to measure longitudinal period video](./howtomeasurelongitudinalperiod.mp4)

@@ -1,4 +1,6 @@
 ## Lesson 1 - How to Measure Waves Part 1 - Transverse waves
+[Back to Unit Home Page](./index.md)
+
 All waves are a pattern of vibrations. In transverse waves, the vibration is at a right angle to the direction the wave moves. In the example below, the wave moves to the right, and the particles move up and down.
 
 [Simple Wave Measurement](https://whscience.org/wavemeasure/simple/)
@@ -13,4 +15,4 @@ Those definitions are **not** that helpful. You probably want to watch the video
 
 Once you understand how to meausure Period, Amplitude, and Wavelength, you can practice using the full [Wave Measurement Simulation](https://whscience.org/wavemeasure/measure/).
 
-Assignment for the day: Take a screenshot of 10 in a row for the Bronze Badge.
+Assignment for the day: Take a screenshot of 10 in a row for the [Bronze Badge](./badges.md).

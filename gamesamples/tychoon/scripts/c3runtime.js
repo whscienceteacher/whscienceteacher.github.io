@@ -4069,6 +4069,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Behaviors.MoveTo.Acts.MoveToPosition,
 		C3.Plugins.System.Exps.random,
 		C3.Plugins.System.Exps.layoutwidth,
+		C3.Plugins.Sprite.Exps.Y,
 		C3.Plugins.Sprite.Acts.SetAnim,
 		C3.Plugins.System.Exps.choose,
 		C3.Behaviors.MoveTo.Cnds.OnArrived,
@@ -4076,7 +4077,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Exps.X,
 		C3.Plugins.Sprite.Exps.BBoxTop,
 		C3.Plugins.Sprite.Acts.SetInstanceVar,
-		C3.Plugins.Sprite.Exps.Y,
 		C3.Plugins.Sprite.Acts.StopAnim,
 		C3.Plugins.Sprite.Exps.UID,
 		C3.Plugins.Sprite.Cnds.CompareInstanceVar,
@@ -4124,6 +4124,7 @@ self.C3_JsPropNameTable = [
 	{Text: 0},
 	{Spaces: 0},
 	{Touch: 0},
+	{StarsOut: 0},
 	{Stars: 0},
 	{Fame: 0},
 	{NextTime: 0},
@@ -4241,16 +4242,20 @@ self.C3_ExpressionFuncs = [
 			const v0 = p._GetNode(0).GetVar();
 			const v1 = p._GetNode(1).GetVar();
 			const v2 = p._GetNode(2).GetVar();
-			return () => (v0.GetValue() + (30 * (v1.GetValue() / v2.GetValue())));
+			return () => (v0.GetValue() + ((30 / v1.GetValue()) / v2.GetValue()));
 		},
 		() => 0,
 		() => -16,
-		() => 32,
+		() => 64,
 		() => "",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const f1 = p._GetNode(1).GetBoundMethod();
 			return () => (32 + Math.round(f0((f1() - 64))));
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpObject();
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -4260,10 +4265,6 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const n0 = p._GetNode(0);
 			return () => (n0.ExpObject() - 2);
-		},
-		p => {
-			const n0 = p._GetNode(0);
-			return () => n0.ExpObject();
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -4327,10 +4328,15 @@ self.C3_ExpressionFuncs = [
 			const v2 = p._GetNode(2).GetVar();
 			return () => f0("⭐⭐⭐⭐⭐", C3.clamp(Math.ceil(((10 + n1.ExpInstVar()) - v2.GetValue())), 1, 5));
 		},
+		() => 0.1,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => f0("⭐⭐⭐⭐⭐", Math.round(v1.GetValue()));
+		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			const v1 = p._GetNode(1).GetVar();
-			return () => and(and(v0.GetValue(), "$   Stars: "), v1.GetValue());
+			return () => ((and(v0.GetValue(), "$") + "\n") + "Stars: ");
 		},
 		() => 100,
 		p => {

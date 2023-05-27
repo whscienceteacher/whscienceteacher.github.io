@@ -1,0 +1,10 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "A": "U",
+        "U": "A",
+        "C": "G",
+        "G": "C",
+        "T": "A"
+    }
+}

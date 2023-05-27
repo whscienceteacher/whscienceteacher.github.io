@@ -16,8 +16,6 @@ If you find them useful, consider [donating to the Wild Haired Science Teacher o
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
-[Air Pressure Paper](/airpressurepaper/) - **Chemistry/Physics** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. 
-
 [Bug In Meadow](/buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
 [Bone, Cartilage, Tendon and Histology](/histology/connectivetissue/) - **Biology** Shows slides of Students zoom in on four slides. Solid Bone, Tendon, Hyaline Cartilage, and Fibrocartilage. I could probably add elastic cartilage if there was demand but I am not talking about it with my students so I left it off. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
@@ -32,11 +30,17 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Peppered Moths](/pepperedmoths/) - **Biology** - Classic peppered moth experiment with a graph to show directional and stabilizing selection. User taps moths to eat them. After half are eaten the simulation automatically counts and reproduces them with a small amount of mutation. The simulation shows can show clean trees or sooty trees, or the user can change the darkness.
 
+[Air Pressure Paper](/airpressurepaper/) - **Chemistry/Physics** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. 
+
+[Balloon](/balloon/) - **Chemistry** - Look for gas patterns using a particle model of an inflated balloon. Students can change the number of particles and the temperature and see how the size of the balloon changes. The balloon size depends on collisions with the particles, something the students can figure out through observation. I originally made this for astronomy, so the base version doesn’t show gas outside the balloon. There is a version showing the [balloon in an atmosphere](/balloon/atmo/) where the balloon only shrinks when hit by gas on the outside. There are also versions in °C for the [base version](/balloon/c/) and [atmosphere version](/balloon/atmo/c/). Note: This simulation does not try to accurately model temperature. It cannot be used for a mathematical representation of gas laws.  
+
 [Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
 [Light and Temperature](/lighttemp/) - **Chemistry/Physics** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
 
 [Mg HCl](/mghcl/) - **Chemistry** - Simulates HCl reacting with Mg. Shows the molecules and graphs of compound levels. I made this for a friend so I haven't used it personally, but it has been tested by a number of chemistry teachers.
+
+[Planet Gas Model](/planetgasmodel/) - **Pressure** - A particle model with gravity. Students can discover patterns and figure out how why pressure changes with elevation on a planet like Earth. The gas particles follow only simple rule. Gravity pulls towards the center. Unlike most of my simulations, this one uses code from an physics library which doesn’t conserve energy well so it has to reset every 30 seconds. There is also a [version with no solid planet in the middle.](/stargasmodel/) 
 
 [Rusting](/rusting/) - **Chemistry** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
@@ -207,7 +211,9 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Osmosis Diagram Maker](/diagrams/osmosis/) - **Biology** - Quickly make infinite diagrams showing a cell membrane molecules inside and out so students can practice thinking about the flow of water across the membrane. Change the amounts by dragging the boxes on the right. Click to re-roll with the same numbers. Screenshot to save the diagram. (Sorry, no screenshot button on this one.)
 
-[Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
+[Reaction PE](/diagrams/reactionpe/) - **Chemistry/Physics** - Quickly make diagrams showing PE of a reaction. Change energy of the reactants, products, and activation energy. Add and edit labels. Save clean looking PNG images. Locally auto-saves your last diagram on reloading. Made on commission.
+
+[Stick Figure](/stickfigure/) - **Physics** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. Semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
 [Two Wave Diagrams](/twowavediagrams/) - **Physics** - Combines two waves and saves a png of the result. Waves can be combined with AM, FM, or with simple interference. AM and FM support square waves. Can change the wavelength, amplitude, and phase of each wave. Wavelength and Amplitude are in pixel units. For phase 1=-90° for some reason.
 

@@ -1,0 +1,6 @@
+|||Title=Lions
+||Text=Lions live in groups
+|Image=lion2.jpg
+|Image=lion3.jpg
+||Text=Oops, that's a cheetah.
+|Image=cheetah.JPG

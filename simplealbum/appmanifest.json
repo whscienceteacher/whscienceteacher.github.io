@@ -1,6 +1,6 @@
 {
-	"name": "Template",
-	"short_name": "Template",
+	"name": "Simple Album",
+	"short_name": "Simple Album",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

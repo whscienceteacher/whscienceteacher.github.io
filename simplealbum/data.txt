@@ -1,6 +1,67 @@
-|||Title=Lions
-||Text=Lions live in groups
-|Image=lion2.jpg
-|Image=lion3.jpg
-||Text=Oops, that's a cheetah.
-|Image=cheetah.JPG
+|Path=./
+||Title=Pride Hunting
+|Text=There was a pride of lions consisting of six females and one male sitting in the sun in an area of short grass. A buffalo came along grazing. It saw the lions but continued moving slowly and grazing.
+|Image=lionshunting01.jpg
+|Image=lionshunting02.jpg
+|Image=lionshunting03.jpg
+|Text=As it got closer, the lions got up one-by-one and moved towards it a slow half crouch. Every time the buffalo looked up, the lions froze, thought one always kept moving.
+|Image=lionshunting04.jpg
+|Image=lionshunting05.jpg
+|Image=lionshunting06.jpg
+|Text=They were in plain sight of the buffalo and eventually the buffalo was spooked and ran away. The lions didn’t follow.
+|Image=lionshunting07.jpg
+|Image=lionshunting08.jpg
+|Image=lionshunting09.jpg
+|Image=lionshunting10.jpg
+|Text=This lion lay down in disgust.
+|Image=lionshunting11.jpg
+
+||Title=Single Lioness
+|Text=There was also a solitary lioness walking over the hills apparently looking for a meal in the same area. She passed by a herd of impalas, then sat for a time on the side of the hill looking around.
+
+Eventually she took off again followed by a jackal. The grass was too tall to get a good picture of them leaving. 
+|Image=DSCL00572.JPG
+|Image=DSCL00578.JPG
+|Image=DSCL00588.JPG
+|Image=DSCL00591.JPG
+|Image=DSCL00611.JPG
+|Image=DSCL00613.JPG
+|Text=We saw her later in a gully by a watering hole, perhaps hoping something good would come to drink.
+|Image=DSCL00782.JPG
+|Image=DSCL00783.JPG
+|Image=DSCL00784.JPG
+
+||Title=Prides Resting
+|Text=Lions appear to spend a huge part of the day resting. Most of the time when we saw lions, the adults were lying down. The cubs often played a little bit while one or two of the adults lazily watched.
+|Image=DSCL05984.JPG
+|Image=DSCL06901.JPG
+|Image=DSCL05946.JPG
+|Image=DSCL05948.JPG
+|Image=DSCL05949.JPG
+|Text=The males are usually nearby but a little ways away. Cubs sometimes visited them.
+|Image=DSCL05957.JPG
+|Image=DSCL06894.JPG
+|Image=DSCL07716.JPG
+|Image=DSCL08322.JPG
+|Text=These lions think they are leopards and were lying in the trees.
+Their family was nearby. Eventually they jumped down to round up the cubs.
+|Image=DSCL06525.JPG
+|Image=DSCS07725.JPG
+|Text=Maybe they like to lay in the tree because it gave them a good view.
+We often saw lion on high places, be it a cliff or just a termite mound.
+|Image=DSCL09935.JPG
+|Image=DSCL09885.JPG
+|Image=DSCL09872.JPG
+|Image=DSCL07191.JPG
+|Image=DSCL07197.JPG
+|Image=DSCS07880.jpg
+|Text=This family had clearly just eaten. They were resting under a tree with 
+very full bellies.
+|Image=DSCS08057.JPG
+|Image=DSCL07696.JPG
+|Image=DSCL07709.JPG
+|Image=DSCL07703.JPG
+|Text=The cubs were nursing. One of the cubs nursed from three different mothers. It would come visit each female to cuddle then nurse. 
+|Image=DSCL07632.JPG
+|Image=DSCL07739.JPG
+|Image=DSCL07727.JPG

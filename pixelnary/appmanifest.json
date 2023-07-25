@@ -4,7 +4,7 @@
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{

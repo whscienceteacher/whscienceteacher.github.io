@@ -1,6 +1,6 @@
 {
-	"name": "Crane Game",
-	"short_name": "Crane Game",
+	"name": "Robot Crane Game",
+	"short_name": "Robot Crane Game",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

@@ -61,9 +61,20 @@ html, body, canvas {
 	content: " • ";
 }
 
-
-@font-face {
-	font-family: 'selawkl';
-	src: url('fonts/selawkl.ttf') format('truetype');
+/* For text icons converted to HTML: size the height to the line height
+   preserving the aspect ratio. Also add position: relative as that allows
+   just adding a 'top' style for the iconoffsety style. */
+.c3-text-icon {
+	height: 1em;
+	width: auto;
+	position: relative;
 }
 
+/* screen reader text */
+.c3-screen-reader-text {
+	position: absolute;
+	width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}

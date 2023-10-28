@@ -1,10 +1,10 @@
 {
-	"name": "DNA to Proteins",
-	"short_name": "DNA to Proteins",
+	"name": "Components to Vector",
+	"short_name": "Components to Vector",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"background_color": "#ffffff",
 	"icons": [
 		{

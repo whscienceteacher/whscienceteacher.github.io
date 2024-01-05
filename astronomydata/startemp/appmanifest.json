@@ -1,10 +1,10 @@
 {
-	"name": "Star Spectra Temperature",
-	"short_name": "Star Spectra Temperature",
+	"name": "Star Temperature",
+	"short_name": "Star Temperature",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{

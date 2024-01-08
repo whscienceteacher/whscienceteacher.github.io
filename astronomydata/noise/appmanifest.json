@@ -1,10 +1,10 @@
 {
-	"name": "Star Noise Data",
-	"short_name": "Star Noise Data",
+	"name": "Star Noise",
+	"short_name": "Star Noise",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{

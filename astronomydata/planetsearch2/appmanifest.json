@@ -1,10 +1,10 @@
 {
-	"name": "Looking for Planets Data",
-	"short_name": "Looking for Planets Data",
+	"name": "Planet Search 2",
+	"short_name": "Planet Search 2",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{

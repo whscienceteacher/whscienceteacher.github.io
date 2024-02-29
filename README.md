@@ -222,7 +222,7 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Codon Chart](/codonchart/) - **Biology** - Quick interactive version of a circular codon chart. It helps students learn how to read the static version since it gives visual feedback about which amino acid you are selecting. 
 
-[Oscilloscope](/oscilloscope/]) - A very simple simulation of an oscilloscope to demonstrate how they work. Shows a single vibrating air molecule and the oscilloscope output. Doesn't use triggering or anything like that. Users can drag the molecule and see the custom output. 
+[Oscilloscope](/oscilloscope/) - A very simple simulation of an oscilloscope to demonstrate how they work. Shows a single vibrating air molecule and the oscilloscope output. Doesn't use triggering or anything like that. Users can drag the molecule and see the custom output. 
 
 [Spring Scale](/springscale/) - It's just a spring scale. You put brass weights on it of masses between 0.05 and 1 kg. I made it so my students could have mass and weight data without needing to know about g. 
 

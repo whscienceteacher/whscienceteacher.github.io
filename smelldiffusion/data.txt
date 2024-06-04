@@ -1,0 +1,8 @@
+Question
+Type=MC
+Text=Buenos dias
+Choice=Good morning
+Choice=Good afternoon
+Choice=Excuse me
+Choice=Good bye
+Answer=Good morning

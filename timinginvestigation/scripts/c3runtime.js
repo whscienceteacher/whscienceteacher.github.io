@@ -4538,10 +4538,11 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetInstanceVar,
 		C3.Plugins.Sprite.Exps.Width,
 		C3.Plugins.System.Cnds.EveryTick,
+		C3.Plugins.System.Exps.wallclocktime,
+		C3.Plugins.Keyboard.Cnds.IsKeyDown,
 		C3.Plugins.System.Exps.timescale,
 		C3.Plugins.Sprite.Acts.SetX,
 		C3.Plugins.Sprite.Exps.X,
-		C3.Plugins.System.Exps.time,
 		C3.Plugins.Sprite.Cnds.IsOutsideLayout,
 		C3.Plugins.Sprite.Cnds.CompareX,
 		C3.Plugins.Text.Acts.SetText,
@@ -4624,12 +4625,15 @@ self.C3_JsPropNameTable = [
 	{Vx: 0},
 	{startT: 0},
 	{lastT: 0},
+	{deltaT: 0},
 	{Ball: 0},
 	{Line: 0},
 	{Button: 0},
 	{ToggleButton: 0},
 	{level: 0},
 	{wallClockOffset: 0},
+	{DeltaT: 0},
+	{keySlowFactor: 0},
 	{index: 0},
 	{FindString: 0},
 	{DataString: 0},
@@ -4923,11 +4927,26 @@ self.C3_ExpressionFuncs = [
 			return () => ((-n0.ExpObject()) / 2);
 		},
 		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const n1 = p._GetNode(1);
+			return () => (f0() - n1.ExpInstVar());
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const v1 = p._GetNode(1).GetVar();
+			return () => (n0.ExpInstVar() / v1.GetValue());
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const n1 = p._GetNode(1);
+			const n2 = p._GetNode(2);
+			return () => (n0.ExpObject() + (n1.ExpInstVar() * n2.ExpInstVar()));
+		},
+		p => {
 			const n0 = p._GetNode(0);
 			const f1 = p._GetNode(1).GetBoundMethod();
 			const n2 = p._GetNode(2);
-			const n3 = p._GetNode(3);
-			return () => (n0.ExpObject() + ((f1() - n2.ExpInstVar()) * n3.ExpInstVar()));
+			return () => (((-n0.ExpObject()) / 2) - f1(n2.ExpObject()));
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -4950,11 +4969,15 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			return () => C3.clamp((v0.GetValue() - 1), 0, 40);
+			return () => C3.clamp((v0.GetValue() - 1), 0, 100);
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			return () => C3.clamp((v0.GetValue() + 1), 0, 40);
+			return () => C3.clamp((v0.GetValue() + 1), 0, 100);
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => (5 + f0(5));
 		},
 		() => "ToggleButton",
 		p => {

@@ -4514,17 +4514,21 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.AJAX,
 		C3.Behaviors.DragnDrop,
 		C3.Plugins.System.Cnds.OnLayoutStart,
+		C3.Plugins.System.Cnds.Compare,
+		C3.Plugins.System.Exps.len,
+		C3.Plugins.Browser.Exps.Hash,
+		C3.Plugins.System.Acts.SetVar,
+		C3.Plugins.System.Exps.int,
+		C3.Plugins.System.Exps.replace,
 		C3.Plugins.System.Cnds.IsGroupActive,
 		C3.Plugins.System.Cnds.For,
 		C3.Plugins.System.Exps.tokencount,
-		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.System.Exps.trim,
 		C3.Plugins.System.Exps.tokenat,
 		C3.Plugins.System.Exps.loopindex,
 		C3.Plugins.System.Acts.SetFunctionReturnValue,
 		C3.Plugins.System.Acts.StopLoop,
 		C3.Plugins.System.Cnds.Else,
-		C3.Plugins.System.Acts.SetVar,
 		C3.Plugins.System.Exps.random,
 		C3.Plugins.System.Exps.uppercase,
 		C3.Plugins.System.Exps.float,
@@ -4625,6 +4629,7 @@ self.C3_JsPropNameTable = [
 	{Button: 0},
 	{ToggleButton: 0},
 	{level: 0},
+	{wallClockOffset: 0},
 	{index: 0},
 	{FindString: 0},
 	{DataString: 0},
@@ -4760,6 +4765,18 @@ function or(l, r)
 }
 
 self.C3_ExpressionFuncs = [
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const f1 = p._GetNode(1).GetBoundMethod();
+			return () => f0(f1());
+		},
+		() => 1,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const f2 = p._GetNode(2).GetBoundMethod();
+			return () => f0(f1(f2(), "#", ""));
+		},
 		() => "StringListLibrary",
 		() => "",
 		() => 0,
@@ -4933,13 +4950,12 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			return () => C3.clamp((v0.GetValue() - 1), 0, 20);
+			return () => C3.clamp((v0.GetValue() - 1), 0, 40);
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			return () => C3.clamp((v0.GetValue() + 1), 0, 20);
+			return () => C3.clamp((v0.GetValue() + 1), 0, 40);
 		},
-		() => 1,
 		() => "ToggleButton",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();

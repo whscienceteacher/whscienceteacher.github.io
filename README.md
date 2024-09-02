@@ -16,9 +16,11 @@ If you find them useful, consider [donating to the Wild Haired Science Teacher o
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
-[Bug In Meadow](/buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
+[Bug In Meadow](/buginmeadow/) - **Biology** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in the meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
 
 [Bone, Cartilage, Tendon and Histology](/histology/connectivetissue/) - **Biology** Shows slides of Students zoom in on four slides. Solid Bone, Tendon, Hyaline Cartilage, and Fibrocartilage. I could probably add elastic cartilage if there was demand but I am not talking about it with my students so I left it off. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
+[Cell Scale](/cellscale/) - **Biology** - Zoom in and out to different scales of photo micrographs of cells. The animal cell has labels. The plant cell does not. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain.
 
 [Connective Tissue Histology Slides](/histology/connectivetissue/) - **Biology** - Shows different types of irregular connective tissue: Dense, reticular, areloar, and white adipose. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. Please let me know if the labels are wrong. It's been a long time since I took histology and I couldn't find my textbook. 
 
@@ -108,6 +110,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Piano](/piano/) - **Physics** - Keyboard that plays sounds. Keys are numbered and also show musical notes. All keys work. Also available in a [version that shows a longitudinal sound wave](/piano/wave/). In that version students can measure wavelengths. 
 
+[Position Velocity Graph](/positionvelocitygraph/) - **Physics** - Drag a car around the screen and see the position vs. time and velocity vs. time graphs. There is some smoothing to simplify the motion and help make the graphs more clear. Works best with touch but functions with mouse. 
+
 [Pull Cart](/pullcart/) - **Physics** - Push or pull on a cart through a spring. The app records force and acceleration and graphs them so students can figure out the mass is the slope. Can export the data as csv. The [Find Mass Version](/pullcart/findmass/) has three carts with different unknown masses. Students can download data and use linear regression to find the masses. Built to help high school students use the analyzing and data practice. The [No Random](/pullcart/nr/) version removes the randomness so students can find the slope of the force vs. acceleration graph by hand. 
 
 [Relative Car Velocity](/relativecarvelocity/) - **Physics** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
@@ -155,6 +159,10 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Transcription and Translation](/transcriptiontranslation/) - **Biology** - Move base pairs around to transcribe off an open DNA sequence and then act as tRNA and bring in the right amino acid using a chart. I'm going to be honest. This app is so old I don't really remember making it but I tested it out and it seems to work fine. **There is a new, cleaner version of this that also show protein folding. See Dna to Protein above**
 
+[Bond Energy Happiness](/bondenergyhappiness/) - **Biology/Chemistry** - This is my attempt at dispelling the common misconception that breaking bonds releases energy. I tried to make it clear that it is the reforming of more stable bonds that release energy. 
+
+[Acceleration Examples](/accelerationexamples/) - **Physics** - Many cars on screen showing different motions with acceleration. Each shows the distance and velocity graphs vs. time. I made many versions of this: [bus](/accelerationexamples/bus/), [bus2](/accelerationexamples/bus2/), [bus3](/accelerationexamples/bus3/).
+
 [Ants](/ants/) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty. [Ants II](/antsii/) has students estimate initial and final velocity by using sets of lines close together to see which ant has a higher acceleration. Ants II is also available with the [opposite outcome](/antsii/ii/) incase you want different sections to get different results. [Ants III](/antsiii/) shows both ants with constant velocitie. Students can use them to measure distance or see which ant is faster. Ants III is also available with the [opposite result](/antsiii/iii/) in case you want different sections to get different results. 
 
 [Cars](/cars/)  - **Physics** - Three cars of different colors drive along a road. Students can time them and use calculations to determine their velocities. This version has all constant speeds but they start at different places. 
@@ -164,6 +172,10 @@ Think of these as virtual practice problems. Students make measurements and calc
 [Car Challenge](/carchallenge/) - **Physics** - Students take measurements and make calculations to determine if the car has a small acceleration or if it traveling at a constant speed. There is also a [second version](/carchallengeii/) with the alternative outcome. 
 
 [Car Crash](/carcrash/) - **Physics** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.md) has the information I gave them.
+
+[Curling Quiz](/curlingquiz/) - **Physics** - Shows a curling stone sliding across the screen. Current time and velocity are shown. 
+
+[Kayak Quiz](/kayakquiz/) - **Physics** - Shows a dot tracking a kayak on a long trip along with the time in several units. Students can pause but have no other tools or controls. I challenged my students to estimate the speed of the kayak and decide if it changes. 
 
 [Measuring Gravity](/gravity/) - **Physics** - I normally do an activity where I drop a metal ball down a three flight stairwell and have students time it. I can't do that remotely so I will use this simulation. Students time a 10m drop and then can calculate g. They can then use that to calculate a greater distance. 
 
@@ -188,6 +200,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 ### Games
 I'm not going to claim these are the most effecient way to learn something, but they are at least a little bit fun. 
+
+[Mammu and Amfa - Homeostasis Game](/mammuandamfa/) - **Biology** - I actually made this for my astronomy class in our astrobiology unit but the purpose is to get students thinking about homeostasis. A short platform puzzle game. Two aliens must work together and use their strengths and weaknesses to maintain homeostasis and explore the galaxy. 
 
 [Sleigher](/sleigher/) - **Physics** - Silly game of delivering presents. Players compete to try and land their sleigh on the house by changing its launch angle and velocity. 
 

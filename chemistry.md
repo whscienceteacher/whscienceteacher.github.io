@@ -13,6 +13,8 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Balloon](/balloon/) - **Pressure** - Look for gas patterns using a particle model of an inflated balloon. Students can change the number of particles and the temperature and see how the size of the balloon changes. The balloon size depends on collisions with the particles, something the students can figure out through observation. I originally made this for astronomy, so the base version doesn’t show gas outside the balloon. There is a version showing the [balloon in an atmosphere](/balloon/atmo/) where the balloon only shrinks when hit by gas on the outside. There are also versions in °C for the [base version](/balloon/c/) and [atmosphere version](/balloon/atmo/c/). Note: This simulation does not try to accurately model temperature. It cannot be used for a mathematical representation of gas laws.  
 
+[Bond Energy Happiness](/bondenergyhappiness/) - **Energy and Bonds** - This is my attempt at dispelling the common misconception that breaking bonds releases energy. I tried to make it clear that it is the reforming of more stable bonds that release energy. 
+
 [Heat Capacity](/heatcapacity/) - **Heat** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
 [Light and Temperature](/lighttemp/) - **Heat** - Change the temperature of a black body. See the distribution of light by wavelength and see an approximation of the color. I have a version that shows the distribution by frequency too I could fix up if there is interest. 
@@ -35,6 +37,8 @@ These replicate something like you would get with a hands on lab. Students can c
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.
 
 [Reaction PE](/diagrams/reactionpe/) - **PE** - Make diagrams showing PE of a reaction. Change energy of the reactants, products, and activation energy. Add and edit labels. Save clean looking PNG images. Locally auto-saves your last diagram on reloading. Made on commission.
+
+
 
 ---
 

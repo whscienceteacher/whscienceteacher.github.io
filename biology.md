@@ -62,6 +62,8 @@ Sometimes it's easier for me to make an app once rather than make 100 versions o
 
 [Pedigree Maker](/pedigree/) - **Biology** - A request of my wife's - Make pedigree diagrams by dragging the pieces around. Double click to select a piece. Use a screenshot to save the image. (Win-PrtScn or Fn-Win-Space on Windows, Shift-Cmd-4 on Mac)
 
+### Games 
+[Mammu and Amfa - Homeostasis Game](/mammuandamfa/) - **Biology** - I actually made this for my astronomy class in our astrobiology unit but the purpose is to get students thinking about homeostasis. A short platform puzzle game. Two aliens must work together and use their strengths and weaknesses to maintain homeostasis and explore the galaxy. 
 ---
 
 Check back soon for more. [Support ongoing development on patreon](https://www.patreon.com/whscienceteacher). whscienceteacher at outlook. com

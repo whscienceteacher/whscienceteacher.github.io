@@ -12,6 +12,7 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 [Oscilloscope](/oscilloscope/) - A very simple simulation of an oscilloscope to demonstrate how they work. Shows a single vibrating air molecule and the oscilloscope output. Doesn't use triggering or anything like that. Users can drag the molecule and see the custom output.
 
 ### Motion <a name="motion"></a>
+[Acceleration Examples](/accelerationexamples/) - **Measurement/Problem** - Many cars on screen showing different motions with acceleration. Each shows the distance and velocity graphs vs. time. I made many versions of this: [bus](/accelerationexamples/bus/), [bus2](/accelerationexamples/bus2/), [bus3](/accelerationexamples/bus3/).
 
 [Ants](/ants/) - **Measurement/Problem** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty. [Ants II](/antsii/) has students estimate initial and final velocity by using sets of lines close together to see which ant has a higher acceleration. Ants II is also available with the [opposite outcome](/antsii/ii/) incase you want different sections to get different results. [Ants III](/antsiii/) shows both ants with constant velocitie. Students can use them to measure distance or see which ant is faster. Ants III is also available with the [opposite result](/antsiii/iii/) in case you want different sections to get different results. 
 
@@ -28,6 +29,10 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 [Car Challenge](/carchallenge/) - **Measurement/Problem** - Students take measurements and make calculations to determine if the car has a small acceleration or if it traveling at a constant speed. There is also a [second version](/carchallengeii/) with the alternative outcome. 
 
 [Car Crash](/carcrash/) - **Measurement/Problem** - Students figure out if a driver in a minor car crash is to blame. They check the driver's statements against recorded information, measurements, and calculations to judge if the driver is telling the truth. [This page](/carcrash/info.md) has the information I gave them.
+
+[Curling Quiz](/curlingquiz/) - **Measurement/Problems** - Shows a curling stone sliding across the screen. Current time and velocity are shown. 
+
+[Kayak Quiz](/kayakquiz/) - **Measurement/Problem** - Shows a dot tracking a kayak on a long trip along with the time in several units. Students can pause but have no other tools or controls. I challenged my students to estimate the speed of the kayak and decide if it changes. 
 
 [Distance Table Graph](/distancetablegraph/) - **Physics** - Drag and drop a truck and see the distance vs. time data it produces. Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) and [Velocity Table Graph Relative](/velocitytablegraph/). 
 
@@ -46,6 +51,8 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 [Pendulum](/pendulum/) - **Lab/Phenomenon** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
 [Relative Car Velocity](/relativecarvelocity/) - **Lab/Phenomenon** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
+
+[Position Velocity Graph](/positionvelocitygraph/) - **Lab/Phenomenon** - Drag a car around the screen and see the position vs. time and velocity vs. time graphs. There is some smoothing to simplify the motion and help make the graphs more clear. Works best with touch but functions with mouse. 
 
 [Roller Coaster Motion](/rollercoastermotion/) - **Lab/Phenomenon** - Change the angle of the slope and initial of a roller coaster. Record and download position, velocities, and acceleration. Data is also shown as graphs on screen. Also comes in a [version without acceleration data](/rollercoastermotion/dv/) if you want students to find acceleration themselves. 
 

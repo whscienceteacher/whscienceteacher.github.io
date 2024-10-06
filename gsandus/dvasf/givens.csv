@@ -1,0 +1,46 @@
+She walked in at 5:||:1#,ts,Walking in is the beginning of the motion.
+she started when the timer was #.#s,ts,Notice the word 'start' is in the sentence. 
+she started #0m away from the line,ds,Notice the word 'start' is in the sentence.
+She got to &.#m to the right,df,Where you get to is at the end. 
+She got to &.||m from the start,df,Where you get to is at the end. 
+she started #0m to the left,ds,Notice the word 'start' is in the sentence.
+She stopped at 3:||:#0,tf,This is at the end of the motion
+She stopped when the timer was at #.||s,tf,Notice the word 'stopped' in the sentence. 
+she walked towards the stuff that was #.&m away.,?d,This asks for the amount of distance.
+she went at &.#m/s,v,The word 'at' indicates that the speed didn't change.
+she was walking at #.&,v,You don't need the unit for this one. With the word at
+she sped up to #.&m/s,vf,The word 'to' indicates that it is at the end. It's what you get to at the end.
+she slowed down to #.&m/s,vf,The word 'to' indicates that it is at the end. It's what you get to at the end.
+she slowed down with &.#m/s/s,a,Look at the unit on the number. It isn't m/s
+she sped up with &.#m/s/s,a,Look at the unit on the number. It isn't m/s
+she was traveling for #&s,?t,The word 'for' suggests it probably is the amount of time. 
+she traveled at #m/s,v,The word 'at' indicates that the speed didn't change.
+she traveled for a total of #&m,?d,This asks for the amount of distance.
+she ran for #&s,?t,This asks for the amount of time.
+she started her run at &.#m/s,vs,Look at the unit and notice it says 'start.
+she sped up by &.#m/s,?v,This can't be acceleration with that word. Notice it has the word 'by' in it. 
+she increased her speed by #.&,?v,This can't be acceleration with that word. Notice it has the word 'by' in it. 
+she slowed down by &.#m/s,?v,This can't be acceleration with that word. Notice it has the word 'by' in it. 
+she changed her speed by &.#m/s,?v,The word 'for' suggests it probably is the amount of time. 
+she sped up for #.9&s,?t,The word 'for' suggests it probably is the amount of time. 
+she slowed down for &.||s,?t,The word 'for' suggests it probably is the amount of time. 
+she started slowing down at 0.||m/s/s,a,Look at the unit on the number. It isn't m/s
+her acceleration was &.#m/s/s,a,The word is right in the sentence. Read all the words.
+she did it for &.#s,?t,The word 'for' suggests it probably is the amount of time. 
+she walked towards it for # minutes,?t,The word 'for' suggests it probably is the amount of time. 
+she was changing her velocity by #.&#m/s,?v,The word is right in the sentence. Read all the words.
+she started at #m/s,vi,Look at the unit and notice it says 'start'.
+she was moving at #.&m/s when she hit the ground,vf,Hitting the ground is the end of the motion.
+She fell for #&m before hitting the platform.,?d,This asks for the amount of distance.
+she slowed herself with 0.#&m/s/s,a,Look at the unit on the number. It isn't m/s
+she landed at #.&m/s,vf,Landing is the end of the motion. 
+when she started falling she was moving at 0.#&m/s,vs,Notice the word 'start' is in the sentence. 
+her acceleration was &.#m/s/s,a,The word is right in the sentence. Read all the words.
+she slowed herself with 0.#&m/s/s,a,Look at the unit on the number. It isn't m/s
+she slowed down with &.#m/s/s,a,Look at the unit on the number. It isn't m/s
+she sped up with &.#m/s/s,a,Look at the unit on the number. It isn't m/s
+She walked in at 5:||:1#,ts,Walking in is the beginning of the motion.
+she started her run at 1#m/s,vs,Notice the word 'start' is in the sentence. 
+she started at #m/s,vs,Notice the word 'start' is in the sentence. 
+she started when the timer was #.#s,ts,Notice the word 'start' is in the sentence. 
+she started #0m away from the line,ds,Notice the word 'start' is in the sentence.

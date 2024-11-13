@@ -1378,7 +1378,7 @@ function integrateWasmJS(Module) {
     var method = Module["wasmJSMethod"] || "native-wasm";
     Module["wasmJSMethod"] = method;
     var wasmTextFile = Module["wasmTextFile"] || "opus.wasm.wast";
-	var wasmBinaryFile = Module["wasmBinaryFile"] || self["cr_opusWasmBinaryUrl"] || "opus.wasm.wasm";
+	var wasmBinaryFile = Module["wasmBinaryFile"] || "opus.wasm.wasm";
     var asmjsCodeFile = Module["asmjsCodeFile"] || "opus.wasm.temp.asm.js";
     if (typeof Module["locateFile"] === "function") {
         wasmTextFile = Module["locateFile"](wasmTextFile);

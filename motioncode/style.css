@@ -27,7 +27,7 @@ canvas, .c3htmlwrap {
 	pointer-events: none;
 }
 
-.c3htmlwrap > * {
+.c3htmlwrap[interactive] > * {
 	pointer-events: auto;
 }
 

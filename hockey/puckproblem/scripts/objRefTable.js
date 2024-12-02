@@ -137,6 +137,7 @@ self.C3_JsPropNameTable = [
 	{ProjectText2: 0},
 	{ButtonThickness: 0},
 	{ProjectText3: 0},
+	{ButtonReset: 0},
 	{Button: 0},
 	{ToggleButton: 0},
 	{Mode: 0},
@@ -199,6 +200,7 @@ self.InstanceType = {
 	ProjectText2: class extends self.ITextInstance {},
 	ButtonThickness: class extends self.ITextInstance {},
 	ProjectText3: class extends self.ITextInstance {},
+	ButtonReset: class extends self.ITextInstance {},
 	Button: class extends self.ITextInstance {},
 	ToggleButton: class extends self.ITextInstance {}
 }

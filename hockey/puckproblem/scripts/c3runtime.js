@@ -1561,6 +1561,54 @@ self.C3_ExpressionFuncs = [
 		},
 		() => 18,
 		() => 10,
+		() => 2,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.1) * (v1.GetValue() / 10));
+		},
+		() => 14,
+		() => 11,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.2) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.3) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.4) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.5) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.6) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.7) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.8) * (v1.GetValue() / 10));
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => ((f0() + 0.9) * (v1.GetValue() / 10));
+		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => (f0() % 10);

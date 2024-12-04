@@ -1510,9 +1510,8 @@ self.C3_ExpressionFuncs = [
 		() => "Temp",
 		p => {
 			const n0 = p._GetNode(0);
-			const n1 = p._GetNode(1);
-			const v2 = p._GetNode(2).GetVar();
-			return () => (Math.pow((n0.ExpInstVar() / n1.ExpInstVar()), 2) * (v2.GetValue() * (1 / 5)));
+			const v1 = p._GetNode(1).GetVar();
+			return () => (Math.pow((n0.ExpInstVar() / 4000), 2) * (v1.GetValue() * (1 / 5)));
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();

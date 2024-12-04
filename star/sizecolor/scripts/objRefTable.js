@@ -105,7 +105,6 @@ self.C3_JsPropNameTable = [
 	{Text: 0},
 	{ButtonFilter: 0},
 	{TempOut: 0},
-	{Star: 0},
 	{Halo: 0},
 	{Button: 0},
 	{ToggleButton: 0},
@@ -146,7 +145,6 @@ self.InstanceType = {
 	Text: class extends self.ITextInstance {},
 	ButtonFilter: class extends self.ITextInstance {},
 	TempOut: class extends self.ISpriteInstance {},
-	Star: class extends self.ISpriteInstance {},
 	Halo: class extends self.ISpriteInstance {},
 	Button: class extends self.ITextInstance {},
 	ToggleButton: class extends self.ITextInstance {}

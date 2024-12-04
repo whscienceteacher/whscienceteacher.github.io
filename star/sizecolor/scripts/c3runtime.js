@@ -1569,7 +1569,7 @@ self.C3_ExpressionFuncs = [
 			return () => f0((f1(0, f2(255, (329.698727446 * Math.pow(((n3.ExpInstVar() / 100) - 60), (-0.1332047592))))) * v4.GetValue()), (f5(0, f6(255, (288.1221695283 * Math.pow(((n7.ExpInstVar() / 100) - 60), (-0.0755148492))))) * v8.GetValue()), (255 * v9.GetValue()));
 		},
 		() => 4,
-		() => 0.4,
+		() => 0.6,
 		() => "Remove Filter",
 		() => "Add\nFilter",
 		() => "ToggleButton",

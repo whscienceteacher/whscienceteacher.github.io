@@ -2,14 +2,45 @@ html, body {
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
-	
+	height: 100%;
+}
+
+body {
 	background: #000000;
 	color: white;
 }
 
 html, body, canvas {
-	touch-action: none;
 	touch-action-delay: none;
+	touch-action: none;
+}
+
+canvas, .c3htmlwrap {
+	position: absolute;
+}
+
+.c3htmlwrap {
+	contain: strict;
+}
+
+.c3overlay {
+	pointer-events: none;
+}
+
+.c3htmlwrap[interactive] > * {
+	pointer-events: auto;
+}
+
+/* HACK - work around elements being selectable only in iOS WKWebView for some reason */
+html[ioswebview] .c3htmlwrap,
+html[ioswebview] canvas {
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+html[ioswebview] .c3htmlwrap > * {
+	-webkit-user-select: auto;
+	user-select: auto;
 }
 
 #notSupportedWrap {
@@ -61,14 +92,20 @@ html, body, canvas {
 	content: " • ";
 }
 
-
-@font-face {
-	font-family: 'selawkl';
-	src: url('fonts/selawkl.ttf') format('truetype');
+/* For text icons converted to HTML: size the height to the line height
+   preserving the aspect ratio. Also add position: relative as that allows
+   just adding a 'top' style for the iconoffsety style. */
+.c3-text-icon {
+	height: 1em;
+	width: auto;
+	position: relative;
 }
 
-@font-face {
-	font-family: 'cascadiamono-semilight';
-	src: url('fonts/cascadiamono-semilight.otf') format('opentype');
+/* screen reader text */
+.c3-screen-reader-text {
+	position: absolute;
+	width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
 }
-

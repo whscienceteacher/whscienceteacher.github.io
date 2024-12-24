@@ -1,6 +1,6 @@
 {
-	"name": "Wordle Helper",
-	"short_name": "Wordle Helper",
+	"name": "Word Guess Helper",
+	"short_name": "Word Guess Helper",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

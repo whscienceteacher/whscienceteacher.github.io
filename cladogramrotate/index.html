@@ -44,6 +44,6 @@ if (location.protocol.substr(0, 4) === "file")
 	<script src="scripts/offlineclient.js" type="module"></script>
 	<script src="scripts/main.js" type="module"></script>
 	<script src="scripts/register-sw.js" type="module"></script>
-
+<script> document.addEventListener('keydown', function(event) { if (event.key === 'Tab') { event.preventDefault(); // Add your custom Tab key functionality here } }); </script>
 </body> 
 </html>

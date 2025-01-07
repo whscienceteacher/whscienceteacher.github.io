@@ -1,0 +1,2 @@
+name: Check deployed size 
+run: du -sh .

@@ -1,6 +1,6 @@
 {
-	"name": "Test Clock",
-	"short_name": "Test Clock",
+	"name": "Von Steuben Test Clock",
+	"short_name": "Von Steuben Test Clock",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
@@ -37,5 +37,6 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"screenshots": []
 }

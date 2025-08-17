@@ -10,6 +10,10 @@ body {
 	color: white;
 }
 
+input[type="file"] {
+	color: black;
+}
+
 html, body, canvas {
 	touch-action-delay: none;
 	touch-action: none;
@@ -27,7 +31,7 @@ canvas, .c3htmlwrap {
 	pointer-events: none;
 }
 
-.c3htmlwrap > * {
+.c3htmlwrap[interactive] > * {
 	pointer-events: auto;
 }
 

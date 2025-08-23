@@ -20,11 +20,11 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Histology Slides of Epithelium](/histology/epithelium/) - **Cells** - Shows different types of epithelial cells: simple cuboidal, simple columnar, and squamous. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
-[Histology of Eukaryotes](./histology/eukaryote/) - **Cells** - Microscope slides of animal and plant tissues. Allows multiple zoom levels. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain.
+[Histology of Eukaryotes](/histology/eukaryote/) - **Cells** - Microscope slides of animal and plant tissues. Allows multiple zoom levels. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain.
 
 [Onion Root Tip Slides](/onionroot/index.html) - **Cells** - Shows onion root tip slides. Start with a macro picture of green onions and zoom in on two roots at 40x and 100-400x. Slides are chosen to show stages of mitosis clearly. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
-[Macromolecules Testting](./macrotest/) - **Biochem** - Students can simulate some common tests for carbohydrates, protein, and fat on different foods. Also available in a [simplified version](./macrotest/mod/)) with fewer foods and tests.
+[Macromolecules Testting](/macrotest/) - **Biochem** - Students can simulate some common tests for carbohydrates, protein, and fat on different foods. Also available in a [simplified version](/macrotest/mod/)) with fewer foods and tests.
 
 [Peppered Moths](/pepperedmoths/) - **Evolution** - Classic peppered moth experiment with a graph to show directional and stabilizing selection. User taps moths to eat them. After half are eaten the simulation automatically counts and reproduces them with a small amount of mutation. The simulation shows can show clean trees or sooty trees, or the user can change the darkness.
 

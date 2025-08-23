@@ -25,13 +25,20 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Rusting](/rusting/) - **Reactions** - Simulates rusting at different temperatures and environments and for different shapes. Shows the molecules. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
+[Simple Reaction Rates](./reactionrate/simpleparticles/) - **Reactions** - Simple simulation of two abstract types of particles in a chemical reaction at different temperatures. It represents the activation energy to show that the reaction won't happen at lower temperatures. 
+cooking
+
+[Smell Diffusion](./smelldiffusion/) - **Particle Nature** - Inject smell molecules and see how the odor diffuses across a room. Allows students to look at it at a macro scale or at the particle level. I use this in physics to get students to see velocity can apply to anything. 
+
 [Temperature Solids](/temperaturesolids/) - **Heat** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
 
 [Water Temperature](/watertemperature/) - **Heat** - Place a small beaker of water into a larger dish of water. Can control the initial temperatures and volumes. Shows the temperature over time. Can export data as csv. 
 
 ### Measurement or Problems
 
-*None yet, but if you think of some that might be good, let me know.*
+*None yet that are really chemistry, but if you think of some that might be good, let me know.*
+
+[Scientific Notation Practice](./scinot/) - **General** - Generates random numbers in scientific notation and asks students to convert to standard notation (or visa versa). Keeps track of the number they got correct in a row. Uses e notation since that's what online calculators use but also understands and mixes in x10^.
 
 ### Diagram Makers
 Sometimes it's easier for me to make an app once rather than make 100 versions of a diagram.

@@ -21,3 +21,5 @@
 [Alright who has the best teacher award? I need to give it to this teacher. What did he do? He created apps that helps students with science! You found it? Good time for your award.](https://www.reddit.com/r/biology/comments/im3iey/ive_been_making_apps_for_my_own_class_for_years/g3yop6d/)
 
 [As a student who has learned almost all of these topics from a textbook, your apps would have been GREATLY appreciated. Extremely relevant and useful!](https://www.reddit.com/r/biology/comments/im3iey/ive_been_making_apps_for_my_own_class_for_years/g3yxzqj/)
+
+[Holy crap, these are awesome. So many of the online Sims I've found try to do too much, and end up being bloated and confusing. I love that these are designed to show one thing very effectively. I'll definitely be using these this year. Thank you!](https://www.reddit.com/r/ScienceTeachers/comments/1my691q/new_bio_chem_and_physics_simulations_and_some/naapf3w/)

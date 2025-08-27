@@ -6,15 +6,19 @@ The apps are sorted by content area and how you might use them. I want to help a
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
-[Bug In Meadow](/buginmeadow/) - **Evolution** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. 
+[Bacteria Slides](./bacteriaslides/) - **Biology** - Microscope slides of human digestive tissues. Allows multiple zoom levels. Pairs well with [Histology of Eukaryotes](https://whscience.org/histology/eukaryote/). I took the photos for this one, so they are... not the best. 
+
+[Bug In Meadow](/buginmeadow/) - **Evolution** - Replicates the common Bead Bug activity. click/tap the bugs on a meadow to eat half of them. Click "count" to see how many of each color survived and then have them reproduce. After several generations you see strong selection pressure based on the colors in th meadow. This is one of the first I made so it looks janky but it works better than any actual beads and cloth version I've seen. In the [Allele Version](./buginmeadow/allele/) there is a more accurate inheritance model. In [Three Version](./buginmeadow/three/) there are only three color bugs. 
 
 [Cell Scale]( /cellscale/) - **Cells** Shows a slide of human tissue at several zoom levels with labels for tissue, cell, nucleus, and DNA. Also includes an unlabeled plant cell with the same levels so students can find the same structures. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain.
 
 [Fish Population](/fishpopulation/) - **Evolution** - A population of fish live in a pool each with its own simulated genome. The fish's appearance depends (in an unrealistic way) on the genome. If two fish overlap with similar enough DNA, they will reproduce. In one pool, mutation will cause the population to drift over time. THe user can separate the fish into two pools and watch them diverge over time and then recombine them to see if they are two distinct species. 
 
-[Histology Slides of Bone, Cartilage, Tendon](/histology/connectivetissue/) - **Cells** Students zoom in on four slides. Solid Bone, Tendon, Hyaline Cartilage, and Fibrocartilage. I could probably add elastic cartilage if there was demand but I am not talking about it with my students so I left it off. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+[Histology Slides of Bone, Cartilage, Tendon](/histology/bone/) - **Cells** Students zoom in on four slides. Solid Bone, Tendon, Hyaline Cartilage, and Fibrocartilage. I could probably add elastic cartilage if there was demand but I am not talking about it with my students so I left it off. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
 [Histology Slides of Connective Tissue](/histology/connectivetissue/) - **Cells** - Shows different types of irregular connective tissue: Dense, reticular, areloar, and white adipose. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. Please let me know if the labels are wrong. It's been a long time since I took histology and I couldn't find my textbook. 
+
+[Histology Slides of Digestive Tissue](./histology/digestive/) - **Biology** - Microscope slides of human digestive tissues. Allows multiple zoom levels.
 
 [Histology of Epidermis](histology/epidermis/) - **Cells** - Microscope slides of epidermis and a hair folicle. Allows several zoom levels. Not as high quality as some of the other histology apps I offer. If anyone has higher quality photomicroscopy, let me know.
 
@@ -28,7 +32,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Peppered Moths](/pepperedmoths/) - **Evolution** - Classic peppered moth experiment with a graph to show directional and stabilizing selection. User taps moths to eat them. After half are eaten the simulation automatically counts and reproduces them with a small amount of mutation. The simulation shows can show clean trees or sooty trees, or the user can change the darkness.
 
-[Saw Whet Owls Carrying Capacity](/sawwhetowl/) - **Ecology** - Tiny owls eat mice at night and then sleep during the day. During the day, hawks eat the owls unless they can find a safe place to hide. I made this to give my students a way to discover the idea of carrying capacity based on multiple factors, in this case food and shelter. Students can change the number of hollow trees and mice and see how the owl population changes over time. Not my prettiest but it did get the job done. 
+[Saw Whet Owls Carrying Capacity](/sawwhetowl/) - **Ecology** - Simulation of carrying capacity. Tiny owls eat mice at night and then sleep during the day. During the day, hawks eat the owls unless they can find a safe place to hide. I made this to give my students a way to discover the idea of carrying capacity based on multiple factors, in this case food and shelter. Students can change the number of hollow trees and mice and see how the owl population changes over time. Not my prettiest but it did get the job done. 
 
 ### Model Builders
 

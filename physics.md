@@ -32,7 +32,9 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Curling Quiz](/curlingquiz/) - **Measurement/Problems** - Shows a curling stone sliding across the screen. Current time and velocity are shown. 
 
-[Distance Table Graph](/distancetablegraph/) - **Physics** - Drag and drop a truck and see the distance vs. time data it produces. Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) and [Velocity Table Graph Relative](/velocitytablegraph/). 
+[Distance Table Graph](/distancetablegraph/) - **Measurement/Problem**** - Drag and drop a truck and see the distance vs. time data it produces. Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Simple](/velocitytablegraph/simple/) and [Velocity Table Graph Relative](/velocitytablegraph/). 
+
+[Drive Around](./drivearound/) - **Measurement/Problem** - This started as a prototype for a game but makes a great high level activity where students drive a car and figure out how to use it to calculate various things like the top speed of the car and the length of a road. Very open ended. Drive with arrow keys. ←→ to turn while moving. ↑ for gas. ↓ for brakes and reverse. 
 
 [Kayak Quiz](/kayakquiz/) - **Measurement/Problem** - Shows a dot tracking a kayak on a long trip along with the time in several units. Students can pause but have no other tools or controls. I challenged my students to estimate the speed of the kayak and decide if it changes. 
 [Hockey Puck Problem](/hockey/puckproblem/) - **Physics** - An animation of a hockey puck sliding across ice marked with cm marks. The puck has a small negative acceleration. I added controls for the marks so they are visible on low quality screens. 
@@ -54,6 +56,8 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Pendulum](/pendulum/) - **Lab/Phenomenon** - Change the mass and string length of a pendulum and watch it swing. Height and velocity shown on screen. Students can measure the period by hand with a built in stopwatch. Data can be exported as csv. Also available [with damping](/pendulumdamped/) and in a [simpler version](/pendulumsimple/) without velocity and data export. 
 
+[Parachute Experiment](./parachuteexperiment/) - **Lab/Phenomenon** - Students can manipulate the design of a parachute on a box and are given the velocity. Simple simulation to help look for patterns. Pairs well with a discussion of the forces. 
+
 [Relative Car Velocity](/relativecarvelocity/) - **Lab/Phenomenon** - Change the velocity of a car and a truck to be faster/slower and forward/back. The app shows a table showing the velocity vs. time of each vehicle and the relative velocity. See [Velocity Table Graph Relative](/distancetablegraph/) for a drag and drop version with a graph. 
 
 [Position Velocity Graph](/positionvelocitygraph/) - **Lab/Phenomenon** - Drag a car around the screen and see the position vs. time and velocity vs. time graphs. There is some smoothing to simplify the motion and help make the graphs more clear. Works best with touch but functions with mouse. 
@@ -62,7 +66,11 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Sleigher](/sleigher/) - **Game** - Silly game of delivering presents. Players compete to try and land their sleigh on the house by changing its launch angle and velocity. 
 
-[VectARRR](/vectarrr/) - **Game** - Silly digital board game. Learn vector addition/subtraction on the high seas. Race to the island with the buried treasure by adding and subtracting from the available vectors. X marks the spot. AAARRRR!
+[VectARRR](/vectarrr/) - **Game** - Silly digital board game. Learn vector addition/subtraction on the high seas. Race to the island with the buried treasure by adding and subtracting from the available vectors. The main gain is two player but there is also [VectARRR with AI](./vectarrr/AI/). X marks the spot. AAARRRR!
+
+[Vector - make components](./vector/makecomponents/) - **Math/Physics** - Gives a vector with an angle and magnitude and students must give the horizontal and vertical components. The main version gives the angle drawn in any way. There is also a [version that always represents the angle as acute.](./vector/makecomponents/acute/)
+
+[Vehicle Test](./vehicletest/) - **Measurement/Problem** - Creates distance or velocity graphs of a car and a truck along with an animation of them driving across the screen. Click on the graphs for point-by-point data. Students can calculate many things including acceleration and average velocity.
 
 [Velocity Table Graph Simple](/distancetablegraph/) - **Lab/Phenomenon** - Drag and drop a truck and see its velocity vs time data.  Visualize the data as a graph and table. Students can download the data as a csv. See also [Velocity Table Graph Relative](/velocitytablegraph/relative/) that adds a car so see relative velocities. 
 
@@ -78,7 +86,9 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Stick Figure](/stickfigure) - **Diagram Maker** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
+[Tortoise and Hare](.tortoiseandhare/) - **Lab/Phenomenon** - Pixel art animation of the tortoise and hare race on a grid for students to calculate things like average velocity or point velocities. 
 
+[Tree Grow Animation](./tree/growanimation/) - **Lab/Phenomenon** - We often get stuck thinking physics is only useful for objects moving around but the same basic equations are great for many things. I use this to help students apply the equations of 'motion' to different looking phenomena. [Second Version](./tree/growanimation2/) and [Third Version](./tree/growanimation/). I am aware this is not how trees grow but it was a lot quicker to make than a more realistic version.
 
 ### Force and Momentum <a name="force"></a> <a name="momentum"></a>
 [Air Cannon Momentum](/aircannon/momentum/) - **Lab/Phenomenon** - Simple air cannon. Students can control the muzzle velocity and mass of an air cannon projectile. This version collects momentum vs mass data. The app has some randomness so students can practice their analyzing and interpreting data skills. Data can be downloaded as csv.

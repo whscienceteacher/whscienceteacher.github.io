@@ -86,7 +86,7 @@ Note: many [earth & space apps](earthspace.md) may be helpful in a physics class
 
 [Stick Figure](/stickfigure) - **Diagram Maker** - I use a lot of dynamic stick figures to illustrate a motion I am describing in writing. semi detailed stick figures with two-segment arms and legs can really help demonstrate what is happening. This app helps making them easier. 
 
-[Tortoise and Hare](.tortoiseandhare/) - **Lab/Phenomenon** - Pixel art animation of the tortoise and hare race on a grid for students to calculate things like average velocity or point velocities. 
+[Tortoise and Hare](./tortoiseandhare/) - **Lab/Phenomenon** - Pixel art animation of the tortoise and hare race on a grid for students to calculate things like average velocity or point velocities. 
 
 [Tree Grow Animation](./tree/growanimation/) - **Lab/Phenomenon** - We often get stuck thinking physics is only useful for objects moving around but the same basic equations are great for many things. I use this to help students apply the equations of 'motion' to different looking phenomena. [Second Version](./tree/growanimation2/) and [Third Version](./tree/growanimation/). I am aware this is not how trees grow but it was a lot quicker to make than a more realistic version.
 

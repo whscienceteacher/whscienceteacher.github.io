@@ -157,7 +157,7 @@ cooking
 
 [Tree Grow Animation](./tree/growanimation/) - **Physics** - We often get stuck thinking physics is only useful for objects moving around but the same basic equations are great for many things. I use this to help students apply the equations of 'motion' to different looking phenomena. [Second Version](./tree/growanimation2/) and [Third Version](./tree/growanimation/). I am aware this is not how trees grow but it was a lot quicker to make than a more realistic version. 
 
-[Tortoise and Hare](.tortoiseandhare/) - **Physics** - Pixel art animation of the tortoise and hare race on a grid for students to calculate things like average velocity or point velocities. 
+[Tortoise and Hare](./tortoiseandhare/) - **Physics** - Pixel art animation of the tortoise and hare race on a grid for students to calculate things like average velocity or point velocities. 
 
 [Two Speakers](/twospeakers/) - **Physics** - Listen to the sound from two speakers at different places and see a transverse version of the recorded wave. The user can move the microphone and change the frequency and amplitude of the sound from the two speakers. The simulation shows rings for the peaks and troughs from each speaker. I apologize for the clicking sound you hear, especially when moving the microphone. 
 

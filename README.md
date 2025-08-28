@@ -192,7 +192,7 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Bond Energy Happiness](/bondenergyhappiness/) - **Biology/Chemistry** - This is my attempt at dispelling the common misconception that breaking bonds releases energy. I tried to make it clear that it is the reforming of more stable bonds that release energy. 
 
-[Earth Moon Sun Game](./earthmoonsun/game/ - **Space** - Gives the location of the Earth and Moon and students have to estimate the date and phase of the moon. This version is quite forgiving. 
+[Earth Moon Sun Game](./earthmoonsun/game/) - **Space** - Gives the location of the Earth and Moon and students have to estimate the date and phase of the moon. This version is quite forgiving. 
 
 [Earth Sun Moon Game](./earthsunmoon/game/) - **Space** - Gives random location of the Earth and Moon. Students have to give the phase of the moon and the part of the day the dot is in.  
 

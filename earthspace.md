@@ -41,7 +41,7 @@ These replicate something like you would get with a hands on lab. Students can c
 
 ### Practice and Measurement
 
-[Earth Moon Sun Game](./earthmoonsun/game/ - **Space** - Gives the location of the Earth and Moon and students have to estimate the date and phase of the moon. This version is quite forgiving. 
+[Earth Moon Sun Game](./earthmoonsun/game/) - **Space** - Gives the location of the Earth and Moon and students have to estimate the date and phase of the moon. This version is quite forgiving. 
 
 [Earth Sun Moon Game](./earthsunmoon/game/) - **Space** - Gives random location of the Earth and Moon. Students have to give the phase of the moon and the part of the day the dot is in.  
 

@@ -19,9 +19,9 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Moon View](./moon/view/) - **Space** - Simple animation showing the phase of the moon per day of the lunar cycle. Includes the time of day the moon is up and a realistic color of the sky to help students understand the moon is often visible during the day. 
 
-[Orbit Examples 1](/orbit1/) - **Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
+[Orbit Examples 1](/orbits1/) - **Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
 
-[Orbit Examples 2](/orbit2/) - **Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
+[Orbit Examples 2](/orbits2/) - **Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
 
 [Orbit Force](./orbitforce/simple/) - **Earth & Space** - Simple simulation of a circular orbit with a fixed distance to the star. Adjust the gravitational force to see how the orbital speed changes.   
 

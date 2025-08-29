@@ -77,9 +77,9 @@ cooking
 
 [Moon View](./moon/view/) - **Space** - Simple animation showing the phase of the moon per day of the lunar cycle. Includes the time of day the moon is up and a realistic color of the sky to help students understand the moon is often visible during the day. 
 
-[Orbit Examples 1](/orbit1/) - **Earth & Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
+[Orbit Examples 1](/orbits1/) - **Earth & Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
 
-[Orbit Examples 2](/orbit2/) - **Earth & Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
+[Orbit Examples 2](/orbits2/) - **Earth & Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
 
 [Planet Energy](/planetenergy/) - **Earth & Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/). You an also [change the location of the marker on Earth.](planetenergy/planetenergylocation.md)
 

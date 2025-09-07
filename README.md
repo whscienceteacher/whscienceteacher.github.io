@@ -201,6 +201,10 @@ cooking
 
 [Zodiac Location](/zodiac/locations/#lines) - **Space** - The Earth and Moon orbit with lines drawn in so students can see how the zodiac signs are defined. I have students look up their sun and moon sign and then take a screenshot showing the location of the Earth and Moon at the time of their birth. Also available in a version [without lines.](/zodiac/locations/)
 
+[Blood Splatter](https://whscience.org/bloodsplatter/) - **Forensics** - Simple simulated version of a blood splatter lab to get students thinking about basic independent and dependent variables. Has random variation in it.
+
+[Timing Investigation](https://whscience.org/timinginvestigation/) - **Other** - A few years ago I used this as a first investigation. I asked student to time how long it takes the dot to get from one line to another and be as accurate as possible. We discussed different approaches and collectively  clarified the goal. 
+
 ### Measurement or Problems
 Think of these as virtual practice problems. Students make measurements and calculate or figure something out. 
 

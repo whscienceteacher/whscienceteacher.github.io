@@ -9,11 +9,13 @@ The apps are sorted by content area and how you might use them. I want to help a
 ### Virtual Labs/Phenomena
 These replicate something like you would get with a hands on lab. Students can change things and see final velocities. 
 
-[Air Pressure Paper](/airpressurepaper/) - **Pressure** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. 
+[Air Pressure Paper](/airpressurepaper/) - **Pressure** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. Also available in a [Version](/airpressurepaper/N/) that allows students to control the number of air molecules. 
 
 [Balloon](/balloon/) - **Pressure** - Look for gas patterns using a particle model of an inflated balloon. Students can change the number of particles and the temperature and see how the size of the balloon changes. The balloon size depends on collisions with the particles, something the students can figure out through observation. I originally made this for astronomy, so the base version doesn’t show gas outside the balloon. There is a version showing the [balloon in an atmosphere](/balloon/atmo/) where the balloon only shrinks when hit by gas on the outside. There are also versions in °C for the [base version](/balloon/c/) and [atmosphere version](/balloon/atmo/c/). Note: This simulation does not try to accurately model temperature. It cannot be used for a mathematical representation of gas laws.  
 
 [Bond Energy Happiness](/bondenergyhappiness/) - **Energy and Bonds** - This is my attempt at dispelling the common misconception that breaking bonds releases energy. I tried to make it clear that it is the reforming of more stable bonds that release energy. 
+
+[Cooking](./cooking/) - **Chemistry** - Particle level sinulation of food in an oven to demonstrate how heat transfers from a gas to a solid. This is the only version of this I have, but the code is easy to extend to other situations if people are interested.
 
 [Heat Capacity](/heatcapacity/) - **Heat** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
@@ -30,13 +32,17 @@ cooking
 
 [Smell Diffusion](/smelldiffusion/) - **Particle Nature** - Inject smell molecules and see how the odor diffuses across a room. Allows students to look at it at a macro scale or at the particle level. I use this in physics to get students to see velocity can apply to anything. 
 
-[Temperature Solids](/temperaturesolids/) - **Heat** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
+[Temperature Solids](/temperaturesolids/) - **Heat** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. There is also a [finger version] where the second object is a finger touching wood or alluminum in case you are pairing it with activites where students touch different materials. 
 
 [Water Temperature](/watertemperature/) - **Heat** - Place a small beaker of water into a larger dish of water. Can control the initial temperatures and volumes. Shows the temperature over time. Can export data as csv. 
 
 ### Measurement or Problems
 
-*None yet that are really chemistry, but if you think of some that might be good, let me know.*
+*Not many yet that are really chemistry, but if you think of some that might be good, let me know.*
+
+[Coulomb's Law Practice](./coulombslaw/practice/) - **Chemistry/Physics** - Shows two objects with + and - charges. Students count the charges, measure the distance between and calculate the force. Keeps track of number in a row they got right. I have them screenshot and turn in. [Add #calc on the end](./coulombslaw/practice/#calc) so that the answer box will do basic calculation for the students. In that version they can enter the Coulomb constant as 8.987e9 as part of their calculation. 
+
+[Molar Mass Calculator](./molarmasscalculator/) - **Chemistry** - Make a chemical formula and it will demonstrate how to calculate the molar mass. Made on commission.
 
 [Scientific Notation Practice](/scinot/) - **General** - Generates random numbers in scientific notation and asks students to convert to standard notation (or visa versa). Keeps track of the number they got correct in a row. Uses e notation since that's what online calculators use but also understands and mixes in x10^.
 

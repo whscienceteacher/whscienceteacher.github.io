@@ -26,6 +26,12 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Histology of Eukaryotes](/histology/eukaryote/) - **Cells** - Microscope slides of animal and plant tissues. Allows multiple zoom levels. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain.
 
+[Histology Slides of Muscle](/histology/muscle/) - **Cells** - Students zoom in on three slides of different types of muscle tissue. Start with a 10x slide and zoom in to 40x-400x micrographs. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
+[Histology Slides of Nervous Tissue](/histology/nervous/) - **Cells** - Students zoom in on two slides of vervous tissue. Start with a 10x slide and zoom in to 40x-200x micrographs. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
+[Microarray](./microarray) - **Genetics** - Use a micropipette to test gene response in several tissue types. Made on commission
+
 [Onion Root Tip Slides](/onionroot/index.html) - **Cells** - Shows onion root tip slides. Start with a macro picture of green onions and zoom in on two roots at 40x and 100-400x. Slides are chosen to show stages of mitosis clearly. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
 [Macromolecules Testting](/macrotest/) - **Biochem** - Students can simulate some common tests for carbohydrates, protein, and fat on different foods. Also available in a [simplified version](/macrotest/mod/)) with fewer foods and tests.
@@ -56,6 +62,8 @@ Think of these as virtual practice problems. Students make measurements and calc
 [DNA to Protein](/dnatoprotein/) - **Genetics** - Students Transcribe and Translate a sequence of DNA and then see the amino acid chain fold into a protein. The app keeps track of how many they complete in case you want to use it for homework. You can either use randomly generated sequences or four built in segments taken from the four subparts of hemoglobin. Once students complete all four protein subparts, they can see the assembly of the whole protein. Sickle celled hemoglobin is also shown so they can compare how a point mutation changes the shape of the final protein and cell. There is also a [version for practice without hemoglobin](/dnatoprotein/practice/) and a [practice version with much shorter sequences.](/dnatoprotein/practice/mod/)
 
 [Gel and Restriction Enzymes](/gelre/) - **Genetics** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
+
+[Microscope Label](./draglabel/microscope/) - **Biology** - Drag the parts of a microscope onto a diagram. It will check your work. Made on commission. The code for dragging labels is easy to put on a different image if anyone has a request. 
 
 [Transcription and Translation](/transcriptiontranslation/) - **Genetics** - Move base pairs around to transcribe off an open DNA sequence and then act as tRNA and bring in the right amino acid using a chart. I'm going to be honest. This app is so old I don't really remember making it but I tested it out and it seems to work fine. **There is a new, cleaner version of this that also show protein folding. See Dna to Protein above**
 

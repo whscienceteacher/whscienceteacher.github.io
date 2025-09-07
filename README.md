@@ -28,11 +28,19 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Histology Slides of Connective Tissue](/histology/connectivetissue/) - **Biology** - Shows different types of irregular connective tissue: Dense, reticular, areloar, and white adipose. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. Please let me know if the labels are wrong. It's been a long time since I took histology and I couldn't find my textbook. 
 
+
+
 [Histology of Epidermis](/histology/epidermis/) - **Biology** - Microscope slides of epidermis and a hair folicle. Allows several zoom levels. Not as high quality as some of the other histology apps I offer. If anyone has higher quality photomicroscopy, let me know.
 
 [Histology Slides of Epithelium](/histology/epithelium/) - **Biology** - Shows different types of epithelial cells: simple cuboidal, simple columnar, and squamous. Start with a 10x slide and zoom in to 40x-200x micrographs. Pointers show clear examples of the cell types. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
 
 [Histology of Eukaryotes](/histology/eukaryote/) - **Biology** - Microscope slides of animal and plant tissues. Allows multiple zoom levels. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain.
+
+[Histology Slides of Muscle](/histology/muscle/) - **Biology** - Students zoom in on three slides of different types of muscle tissue. Start with a 10x slide and zoom in to 40x-400x micrographs. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
+[Histology Slides of Nervous Tissue](/histology/nervous/) - **Biology** - Students zoom in on two slides of vervous tissue. Start with a 10x slide and zoom in to 40x-200x micrographs. Big thank you to [Berkshire Community College Bioscience Image Library](http://blogs.berkshirecc.edu/bccoer/) for releasing their microscopy photos in the public domain. 
+
+[Microarray](./microarray) - **Biology** - Use a micropipette to test gene response in several tissue types. Made on commission
 
 [Macromolecules Testting](/macrotest/) - **Biology** - Students can simulate some common tests for carbohydrates, protein, and fat on different foods. Also available in a [simplified version](/macrotest/mod/)) with fewer foods and tests.
 
@@ -40,11 +48,13 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Peppered Moths](/pepperedmoths/) - **Biology** - Classic peppered moth experiment with a graph to show directional and stabilizing selection. User taps moths to eat them. After half are eaten the simulation automatically counts and reproduces them with a small amount of mutation. The simulation shows can show clean trees or sooty trees, or the user can change the darkness.
 
-[Saw Whet Owls Carrying Capacity](/sawwhetowl/) - **Ecology** - Simulation of carrying capacity. Tiny owls eat mice at night and then sleep during the day. During the day, hawks eat the owls unless they can find a safe place to hide. I made this to give my students a way to discover the idea of carrying capacity based on multiple factors, in this case food and shelter. Students can change the number of hollow trees and mice and see how the owl population changes over time. Not my prettiest but it did get the job done.  
+[Saw Whet Owls Carrying Capacity](/sawwhetowl/) - **Biology** - Simulation of carrying capacity. Tiny owls eat mice at night and then sleep during the day. During the day, hawks eat the owls unless they can find a safe place to hide. I made this to give my students a way to discover the idea of carrying capacity based on multiple factors, in this case food and shelter. Students can change the number of hollow trees and mice and see how the owl population changes over time. Not my prettiest but it did get the job done.  
 
-[Air Pressure Paper](/airpressurepaper/) - **Chemistry/Physics** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. 
+[Air Pressure Paper](/airpressurepaper/) - **Chemistry/Physics** - Very simple simulation of air particles hitting a paper. Drag the right edge of the paper to change its size.  Measures the width of the paper and the number of hits per second. I once started the year with trying to flip a ruler with a single sheet of news paper on it. This simulation helped the students make sense of why the news paper is able to stop the ruler if it is flat but not if it is folded up. Text is huge because I used it on a projector as a whole class. Also available in a [Version](/airpressurepaper/N/) that allows students to control the number of air molecules. 
 
 [Balloon](/balloon/) - **Chemistry** - Look for gas patterns using a particle model of an inflated balloon. Students can change the number of particles and the temperature and see how the size of the balloon changes. The balloon size depends on collisions with the particles, something the students can figure out through observation. I originally made this for astronomy, so the base version doesn’t show gas outside the balloon. There is a version showing the [balloon in an atmosphere](/balloon/atmo/) where the balloon only shrinks when hit by gas on the outside. There are also versions in °C for the [base version](/balloon/c/) and [atmosphere version](/balloon/atmo/c/). Note: This simulation does not try to accurately model temperature. It cannot be used for a mathematical representation of gas laws.  
+
+[Cooking](./cooking/) - **Chemistry** - Particle level sinulation of food in an oven to demonstrate how heat transfers from a gas to a solid. This is the only version of this I have, but the code is easy to extend to other situations if people are interested.
 
 [Heat Capacity](/heatcapacity/) - **Chemistry/Physics** - Heat or cool metal balls of different sizes and materials and put it in water to measure the change in water temperature. You can watch visually or export a data series as csv. 
 
@@ -61,7 +71,7 @@ cooking
 
 [Smell Diffusion](/smelldiffusion/) - **Chemistry/Physics** - Inject smell molecules and see how the odor diffuses across a room. Allows students to look at it at a macro scale or at the particle level. I use this in physics to get students to see velocity can apply to anything.
 
-[Temperature Solids](/temperaturesolids/) - **Chemistry/Physics** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. 
+[[Temperature Solids](/temperaturesolids/) - **Chemistry/Physics** - Simulates the movement of particles in two solids at different temperatures. You can change the size of each solid (number of particles) and starting temperature and you can drag them to touch or not touch. You see a graph of their temperature over time. I made this for a friend so I haven't used it personally, but It has been tested by a number of chemistry teachers. There is also a [finger version] where the second object is a finger touching wood or alluminum in case you are pairing it with activites where students touch different materials. 
 
 [Water Temperature](/watertemperature/) - **Chemistry** - Place a small beaker of water into a larger dish of water. Can control the initial temperatures and volumes. Shows the temperature over time. Can export data as csv. 
 
@@ -81,7 +91,25 @@ cooking
 
 [Orbit Examples 2](/orbits2/) - **Earth & Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
 
+[Orbit Force](./orbit/force/simple/) - **Physics/Space** - Change the force of gravity holding a planet in and orbit with a fixed radius and see how it affects the speed needed to keep it in orbit. Very simple, just to see the pattern.
+
+[Orbit Planet](./orbit/planet/) - **Physics/Space** - Students can change the starting distance and velocity of a planet around the sun and then see the shape of the orbit. 
+
+[Orbit Quiz Choices](./orbit/quizchoices/) and [Orbit Quiz Choices 2](./orbit/quizchoice2/) - **Physics/Space** - A set of animations showing two planets orbiting a sun. Students have to pick which is most realistic and explain why. 
+
+[Orbit Sweep](/kepler2/) - **Earth & Space** - Eliptical orbit showing a line sweeping out an area. Students can use a ruler to measure triangles to check that the area per time is constant. 
+
+[Orbit Values](./orbitvalues/) - **Physics/Space** - Drag the location of the planet and use sliders to set the starting velocity and angle. I set 'challenges' like get a circular orbit, get a very non circular orbit, get an orbit at an angle where it is closest to the sun on the opposite side from where it starts. 
+
+[Orbit War](./orbit/war/) - **Physics/Space** - Two player, one device game. Each player has a planet. They take turns shooting asteroids at the other planet by setting the velocity and angle of fire. Students need a good understanding of the patterns of orbits to win this game consistently.
+
+[Planets and Moons](./planetsandmoons/) - **Physics/Space** - Shows the Moon/Earth in orbit and Pluto/Charon in orbit so that students can notice that both the planet and the moon move depending on the ratio of the masses. See also the Two Body Orbit simulations below. 
+
 [Planet Energy](/planetenergy/) - **Earth & Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/). You an also [change the location of the marker on Earth.](planetenergy/planetenergylocation.md)
+
+[Space Cannon](./spacecannon/h/) - **Physics/Space** - Demonstration of a popular way to visualize orbits. Students control a cannon on a stupendously long tower. They can fire from different heights above the surface and different speeds and try to make a stable orbit. 
+
+[Two Body Orbit](./twobodyorbit/) - **Physics/Space** - Two bodies in orbit around each other. In the base version, students can only change the mass of the two. In [this version,](./twobodyorbit/distance/) they can also change the distance between the bodies. There is also a [Sun and Planet](./twobodyorbit/sunandplanet/) version where one of the bodies is much more massive than the other. 
 
 [Air Cannon Momentum](/aircannon/momentum/) - **Physics** - Simple air cannon. Students can control the muzzle velocity and mass of an air cannon projectile. This version collects momentum vs mass data. The app has some randomness so students can practice their analyzing and interpreting data skills. Data can be downloaded as csv.
 
@@ -89,7 +117,9 @@ cooking
 
 [Ball on Ramp Data](/ballramp/data) - **Physics** - Similar to the app above but rewritten so that it can record data downloadable as csv. Students can practice finding patterns and their use of analyzing and interpreting data. In the main version, the ball rolls down the ramp and records the final velocity, but it is also availible in a version [rolling up the ramp](/ballramp/uprampdata/) where the ball has an an initial velocity and it records the height and where the ball can [roll up or down](ballramp/upordown) by giving the ramp a positive or negative height. 
 
-[Cannon](/cannon/) - **Physics** - Cannon that fires a ball. You can change the power of the cannon and the angle of fire. Students use a ruler to measure the range of the cannon and a stopwatch to measure air time. This version has a small amount of randomness in it so students can practice their analyzing and interpreting data but it doesn't stand in the way of seeing the patterns This version allows angles 10° to 40° so students see a simple increasing pattern. **Update: 2020-09-17** Now loads the right app. Also available with [high angles only (50° to 80°)](/cannon/full/) so students see a clear decreasing pattern and the [full range of angles(10° to 80°)](/cannon/full/). There is also a version with [more statistical noise](/cannon/noise/) and a full range of angles so students can focus on analyzing and interpreting data practice.
+[Bird Migration Test](./birdmigration/test/) - **Physics** - A dot representing a bird is shown moving from Menomonee Falls Wisconsin to Milwaukee to a point in Chicago. Students can use a timer to measure a realsitic migration speed. Based on a Brant goose I saw that was out of its normal range. According to e-bird it was seen several other places in Wisconsin the day before. 
+
+[Cannon](/cannon/) - **Physics** - Cannon that fires a ball. You can change the power of the cannon and the angle of fire. Students use a ruler to measure the range of the cannon and a stopwatch to measure air time. This version has a small amount of randomness in it so students can practice their analyzing and interpreting data but it doesn't stand in the way of seeing the patterns This version allows angles 10° to 40° so students see a simple increasing pattern. **Update: 2020-09-17** Now loads the right app. Also available with [high angles only (50° to 80°)](/cannon/high/) so students see a clear decreasing pattern and the [full range of angles(10° to 80°)](/cannon/full/). There is also a version with [more statistical noise](/cannon/noise/) and a full range of angles so students can focus on analyzing and interpreting data practice.
 
 [Cart and Pulley](/cartpulley/) - **Physics** - Cart attached to a string over a pulley with a weight on the end. It has basic directions on the screen. Also available  [without directions](/cartpulleynodirections).
 
@@ -188,7 +218,13 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Gel and Restriction Enzymes](/gelre/) - **Biology** - An old request of my wife's - Two simulations. The first is using restriction enzymes without sticky ends. The second is moving DNA segments a la gel electrophoresis. Keeps track of how many you have done. 
 
+[Microscope Label](./draglabel/microscope/) - **Biology** - Drag the parts of a microscope onto a diagram. It will check your work. Made on commission. The code for dragging labels is easy to put on a different image if anyone has a request. 
+
 [Transcription and Translation](/transcriptiontranslation/) - **Biology** - Move base pairs around to transcribe off an open DNA sequence and then act as tRNA and bring in the right amino acid using a chart. I'm going to be honest. This app is so old I don't really remember making it but I tested it out and it seems to work fine. **There is a new, cleaner version of this that also show protein folding. See Dna to Protein above**
+
+[Coulomb's Law Practice](./coulombslaw/practice/) - **Chemistry/Physics** - Shows two objects with + and - charges. Students count the charges, measure the distance between and calculate the force. Keeps track of number in a row they got right. I have them screenshot and turn in. [Add #calc on the end](./coulombslaw/practice/#calc) so that the answer box will do basic calculation for the students. In that version they can enter the Coulomb constant as 8.987e9 as part of their calculation. 
+
+[Molar Mass Calculator](./molarmasscalculator/) - **Chemistry** - Make a chemical formula and it will demonstrate how to calculate the molar mass. Made on commission.
 
 [Bond Energy Happiness](/bondenergyhappiness/) - **Biology/Chemistry** - This is my attempt at dispelling the common misconception that breaking bonds releases energy. I tried to make it clear that it is the reforming of more stable bonds that release energy. 
 
@@ -196,7 +232,7 @@ Think of these as virtual practice problems. Students make measurements and calc
 
 [Earth Sun Moon Game](./earthsunmoon/game/) - **Space** - Gives random location of the Earth and Moon. Students have to give the phase of the moon and the part of the day the dot is in.  
 
-[Acceleration Examples](/accelerationexamples/) - **Physics** - Many cars on screen showing different motions with acceleration. Each shows the distance and velocity graphs vs. time. I made many versions of this: [bus](/accelerationexamples/bus/), [bus2](/accelerationexamples/bus2/), [bus3](/accelerationexamples/bus3/).
+[Acceleration Examples](/accelerationexamples/) - **Physics** - Many cars on screen showing different motions with acceleration. Each shows the distance and velocity graphs vs. time. I made many versions of this: [bus](/accelerationexamples/bus/), [bus2](/accelerationexamples/bus2/), [bus3](/accelerationexamples/bus3/), [Acceleration Examples - Exit Ticket](./accelerationexamples/exitticket/).
 
 [Ants](/ants/) - **Physics** - Two ants run across the screen. Students use a ruler and stopwatch (included digitally) to find velocity and acceleration. It's like a physics problem but with a real moving object so all the quantities have meaning. There are many calculations that can be done of varying difficulty. [Ants II](/antsii/) has students estimate initial and final velocity by using sets of lines close together to see which ant has a higher acceleration. Ants II is also available with the [opposite outcome](/antsii/ii/) incase you want different sections to get different results. [Ants III](/antsiii/) shows both ants with constant velocitie. Students can use them to measure distance or see which ant is faster. Ants III is also available with the [opposite result](/antsiii/iii/) in case you want different sections to get different results. Some other versions for more practice: [Ant BR](/ants/br/) - [Ants IV](/ants/iv/) - [Ants V](/ants/v/) See website for many more versions. 
 

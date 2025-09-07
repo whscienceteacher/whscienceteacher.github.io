@@ -19,17 +19,27 @@ These replicate something like you would get with a hands on lab. Students can c
 
 [Moon View](./moon/view/) - **Space** - Simple animation showing the phase of the moon per day of the lunar cycle. Includes the time of day the moon is up and a realistic color of the sky to help students understand the moon is often visible during the day. 
 
-[Orbit Examples 1](/orbits1/) - **Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
+[Orbit Examples 1](/orbits1/) - **Earth & Space** - Shows four orbits around the Earth including low earth, geostationary, and very elliptical. Good for finding patterns in orbits.
 
-[Orbit Examples 2](/orbits2/) - **Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
+[Orbit Examples 2](/orbits2/) - **Earth & Space** - More examples of orbits. Shows a transfer orbit from a close to a far circular orbit. 
 
-[Orbit Force](./orbitforce/simple/) - **Earth & Space** - Simple simulation of a circular orbit with a fixed distance to the star. Adjust the gravitational force to see how the orbital speed changes.   
+[Orbit Force](./orbit/force/simple/) - **Physics/Space** - Change the force of gravity holding a planet in and orbit with a fixed radius and see how it affects the speed needed to keep it in orbit. Very simple, just to see the pattern.
+
+[Orbit Planet](./orbit/planet/) - **Physics/Space** - Students can change the starting distance and velocity of a planet around the sun and then see the shape of the orbit. 
+
+[Orbit Quiz Choices](./orbit/quizchoices/) and [Orbit Quiz Choices 2](./orbit/quizchoice2/) - **Physics/Space** - A set of animations showing two planets orbiting a sun. Students have to pick which is most realistic and explain why. 
 
 [Orbit Sweep](/kepler2/) - **Space** - Eliptical orbit showing a line sweeping out an area. Students can use a ruler to measure triangles to check that the area per time is constant. 
 
-[Orbit Values](./orbitvalues/) - **Earth & Space** - Drag a body around and adjust its initial velocity to see how its orbit changes. I ask students to try to produce a circular orbit than figure out how to make a single change that will make it elliptical starting at either perigee or apogee. 
+[Orbit Values](./orbitvalues/) - **Physics/Space** - Drag the location of the planet and use sliders to set the starting velocity and angle. I set 'challenges' like get a circular orbit, get a very non circular orbit, get an orbit at an angle where it is closest to the sun on the opposite side from where it starts. 
+
+[Orbit War](./orbit/war/) - **Physics/Space** - Two player, one device game. Each player has a planet. They take turns shooting asteroids at the other planet by setting the velocity and angle of fire. Students need a good understanding of the patterns of orbits to win this game consistently.
+
+[Planets and Moons](./planetsandmoons/) - **Physics/Space** - Shows the Moon/Earth in orbit and Pluto/Charon in orbit so that students can notice that both the planet and the moon move depending on the ratio of the masses. See also the Two Body Orbit simulations below. 
 
 [Planet Energy](/planetenergy/) - **Earth & Space** - Shows the Earth and Mercury change temperature over time. Mercury is hotter during the day but colder at night. I used this phenomenon to start a unit about climate change. Also available as a version that shows photons entering and leaving the planet: [Planet Energy With Light](/plantenergywithlight/). Versions in °C: [Without Light](/planetenergyc/) and [with Light](/planetenergywithlightc/). You an also [change the location of the marker on Earth.](planetenergy/planetenergylocation.md)
+
+[Space Cannon](./spacecannon/h/) - **Physics/Space** - Demonstration of a popular way to visualize orbits. Students control a cannon on a stupendously long tower. They can fire from different heights above the surface and different speeds and try to make a stable orbit. 
 
 [Storms](/storms/) - **Energy/Earth & Space** - Students change the temperature of the atmosphere and see the effect on clouds and wind. A very simplified version of a weather simulation. I used this as a summative assessment where students practiced finding patterns and then constructing explanations of why climate change causes more violent storms using ideas about kinetic and potential energy. [in °C.](/stormsc/)
 

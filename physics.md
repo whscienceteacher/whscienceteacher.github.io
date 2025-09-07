@@ -168,7 +168,7 @@ Simulations of energy in planets and the atmosphere can be found in the [Earth a
 
 [Wave Measure Simple](/wavemeasure/simple/) - **Measurement/Problem** - The app generates a wave. Students measure the wavelength and period using a digital ruler and stopwatch. There are fixed examples to do as a class and then randomly generated practice waves. See the [patreon post](https://www.patreon.com/posts/50026542) for the formula for the correct answer for the practice waves. 
 
-[Wave Measure Speed](wavemeasure/speed/) - **Measurement/Problem** - The app randomly generates a wave. Students measure the amplitude, wavelength, and period then calculate the frequency and speed. The students can enter their findings and the app will check whether they are right and give feedback. It also keeps track of number in a row and score.
+[Wave Measure Speed](/wavemeasure/speed/) - **Measurement/Problem** - The app randomly generates a wave. Students measure the amplitude, wavelength, and period then calculate the frequency and speed. The students can enter their findings and the app will check whether they are right and give feedback. It also keeps track of number in a row and score.
 
 [Wave Speed](/wave/speed/) - **Lab/Phenomenon** - Students change the tension and amplitude and then measure the resulting wave's period, wavelength and wave speed using digital meter sticks and stopwatch. Students can find patterns and mathematical relationships with wavespeed, frequency and wavelength. 
 

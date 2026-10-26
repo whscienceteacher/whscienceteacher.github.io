@@ -2,14 +2,58 @@ html, body {
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
-	
+	height: 100%;
+}
+
+body {
 	background: #000000;
 	color: white;
 }
 
+input[type="file"] {
+	color: black;
+}
+
+/* for scaling checkboxes according to the font size */
+.c3-auto-size-checkbox {
+	font-size: 1em;
+	width: 1em;
+	height: 1em;
+	vertical-align: bottom;
+	margin: 0.1em 0.25em;
+}
+
 html, body, canvas {
-	touch-action: none;
 	touch-action-delay: none;
+	touch-action: none;
+}
+
+canvas, .c3htmlwrap {
+	position: absolute;
+}
+
+.c3htmlwrap {
+	contain: strict;
+}
+
+.c3overlay {
+	pointer-events: none;
+}
+
+.c3htmlwrap[interactive] > * {
+	pointer-events: auto;
+}
+
+/* HACK - work around elements being selectable only in iOS WKWebView for some reason */
+html[ioswebview] .c3htmlwrap,
+html[ioswebview] canvas {
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+html[ioswebview] .c3htmlwrap > * {
+	-webkit-user-select: auto;
+	user-select: auto;
 }
 
 #notSupportedWrap {
